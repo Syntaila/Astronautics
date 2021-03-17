@@ -479,7 +479,7 @@
                     "__type__": "Note",
                     "fields": [
                         "First Spacewalk/ EVA:",
-                        "Alexei Leonov<div>März 1965 - 12 Minuten</div><div>-&gt; problems getting back in Spacecraft, risks his life, depressurizing his suit</div>",
+                        "Alexei Leonov<div>März 1965 - 12 Minuten</div><div>-&gt; problems getting back in Spacecraft, risks his life, depressurizing his suit</div><div><br></div><div>Ed White</div><div>Juni 1965 - 21 Minuten</div><div><br></div><div>Neil Armstrong und Buzz Aldrin</div><div>Juli 1969 - 2,5 Stunden</div>",
                         ""
                     ],
                     "guid": "pTR^LzNvVg",
@@ -501,7 +501,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie viele Spacewalks/EVA's gab es bis Dezember 2020/ Jan 2021?",
-                        "422",
+                        "422 Walks von 229 Spacewalkers",
                         ""
                     ],
                     "guid": "4q0@uG2@Z",
@@ -1682,7 +1682,7 @@
                     "fields": [
                         "Aufbau Orbiter des Space Transportation System:",
                         "<img src=\"paste-43541fbc228b37be02ccdb797454006ed9eac78c.jpg\">",
-                        ""
+                        "Steuerung durch differentiellen Schub"
                     ],
                     "guid": "jUlVAAldUY",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1693,7 +1693,7 @@
                     "fields": [
                         "Wie viele Shuttle Flights gab es?",
                         "<b>135</b>: 12.04.1981-21.07.2011",
-                        ""
+                        "28 Columbia<div>10 Challenger</div><div>29 Discovery</div><div>33 Atlantis</div><div>25 Endeavour</div>"
                     ],
                     "guid": "sJ%|lH@,,M",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1713,7 +1713,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welches war der erste Spacelbab&nbsp; flight?",
+                        "Welches war der erste Spacelbab flight?",
                         "STS-9 mit first Non-American in Shace Shuttle: Ulf Merboldt<div>1983 - 72 Experimente&nbsp;</div><div>Problems: Reaction Control System crash (4h bevore re-enrty), 2 APU units caught fire&nbsp;</div>",
                         "mit dabei außerdem John Young (Apollo 16)&nbsp;"
                     ],
@@ -1747,8 +1747,8 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Payloads hatte das Spaceshuttle?",
-                        "<b>Hubble</b>: 6 Flüge von 1990-2009<div><b>Gamma Ray Observatory</b>: 1991</div><div><b>Chandra Xray Observatory</b>: 1991, observe Universe, Gamma Ray Burst 1999</div><div><b>Magellan</b>: 1989 Venus Radar Mapping</div><div><b>Galileo</b>: 1989, Jupiter - 14 Jahre unterwegs, 3 Flybys - Mentioned Climate Change</div><div><b>Ulysses</b>: 1990, Sonne, Jupiter Flyby</div>",
-                        ""
+                        "<b>Spacelab 24 Flüge </b>(15 Module, 9 Pallets) (z.B. Spacelab-1, D1, D2)<div><br></div><div><b>Iss</b><br><div><br></div><div>Great Observatory Missions:<div><b>Hubble</b>: 6 Flüge von 1990-2009<div><b>Gamma Ray Observatory</b>: 1991</div><b>Chandra Xray Observatory</b>: 1991, observe Universe, Gamma Ray Burst 1999<div><b><br></b></div><div>Interplanetary Explorer Missions:</div><div><b>Magellan</b>: 1989 Venus Radar Mapping</div><div><b>Galileo</b>: 1989, Jupiter - 14 Jahre unterwegs, 3 Flybys - Mentioned Climate Change</div><div><b>Ulysses</b>: 1990, Sonne, Jupiter Flyby</div></div></div></div>",
+                        "Hubble hatte einen ungenauen Primärspiegel<div>2.-13.02.1993 wurde die Korrekturoptik mit 5 Spacewalks eingebaut</div><div>Danach: Wartungsarbeiten</div>"
                     ],
                     "guid": "B/w)MOO-B!",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1758,7 +1758,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wo landen die meisten Space Shuttles?",
-                        "- Kennedy Space Center (78)<div>- Edwards Airforce Base (54)</div><div>- White Sands (1)</div>",
+                        "- Kennedy Space Center (78)<div>- Edwards Airforce Base (54)</div><div>- White Sands (1) (Umgeleitet, eigentlich Edwards AFB)</div>",
                         ""
                     ],
                     "guid": "IWi!|4W}QI",
@@ -1775,6 +1775,17 @@
                     "guid": "l;pI46bgL!",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum hat die Trägerrake eine schiefe Flugbahn",
+                        "Weil das Shuttle seitlich festgemacht ist",
+                        "Da ist es im Notfall sicherer als an der Spitze"
+                    ],
+                    "guid": "ci,b4>?e!j",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
                 }
             ]
         }
@@ -1787,6 +1798,7 @@
             "autoplay": true,
             "crowdanki_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -1811,9 +1823,11 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 15,
+                "perDay": 30,
                 "separate": true
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": true,
@@ -1825,6 +1839,7 @@
                 "minSpace": 1,
                 "perDay": 75
             },
+            "reviewOrder": 0,
             "timer": 0
         }
     ],
@@ -1878,7 +1893,7 @@
                     0,
                     "any",
                     [
-                        0
+                        1
                     ]
                 ]
             ],
@@ -1886,7 +1901,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{answer-slide}}\n{{#answer-own-comment}}\n<hr id=answer>\n{{answer-own-comment}}\n{{/answer-own-comment}}\n\n",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{answer-own-comment}}\n\n<hr id=answer>\n\n\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{question}}",
@@ -1894,7 +1909,7 @@
                     "did": null,
                     "name": "Karte 1",
                     "ord": 0,
-                    "qfmt": "<div class=info>Stapel: {{Deck}}, Frage <br>\nTags: {{Tags}} \n</div> \n\n<br>\n{{question}}\n\n"
+                    "qfmt": "<div class=info>Stapel: {{Deck}}, Frage <br>\nTags: {{Tags}} \n</div> \n\n<br>\n{{answer-slide}}\n\n"
                 }
             ],
             "type": 0,
