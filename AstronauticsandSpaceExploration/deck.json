@@ -4,6 +4,815 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "dffa026e-84be-11eb-b949-fc4596679de3",
+            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-08a246918651e292c3cd895760d813b29d91d6db.jpg",
+                "paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg",
+                "paste-2a344cef58acb8a48c9bb748c7ed6ee4a1b33af4.jpg",
+                "paste-2c48476c702b5e119ef82c514fb77919df44261b.jpg",
+                "paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg",
+                "paste-31cd139af03fcb9c7a749d3bd4f1c600973f2361.jpg",
+                "paste-6a2dbc40b20e6378b086feae677300fe0232dd61.jpg",
+                "paste-8d4b66dc511fb84ac5cc549ac29dfa49afc83ec2.jpg",
+                "paste-a087fb612e61e6ca1b20cadc89e571e81251668c.jpg",
+                "paste-a9df0634bc3a39e8565c14eb68b3c1b9c6e7fd23.jpg",
+                "paste-d054d1f68a857417da2d74581e39c68063ff9677.jpg",
+                "paste-d54075664ddb66663c6c678d4c196196d2758dfa.jpg",
+                "paste-d68097850a0aa7e3071857d049b4c1021107dc5c.jpg",
+                "paste-f1a497984470d9f9714a4072c9bbcb9bc1d78893.jpg"
+            ],
+            "name": "3_EinführungundSoyuz",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geschichte der bemannten Raumfahrt:",
+                        "wichtiges:<div>-1961: Yuri Gagarin</div><div>-1962: John Glenn (erste Umlaufbahn)</div><div>-1965: Alexei Leonov (SpaceWalk)</div><div>-1965: Wladimir Komarow (first dead)</div><div>-1969: Mond Neil Armstrong, Buzz Aldrin, Michael Collins</div><div>-1986: Challenger Failure - Dichtungsringe</div>",
+                        "<img src=\"paste-31cd139af03fcb9c7a749d3bd4f1c600973f2361.jpg\">"
+                    ],
+                    "guid": "o?LfRIa]`z",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche ISS Crew Vehicles gab und gibt es?",
+                        "- SpaceShuttle (8) auf dem Space Transortation System<div>- Soyuz (3) auf Soyuz</div><div>- Crew Dragon (7) auf Falcon 9</div><div>- Starliner (7) auf Atlas V</div>",
+                        "<img src=\"paste-a9df0634bc3a39e8565c14eb68b3c1b9c6e7fd23.jpg\"><div><img src=\"paste-f1a497984470d9f9714a4072c9bbcb9bc1d78893.jpg\"><br></div>"
+                    ],
+                    "guid": "m:_NY-D=R]",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte beim ersten Soyuz Flug? Soyuz 1",
+                        "23. April 1967<div>Vladimir Komarov (1d 2h im Weltraum)</div><div>Problem: Fallschirm öffnete nicht-&gt; Kapsel beim Aufschlag zerstört</div>",
+                        "<img src=\"paste-a087fb612e61e6ca1b20cadc89e571e81251668c.jpg\">"
+                    ],
+                    "guid": "e.13uc#3%{",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte beim Flug der Soyuz 11?",
+                        "06 Juni 1971<div>Vladislav Volkov, Georgi Dobrovolski, Viktor Patsayev (23d)</div><div>Problem: Beschädigung Ventil beim Wiedereintritt, Druckabfall von 112 s -&gt; alle tot</div>",
+                        "<img src=\"paste-d54075664ddb66663c6c678d4c196196d2758dfa.jpg\">"
+                    ],
+                    "guid": "Om50[G+h[,",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erfolge der Soyuz:",
+                        "- Transport zur MIR<div>- immer noch aktiv</div><div>- Apollo Soyuz meet in Space</div>",
+                        ""
+                    ],
+                    "guid": "B[y^0IURt1",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie groß ist die Soyuz und wie schwer?",
+                        "50m<div>310 t</div>",
+                        "<div><img src=\"paste-6a2dbc40b20e6378b086feae677300fe0232dd61.jpg\"><br></div><img src=\"paste-8d4b66dc511fb84ac5cc549ac29dfa49afc83ec2.jpg\">"
+                    ],
+                    "guid": "utn.<c6y0H",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die Soyuz Kapsel aufgebaut?",
+                        "- <b>Orbital Module</b> mit Dockingadapter, 5m^2 Living room, Teleskop<div>- <b>Descent Module</b> mit 3,5m^2 Living room und allem für Wiedereintritt</div><div>- <b>Instrument Module</b> mit Electrical Power, Fuel Tanks, Soalr Panels, Antennas</div><div><br></div><div>7.48m auf D:2.72 mit 7220 kg</div>",
+                        "<img src=\"paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg\">"
+                    ],
+                    "guid": "zedRlMKF$9",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lange kann die Soyuz an der Iss bleiben und wieso ist diese zeit begrenzt?",
+                        "<b>180 Tage</b><div>Begrenzt durch <b>Battery Charge/rechage cycle</b></div>",
+                        ""
+                    ],
+                    "guid": "Ps&*jKg9jU",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Systeme der SOyuz sind auf Astronauten zugeschnitten?",
+                        "- <b>Spacesuit</b> (not for EVA, nur 2 1/2 h überleben)<div>- <b>Kazebek UM-Sitz</b> (reduziert BEschleunigungslasten, dämft Aufprall, Schalen individuell angepasst)</div>",
+                        "<img src=\"paste-2a344cef58acb8a48c9bb748c7ed6ee4a1b33af4.jpg\">"
+                    ],
+                    "guid": "iGVLj=&8<E",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist im Orbital Module der Soyuz enthalten?",
+                        "- <b>living room 4.8 m^2</b><div>- <b>Andockstutzen</b></div><div>- <b>Annäherungssystem KURS&nbsp;</b></div><div>- Bordtoilette, LCSS</div><div>- <b>Nutzlasten</b></div><div>- Einstiegsluke</div>",
+                        ""
+                    ],
+                    "guid": "mZJZ3BUks8",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist im Descent Module der Soyuz enthalten?",
+                        "- <b>3.5 m^2 living room</b><div>- 3 Sitze</div><div>- <b>Cockpit, Instrumente, Steuerung,</b> Periskop</div><div>- <b>Ablatives Hitzeschild</b></div><div>- <b>Fallschirmsystem</b></div><div>- Rücktransport von 100 kg Nutzlast in der Kapsel</div><div>- Cold Gas System mit N2</div>",
+                        ""
+                    ],
+                    "guid": "g{Wa.K({@R",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist im Instrument Module der Soyuz enthalten? (PAO)",
+                        "- <b>Antriebssystem mit Treibstoff und Drucktanks</b><div>- UDMH und NTO (880 kg Treibstoff)</div><div>- Main Engine SKD 1x</div><div>- Lageregelung DPO 28x</div><div>- <b>Solar Array </b>mit 10m^2 und 1 kW Leistung</div><div>- <b>Batterien</b></div><div>- <b>Funk Antenne</b></div><div>- Thermal Control System</div>",
+                        ""
+                    ],
+                    "guid": "LOd<Utw(mK",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lange braucht eine Soyuz bis in den Orbit nach dem Start? (Soyuz Insertion Timeline)",
+                        "ab <b>8.48 min</b> ist dritte Stage alleine bei<b> 208 km</b> -&gt; Orbital Phase",
+                        "<img src=\"paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg\">"
+                    ],
+                    "guid": "oE9a#y+Hit",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche g-Kräfte erfährt man während dem Start mit einer Soyuz?",
+                        "<b>max 4 g</b><div><img src=\"paste-08a246918651e292c3cd895760d813b29d91d6db.jpg\"><br></div>",
+                        "<img src=\"paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg\">"
+                    ],
+                    "guid": "C+6[Axz%!-",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist zuletzt etwas mit der Soyuz schief gelaufen?",
+                        "11. Okt 2018<div>Valve did not open - Problem with the Booster - stayed at the Rocket</div>",
+                        "<img src=\"paste-d68097850a0aa7e3071857d049b4c1021107dc5c.jpg\"><div><img src=\"paste-d054d1f68a857417da2d74581e39c68063ff9677.jpg\"><br></div>"
+                    ],
+                    "guid": "p>f`(sPl|D",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Orbits fliegt die Soyuz normalerweise, bevor sie an die MIR andockt?",
+                        "16 Orbits",
+                        "<img src=\"paste-2c48476c702b5e119ef82c514fb77919df44261b.jpg\">"
+                    ],
+                    "guid": "krU`d(8uMp",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "e000b4b0-84be-11eb-9ad1-fc4596679de3",
+            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-1128fdb3cef8ebef3b013e1b1fd4cf14aeced7c7.jpg",
+                "paste-235b87d35c5b9ab2143199f6b16fd2b29751410e.jpg",
+                "paste-3464660fb549f148f4c116feeda78318b9bfea42.jpg",
+                "paste-3601e0b3d1c73d670422c112e4521f90cfb323fd.jpg",
+                "paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg",
+                "paste-608a925e6619be422d979553ce3fe729c731a470.jpg",
+                "paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg",
+                "paste-77d1a12cea44ea09024d8afa83b16a8b0b77a4d1.jpg",
+                "paste-85f0ccaec120fa0a40dea4219f0672d600b93a57.jpg",
+                "paste-8b1d87ab2c72d80ede874504ba73c8532fe276dd.jpg",
+                "paste-ad17daf850a83bc7bfc34f544574dfc73f89c5e6.jpg",
+                "paste-b27647a3eb403dfef0582f560f0fa8ae2567b63a.jpg",
+                "paste-c50a3fcb47212a251566fb91adeac5565ff2ed4f.jpg",
+                "paste-d6b0f435d98893f9980d07241a38972d11333224.jpg",
+                "paste-dedb450075825b04bdd5613151f9b0f507da3ad4.jpg",
+                "paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg",
+                "paste-e7cb68c01644427cd06f8c6f6246e32910fbe0cd.jpg",
+                "paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg",
+                "paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg"
+            ],
+            "name": "4_HistoryofHumanSpaceflight",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche 11 deutschen Astronauten gibt es und wie viele waren auf der Soyuz und im Shuttle?",
+                        "<div>6 Soyuz, 7 Shuttle (+Furrer)</div><div>(Maurer),Gerst, Reiter, Messerschmidt,Ewald, Thiele,Walter, Schlegel, Flade,Merboldt, Jähn + Furrer</div><div><br></div><img src=\"paste-3601e0b3d1c73d670422c112e4521f90cfb323fd.jpg\">",
+                        ""
+                    ],
+                    "guid": "xqjZ_W87tE",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welche fünf Perioden lässt sich die Raumfahrt aufteilen?",
+                        "1. 1961-1972: Small Steps and Giant Leaps<div>2. 1971-1986: Eraly Space Stations</div><div>3. 1981-1991: Glory and Fall</div><div>4. 1991-1998: Winds of Change</div><div>5. 1998-today: International Space Station</div>",
+                        ""
+                    ],
+                    "guid": "QN-x8b]u,`",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte in der ersten Raumfahrtperiode 1961-1972 (Small Steps and Giant Leaps)?",
+                        "Surface Exploration of the Moon and Race to the Moon.<div><b>1961 -1965: Russian's Firts</b></div><div>- First Space Flight Vostok 1 (12.04.1961): Yuri Gagarin flies an entire orbit around earth</div><div>- First Women in Space Vostok 6 (06.1963): Valentina Tereshkova</div><div>- First EVA( Extra Vehicular Activity) in Voshkod 2 (18.03.1965): Alexei Leonov</div><div><b>1967-1972:</b></div><div>- Apollo 1: Dead of all Astronauts, Apollo 6: first time Rocket flies, Apollo 7: flies with Astronauts</div><div>- First Manned Flight to the Moon with Apollo 8 (21.12.1968)</div><div>- Apollo 13: Only Apollo after 11, who was not a sucess, but no one died</div><div>- Last Time, Human beeing visited the Moon :Apollo 17 (07.12.1972)</div>",
+                        "<img src=\"paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg\"><div><img src=\"paste-ad17daf850a83bc7bfc34f544574dfc73f89c5e6.jpg\"><br></div>"
+                    ],
+                    "guid": "JnR@300PtX",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Timeline:",
+                        "<img src=\"paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg\"><div><img src=\"paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg\"><br></div><div><img src=\"paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg\"><br></div><div><img src=\"paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg\"><br></div><div><img src=\"paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg\"><br></div>",
+                        ""
+                    ],
+                    "guid": "e>X+NK7Dzx",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte in der zweiten Phase der Weltraumgeschiche von 1971-1986 (Early Space Stations)?",
+                        "- 1971: First Space Station: <b>Salyut 1</b>, visited with Soyus 11 23 Days, Cosmonauts died because of the Valve<div>- 1974: Salyut 3: war bewaffnet, um Satelliten abzuschießen&nbsp;</div><div>- 1977: <b>Salyut 6</b>: first Space Station with 2 Docking Ports -&gt; bring up consumables&nbsp;</div><div>- 1978: first Progress brings Supplies to ISS</div><div>- 1978: first German flies to Salyut 6: Siegmund Jähn</div><div><img src=\"paste-1128fdb3cef8ebef3b013e1b1fd4cf14aeced7c7.jpg\"><br></div><div>- 1973: <b>Skylab</b> - first time looking for Human Factors</div><div>- Shower in Skylab, after that never reused, took to much time</div><div><img src=\"paste-235b87d35c5b9ab2143199f6b16fd2b29751410e.jpg\"><br></div><div>-1975: <b>Apollo meets Suyuz</b>, Problem: different Atmospheres, Apollo had 1/3 and pure Oxygen -&gt; Adapter for Decompression</div><div><img src=\"paste-77d1a12cea44ea09024d8afa83b16a8b0b77a4d1.jpg\"><br></div>",
+                        "<img src=\"paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg\"><div><img src=\"paste-dedb450075825b04bdd5613151f9b0f507da3ad4.jpg\"><br></div>"
+                    ],
+                    "guid": "vIlNY`Z8<H",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte in der dritten Phase der Raumfahrtgeschichte 1981-1991 (Glory and Fall)?",
+                        "1981: first <b>Space Shuttle</b> STS-1 Columbia<div><img src=\"paste-3464660fb549f148f4c116feeda78318b9bfea42.jpg\"><br></div><div>1983: first <b>Spacelab</b> Flug - European Astronaut flies with American Program -&gt; Space Lab build from Europe with all sorts of scientific investigations</div><div>1986: <b>Challenger</b> exploded beim Start wegen Dichtungsringen</div><div><br></div><div>1986: Aufbau der Mir Station und ausschlachtung der Salyut 7 mit Hilfe der Mission Soyuz T-15.&nbsp;</div>",
+                        "<img src=\"paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg\"><div><img src=\"paste-85f0ccaec120fa0a40dea4219f0672d600b93a57.jpg\"><br></div>"
+                    ],
+                    "guid": "ex=Qs@557q",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Welchem Satelliten wurde Hubble nachgebaut?</div>",
+                        "<div>Space Shuttle hatte integrierten Satelliten, der das Thermal Protection System überprüfen sollte (KH-11 fliegt über Bauch des STS und macht Bilder) -&gt; Spy Satellite. <b>Hubble</b> wurde dem Aufbau dieses Satelliten nachgebildet.&nbsp;<br></div>",
+                        "<img src=\"paste-8b1d87ab2c72d80ede874504ba73c8532fe276dd.jpg\">"
+                    ],
+                    "guid": "Q^v.18_H81",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wurde das erste STS angeliefert?",
+                        "<div>Als Columbia geliefert wurde, war das Hitzeschild nur halb fertig -&gt; Kunststoffdummys wurden für den Flug angebracht, fielen jedoch während des Atmosphärischen Fluges ab und viele der echten Keramiken mit.&nbsp;</div>",
+                        "<img src=\"paste-b27647a3eb403dfef0582f560f0fa8ae2567b63a.jpg\">"
+                    ],
+                    "guid": "JM~,ic-ih>",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte in der vierten Periode der Raumfahrtgeschichte 1991-1998 (Winds of Change)?",
+                        "1994-1998: Shuttle-Mir -&gt; Implementing long term Missions togehter<div><br></div><div>1994: first Cosmonaut flying with American Vehicle</div><div>1995: first American Astronaut flies Soyuz</div><div>1995: Valery Polyakov stadey 438 days in Space (<b>longest time in Space</b>)</div><div>1992: Intel Satellite failed to attach apogee motor -&gt; musste ausgetauscht werden mit Shuttle (STS-49) (3 tries - needed 3 Astronauts to fix it)</div>",
+                        "<img src=\"paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg\"><div><img src=\"paste-d6b0f435d98893f9980d07241a38972d11333224.jpg\"><br></div>"
+                    ],
+                    "guid": "I(*A%{4vTu",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passierte in der fünften Periode der Raumfahrt 1998- heute (ISS)?",
+                        "1998: start to build ISS with Functional Cargo Block<div>2008: Columbus brought to ISS with one Space Shuttle flight (Human tests)<br><div>2011: Shuttle Flotte grounded (atlantis was last)</div><div>2008-2015: European Cargo Vehicle ATV (5 times)</div></div><div>since 2020: commercial Operators like SpaceX bring Astronauts to the ISS: Dragon</div><div><br></div><div>2003: China launched its own Astronauts with Shenzou 5</div>",
+                        "<img src=\"paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg\"><div><img src=\"paste-608a925e6619be422d979553ce3fe729c731a470.jpg\"><br></div>"
+                    ],
+                    "guid": "jpL:fxY%V5",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches Land hat die meisten Menschen ins All geschickt?",
+                        "USA",
+                        "<img src=\"paste-e7cb68c01644427cd06f8c6f6246e32910fbe0cd.jpg\">"
+                    ],
+                    "guid": "K.Nm2Lf>b-",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Astronauten/Kosmonauten welches Landes blieben am längsten im Weltall?",
+                        "Russische",
+                        "<img src=\"paste-c50a3fcb47212a251566fb91adeac5565ff2ed4f.jpg\">"
+                    ],
+                    "guid": "fM`mmcm<<+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "e0098830-84be-11eb-a129-fc4596679de3",
+            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-047fc289f49ca9de23d43dd6764dbb07a299e9fb.jpg",
+                "paste-30920120ac1f58c051581776aac9124cef83020b.jpg",
+                "paste-43541fbc228b37be02ccdb797454006ed9eac78c.jpg",
+                "paste-75de8b71401175d818db08c7872a780eaf0ddf8e.jpg",
+                "paste-7d3fdfe30419012569a8b5b7328c84953b15c39e.jpg",
+                "paste-95eda658c89a0560a4c027acb60d40b437a47675.jpg",
+                "paste-a20f6d10d02b53cfab448a30e9e8fd3f83659855.jpg"
+            ],
+            "name": "5_SpaceShuttle",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches war das letzte Space Shuttle, das Flog und wann?",
+                        "2011 Atlantis mit Chris Ferguson (Testflight Starliner) und Duck Hurley (first Commander of Dragon Capsule)</div>",
+                        "<img src=\"paste-a20f6d10d02b53cfab448a30e9e8fd3f83659855.jpg\">"
+                    ],
+                    "guid": "g]spefrR#m",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war das politische Problem in den 1970er, als das Space Shuttle entwickelt werden sollte?",
+                        "<div><b>Geld und Zeit:</b></div>Präsident Richard Nixon strich NASA Budget auf 5 Billion US-Dollar. (Obwohl er die Astronauten von Apollo 11 vom Mond empfangen hat)<div>Musste mit wenig Geld in nur 5 Jahren entwickelt werden (es gab vorher noch kein geflügeltes Eintrittsfahrzeug.&nbsp;</div>",
+                        ""
+                    ],
+                    "guid": "FWC1}*}B}U",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die Wingspan des Shuttles?",
+                        "24m&nbsp;",
+                        "<img src=\"paste-30920120ac1f58c051581776aac9124cef83020b.jpg\">"
+                    ],
+                    "guid": "dx$nE-Yz&K",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Masseanteil an Sprit hat der External Tank des Space Transportation Systems?",
+                        "Gesamtgewicht: 750 t<div>Struktur: 39t</div>",
+                        "<img src=\"paste-95eda658c89a0560a4c027acb60d40b437a47675.jpg\">"
+                    ],
+                    "guid": "K~=][~2u8j",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist das Verhätnis Strukturgewicht zu Gesamtgewicht beim Booster des Space Transportation Systems?",
+                        "Gesamtgewicht: 2x 590t<div>Struktur: 2x 87t</div><div>-burn radiately outward</div>",
+                        "<img src=\"paste-047fc289f49ca9de23d43dd6764dbb07a299e9fb.jpg\">"
+                    ],
+                    "guid": "Q19.`J1LzI",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aufbau Orbiter des Space Transportation System:",
+                        "<img src=\"paste-43541fbc228b37be02ccdb797454006ed9eac78c.jpg\">",
+                        "Steuerung durch differentiellen Schub"
+                    ],
+                    "guid": "jUlVAAldUY",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Shuttle Flights gab es?",
+                        "<b>135</b>: 12.04.1981-21.07.2011",
+                        "28 Columbia<div>10 Challenger</div><div>29 Discovery</div><div>33 Atlantis</div><div>25 Endeavour</div>"
+                    ],
+                    "guid": "sJ%|lH@,,M",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer flog mit allen fünf Shutteln?",
+                        "<b>Story Musgrave</b> war die einzige Person, die mit allen fünf Shutteln geflogen ist.&nbsp;",
+                        ""
+                    ],
+                    "guid": "sm~zi6M|4%",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches war der erste Spacelbab flight?",
+                        "STS-9 mit first Non-American in Shace Shuttle: Ulf Merboldt<div>1983 - 72 Experimente&nbsp;</div><div>Problems: Reaction Control System crash (4h bevore re-enrty), 2 APU units caught fire&nbsp;</div>",
+                        "mit dabei außerdem John Young (Apollo 16)&nbsp;"
+                    ],
+                    "guid": "u0QZXw>%+@",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sind die Astronauten Aufgabentechnisch in Deutschland-Frankreich verteilt?",
+                        "Deutschland: scientists (science)<div>Frankreich: testpilots (build rockets)</div>",
+                        ""
+                    ],
+                    "guid": "Pqt_2U~$~+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war an den Missionen D1 und D2 Besonders?",
+                        "D1: 1985 - 75 experiments<div>D2: 1993 - 88 experiments</div><div>-&gt; Nasa gave away the control of Payload Operation Ground System</div>",
+                        ""
+                    ],
+                    "guid": "GS71&t_^do",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Payloads hatte das Spaceshuttle?",
+                        "<b>Spacelab 24 Flüge </b>(15 Module, 9 Pallets) (z.B. Spacelab-1, D1, D2)<div><br></div><div><b>Iss</b><br><div><br></div><div>Great Observatory Missions:<div><b>Hubble</b>: 6 Flüge von 1990-2009<div><b>Gamma Ray Observatory</b>: 1991</div><b>Chandra Xray Observatory</b>: 1991, observe Universe, Gamma Ray Burst 1999<div><b><br></b></div><div>Interplanetary Explorer Missions:</div><div><b>Magellan</b>: 1989 Venus Radar Mapping</div><div><b>Galileo</b>: 1989, Jupiter - 14 Jahre unterwegs, 3 Flybys - Mentioned Climate Change</div><div><b>Ulysses</b>: 1990, Sonne, Jupiter Flyby</div></div></div></div>",
+                        "Hubble hatte einen ungenauen Primärspiegel<div>2.-13.02.1993 wurde die Korrekturoptik mit 5 Spacewalks eingebaut</div><div>Danach: Wartungsarbeiten</div>"
+                    ],
+                    "guid": "B/w)MOO-B!",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo landen die meisten Space Shuttles?",
+                        "- Kennedy Space Center (78)<div>- Edwards Airforce Base (54)</div><div>- White Sands (1) (Umgeleitet, eigentlich Edwards AFB)</div>",
+                        ""
+                    ],
+                    "guid": "IWi!|4W}QI",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Return Options hat ein Space Shuttle, falls beim Start etwas schief geht?",
+                        "- <b>RTLF</b>: Return to launch Site, am gefährlichsten<div>- <b>TAL</b>: Trans Atlantic Landing, across the ocean</div><div>- <b>ATO</b>: Abort to Orbit, z.B. bei Engine Loss können die anderen Triebwerke weiter betrieben werden und man erreicht einen anderen Orbit oder zu einem späteren Zeitpunkt</div><div>- <b>AOA</b>: Abort Once Around, z.B. bei einem Leck, um schnell wieder einzutreten</div>",
+                        "TAL:<div><img src=\"paste-7d3fdfe30419012569a8b5b7328c84953b15c39e.jpg\"><br></div><div>Return to Launch/Landing Site:&nbsp;<img src=\"paste-75de8b71401175d818db08c7872a780eaf0ddf8e.jpg\"></div>"
+                    ],
+                    "guid": "l;pI46bgL!",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum hat die Trägerrake eine schiefe Flugbahn",
+                        "Weil das Shuttle seitlich festgemacht ist",
+                        "Da ist es im Notfall sicherer als an der Spitze"
+                    ],
+                    "guid": "ci,b4>?e!j",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "dffd8292-84be-11eb-8f74-fc4596679de3",
+            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-14ed27aac6298f9405af6a526147afaf4c0e0c6d.jpg",
+                "paste-1c74837e406f33cc4399aa052fd462a8a755c484.jpg",
+                "paste-2f9504195431fb484f13af094b1abc9d5c6e9bcb.jpg",
+                "paste-4edf593a335944ed06a8dc155ce0b063eee3578f.jpg",
+                "paste-5ef6ab4a074808ea124dc0f2ead333ed22c723b4.jpg",
+                "paste-60a66e39f11c489da4fffa9dc9cc8e3a138317f1.jpg",
+                "paste-6ec472d5db029d270ffc575bd95d27f71f9c94e9.jpg",
+                "paste-85e32110ee62faef29d94fa22320794a37fa7646.jpg",
+                "paste-8f8acb8d7d1fcb431a64d7206b1c79cd882a986a.jpg",
+                "paste-a168dfb2fdfc637e3fbea496628a6813c2bcefae.jpg",
+                "paste-b060692db55e4dd279e2a7f9b82739c4fdf5132f.jpg",
+                "paste-b3e506e0a5d501a6fae0a3b94b85f10e2de502da.jpg",
+                "paste-bb5cd81636783cb3d5948873164e9781a4a342e0.jpg",
+                "paste-bda0cc258a223b6da469c7fd1ec7b553bdd14bc8.jpg",
+                "paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg",
+                "paste-fd98b46f71338c829d325d2c943a79417526bbcf.jpg"
+            ],
+            "name": "6_EVA's",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden Astronauten darauf trainietr, die Steuerdüsen einzusetzen für den Fall, dass das Safety Kabel reißt?",
+                        "Virtual Reality",
+                        ""
+                    ],
+                    "guid": "P^icg-o&C~",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchen zwei EVA Schritten werden seit 2010 alle europäischen Astronauten trainiert?",
+                        "1. Training in Europe (Cologne) -&gt; Basis of Space Walk&nbsp;<div>2. Training in US (Houston) -&gt; Neutral Bouancy Facility NBF</div>",
+                        ""
+                    ],
+                    "guid": "g=ll~>Y6{K",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "First Spacewalk/ EVA:",
+                        "Alexei Leonov<div>März 1965 - 12 Minuten</div><div>-&gt; problems getting back in Spacecraft, risks his life, depressurizing his suit</div><div><br></div><div>Ed White</div><div>Juni 1965 - 21 Minuten</div><div><br></div><div>Neil Armstrong und Buzz Aldrin</div><div>Juli 1969 - 2,5 Stunden</div>",
+                        ""
+                    ],
+                    "guid": "pTR^LzNvVg",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele kummulierte Stunden EVA waren die Astronauten insgesamt auf dem Mond?",
+                        "81 Stunden (max. 7.5 h)<div>-&gt; 15 lunar EVA's by 12 astronauts</div>",
+                        ""
+                    ],
+                    "guid": "I8`4@tN%(`",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Spacewalks/EVA's gab es bis Dezember 2020/ Jan 2021?",
+                        "422 Walks von 229 Spacewalkers",
+                        ""
+                    ],
+                    "guid": "4q0@uG2@Z",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei Spacewalker unterschiedlicher Nationen waren jeweils am längsten in EVA's?",
+                        "Russia: Anatoly Soloviev<div>US: Michael Lopez Allegria</div><div>Europe: Luca Parmitano</div>",
+                        "<img src=\"paste-85e32110ee62faef29d94fa22320794a37fa7646.jpg\">"
+                    ],
+                    "guid": "dP^+:NjG]F",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Unterschiede zwischen den EVA's der Russen und der Amerikaner?",
+                        "Der <b>Space-Suit</b> und dadurch komplett unterschiedliche Protokolle, Anhängung und Wasser.<div><br><b>Russia</b>:&nbsp;</div><div>Anhängung: Wie im Klettergarten mit zwei Sicherheitsleinen, dürfen nie am selben Griff sein, falls dieser ab geht -&gt; Enge griffe damit immer in zwei unterschiedlichen eingehängt sein kann.</div><div>Food/Drink: No Food, no drink</div><div><br></div><div><b>US</b>:&nbsp;</div><div>Anhängung: Auch zwei Sicherheitsleinen, aber eine davon immer an Safety Point, zum Beispiel Air Lock</div><div>Food/Drink: No Food, 1l Water<br></div>",
+                        "<img src=\"paste-14ed27aac6298f9405af6a526147afaf4c0e0c6d.jpg\">"
+                    ],
+                    "guid": "juY{?ww;@4",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer hatte mehr EVA's an der ISS?",
+                        "US",
+                        "<img src=\"paste-a168dfb2fdfc637e3fbea496628a6813c2bcefae.jpg\">"
+                    ],
+                    "guid": "p%U%AXNr{#",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer ist der Europäer mit den meisten Stunden EVA?",
+                        "Luca Parmitano",
+                        "<img src=\"paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg\">"
+                    ],
+                    "guid": "x(bg_b53Jo",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die größten Schwierigkeiten bei einem EVA?",
+                        "1. Einschränkung des Anzugs: beengtheit, Steifigkeit, Sichtfeleinschränkung, reduzierung bewegungsbereich, eingeschränkte griffigkeit<div>2. Strenge Einsatzregeln für sicheren und effizienten EVA: Drastische Auswahl für den Einsatz, nur die besten dürfen</div>",
+                        ""
+                    ],
+                    "guid": "G;w_:?cQ@+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden die EVA-Skills bewertet?",
+                        "<div>Jeder der 17 skills wird mit Punkten bewertet:</div><div>1(very bad)-5(excellent)</div>",
+                        "<img src=\"paste-bda0cc258a223b6da469c7fd1ec7b553bdd14bc8.jpg\">"
+                    ],
+                    "guid": "mJ[l{0RfO5",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie war die EVA- Situation vor 2009?",
+                        "Europäische Astronauten durften nur EVA's machen, wenn sie sich \"eingekauft\" haben, weil sie eine schlechtere EVA-Performance hatten, weil sie nicht durchgängig in Houston trainieren konnten.&nbsp;",
+                        "<img src=\"paste-fd98b46f71338c829d325d2c943a79417526bbcf.jpg\">"
+                    ],
+                    "guid": "pTj/;K/Wy`",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wurde gemacht, um die Situation der EVA's nach 2009 zu verändern?",
+                        "Der Pool, der für das Hermes Space Shuttle geplant war wurde umgebaut zum EVA Training -&gt; ESA NBF<div>-&gt; Analog Space Suit Configuration</div><div>-&gt; Learn do's and Don'ts, Protocoll, ...</div><div>-&gt; Divers experts</div><br>Neutral Buoancy Facility NBF",
+                        "<img src=\"paste-8f8acb8d7d1fcb431a64d7206b1c79cd882a986a.jpg\">"
+                    ],
+                    "guid": "Q>U<VW5,Y!",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Geschichte des ESA EVA Training Programs:<br>Wann wurde es von den Amis zugelassen?",
+                        "<div>Development startet&nbsp;<b>2000</b></div><div><b>2004</b>: 2 ESA Trainer bekommen EVA Training in Houston als erste Europäische Nicht-Astronauten</div><div><b>2005</b>: Prototyp of Training Run, first Validation of US to proof, that they dont teach something wrong</div><div><b>2006</b>: Test Program validated</div><div><b>2010</b>: Become Part of the basis Training</div>",
+                        "<img src=\"paste-1c74837e406f33cc4399aa052fd462a8a755c484.jpg\">"
+                    ],
+                    "guid": "kAC]],~+mu",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht dr Analoge Space Suit für European EVA's aus?",
+                        "- Maske<div>- Workstation</div><div>- Backpack</div><div>- Bouancy Device</div><div>- Boots</div>",
+                        "<img src=\"paste-b3e506e0a5d501a6fae0a3b94b85f10e2de502da.jpg\">"
+                    ],
+                    "guid": "nRG6v/ChL",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche beiden mock ups gibt es im Pool des EVA- Training Programms?",
+                        "1. Airlock der MIR Station<div>2. Columbis Bone Structure (Inzwischen Full Scale Mock up seit 2010)</div>",
+                        "<img src=\"paste-b060692db55e4dd279e2a7f9b82739c4fdf5132f.jpg\">"
+                    ],
+                    "guid": "q7trf|UbvB",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wirkte sich das ESA Training program ab 2009 aus?",
+                        "Die Europäischen Astronauten bekamen ebenfalls bestnoten und durften viele EVA's machen<div>-&gt; Voller Erfolg</div><div><br></div><div>Sie müssen sich nur noch an sperrigkeit und bewegungseinschränkungen gewöhnen.&nbsp;</div>",
+                        "<img src=\"paste-6ec472d5db029d270ffc575bd95d27f71f9c94e9.jpg\">"
+                    ],
+                    "guid": "o`8T,**|k+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches weitere zusätzliche Training durchläuft ein Europäischer Astroaut außer dem EVA Training im Pool in Cologne noch?&nbsp;<div>Wofür machen wir das?</div>",
+                        "Parabelflugtraining<div>-&gt; Unterschiede zwischen Unterwasser-training und Weltraum herausfinden</div>",
+                        "<div>Floating Safety Cable: You can not simulate this under water</div><img src=\"paste-4edf593a335944ed06a8dc155ce0b063eee3578f.jpg\">"
+                    ],
+                    "guid": "eQ$t67~yUY",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wird in Europa sonst noch im EVA-Pool trainiert?",
+                        "ESA Lunar EVA Simulations: Moondive Studies<div>Simulate partial gravity on Moon Mars</div><div>-&gt; Moonwalk with Kangoroo Jumps to move</div><div>-&gt; Difficulties: Rescue People</div>",
+                        "<img src=\"paste-5ef6ab4a074808ea124dc0f2ead333ed22c723b4.jpg\"><div><img src=\"paste-2f9504195431fb484f13af094b1abc9d5c6e9bcb.jpg\"><br></div>"
+                    ],
+                    "guid": "hksg>|uh~:",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist bei der Gravitation auf dem Mond ein entscheinender Unterschied zu den EVA Trainings im Weltraum mit neutral bouancy?",
+                        "Rescue a crew member:<div>Tests of LESA Prototype&nbsp;</div><div>-&gt; Lunar Evacuation System Assemlby</div>",
+                        "<img src=\"paste-bb5cd81636783cb3d5948873164e9781a4a342e0.jpg\"><br><div><img src=\"paste-60a66e39f11c489da4fffa9dc9cc8e3a138317f1.jpg\"><br></div>"
+                    ],
+                    "guid": "KtmfQ@n*V-",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "dff39eb7-84be-11eb-8540-fc4596679de3",
             "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
             "desc": "",
@@ -28,7 +837,7 @@
                 "paste-ef9174af011ade998c146ee5821821ec9f879487.jpg",
                 "paste-fe4c5648d483f5bf0f3784c6b522ed3fd1776ad4.jpg"
             ],
-            "name": "AstronautPsychology",
+            "name": "7_AstronautPsychology",
             "notes": [
                 {
                     "__type__": "Note",
@@ -156,6 +965,251 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "e006a400-84be-11eb-9c67-fc4596679de3",
+            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-067289cd64dfed7f28490d33c17a28c7a737ea74.jpg",
+                "paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg",
+                "paste-091b4f3a6b8d2fd8a98180dfb1b568ee8de79830.jpg",
+                "paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg",
+                "paste-10b7e974c377765d3bfe17e61d475e23ebc33d99.jpg",
+                "paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg",
+                "paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg",
+                "paste-2ac72f7a24123f85b2b844518b5e282be569e536.jpg",
+                "paste-3ace31fcd27ba27fd23f261a33a45965c28b9495.jpg",
+                "paste-3f99d7c92424481f149120a9f9bfaacf0f56e277.jpg",
+                "paste-5078c34507fa6df8a3ae22dc47ff2f1165fca48f.jpg",
+                "paste-6733caf179f24642297b33dafdc51cf270f1172f.jpg",
+                "paste-730dd4876b439a674a28792a844c0d8018d7a156.jpg",
+                "paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg",
+                "paste-7bd09e229d4cf0a56141649c1a7fcde04cc1288f.jpg",
+                "paste-7d64b894553e7202f2fefa263300231ac8b7a0d6.jpg",
+                "paste-892c89b9ddd3ebf7374984c04dfa6561dc3690a9.jpg",
+                "paste-8937ff3cbe0f12e83cced8b7a52579500159a96b.jpg",
+                "paste-8c5e04bc7002ae5e56391059d6cb3536caea5457.jpg",
+                "paste-8d6774aa4390d593e830ba6c9095b98341128350.jpg",
+                "paste-92d9bb03acfcb17a3039de0ab881994c100f3c23.jpg",
+                "paste-a66937ba98d3d45400c302cf6ae7930679755edc.jpg",
+                "paste-a73ba0b184e7afd339d8919aad273acea0132452.jpg",
+                "paste-a97740faec036521a6c9c86bc994c89f9ec8fdde.jpg",
+                "paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg",
+                "paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg",
+                "paste-df4a609ad5f976e658dc7d96386eb202eb224688.jpg",
+                "paste-e33fee231de2fcf769f01b19656c0912d6755b1f.jpg",
+                "paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg",
+                "paste-eed9e67515efa9d938dac1f59fb4185a45f1ad02.jpg",
+                "paste-f5448cacb7023ae5f81683ba73fc01571a7a3a41.jpg",
+                "paste-fee54740c16d8380d3ff23fd7f3d03d87b78580a.jpg"
+            ],
+            "name": "8_ISRUandAnalogues",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ISRU: Construction - how can we protect out habitats on the moon and what are the greatest dangers?",
+                        "Regulith Material to protect habitat from <b>Radiation</b> and <b>micro- meteorite environment</b> and <b>thermal stabilisation</b>",
+                        "<img src=\"paste-8937ff3cbe0f12e83cced8b7a52579500159a96b.jpg\">"
+                    ],
+                    "guid": "w|AKdh[@#@",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei Hauptziele hat die moderne bemannte Raumfahrt?",
+                        "- Mond<div>- Mars</div><div>- LEO</div>",
+                        "<img src=\"paste-10b7e974c377765d3bfe17e61d475e23ebc33d99.jpg\">"
+                    ],
+                    "guid": "Qtb*p3Is0&",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Analogue Facilities?",
+                        "\"fielt tests\" an Orten und Einrichtungen, die Ähnlichkeiten mit der Umgebung im Weltraum aufweisen -&gt; <b>Aktivität, die Elemente einer Weltraumumgebung in irdischer Umgebung nachbilden</b><div><br></div><div>Gestetet wird:<br><div>- Verhaltenseffekte&nbsp;</div><div>- Isolation und Eingeschlossenheit (confinement)</div><div>- Teamdynamik<br><div>- Demonstrationen neuer Technologien</div><div>- Validierung von Roboterausrüstung/ neue Fahrzeuge</div><div>- Habitat - Konzepte</div><div>- Kommunikation (mit der IRS)</div><div>- Energieerzeugung</div><div>- Infrastruktur und Mobilität</div><div><br><div>-&gt; <b>Billiger und schneller</b> auf der Erde als im Weltraum</div></div></div></div>",
+                        ""
+                    ],
+                    "guid": "QV<[p|iuf+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wird in Analogue Facilities getestet? Nenne 4 unterschiedliche Aufgaben",
+                        "<div>- Verhaltenseffekte&nbsp;</div><div>- Isolation und Eingeschlossenheit (confinement)</div><div>- Teamdynamik<br><div>- Demonstrationen neuer Technologien</div><div>- Validierung von Roboterausrüstung/ neue Fahrzeuge</div><div>- Habitat - Konzepte</div><div>- Kommunikation (mit der IRS)</div><div>- Energieerzeugung</div><div>- Infrastruktur und Mobilität</div></div>",
+                        ""
+                    ],
+                    "guid": "geFXS,2gI=",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche unterschiedlichen Arten von Analogues in space context gibt es?",
+                        "<b>Artificial analogue:</b><div>Something, that we created in a controlles environment (not naturally)</div><div><br></div><div><b>Natural analogue:&nbsp;</b></div><div>A natural place who is representative of a space environment</div><div>Ex: Lanzarote -&gt; Mars</div>",
+                        "<img src=\"paste-7d64b894553e7202f2fefa263300231ac8b7a0d6.jpg\">"
+                    ],
+                    "guid": "eC-OIS!mm1",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Artificial Analogue Facilities gibt es? (8 Stück hier genannt)",
+                        "- <b>HERA Human Exploration Research Analogue</b><div>Three level habitat for Isolation and remote condition testing -&gt; human factors research</div><div><br></div><div>- <b>HESTIA Human Exploration Spacecraft Testbed for Integration and Advancement</b></div><div>Umgebungskammer die stabile Luftschleusenumgebung erzeugt -&gt; Testen der Stabilisierungsausrüstung und ECLSS (noch aus der Apollo Zeit)</div><div><br></div><div>- <b>NBF Neutral Buoyancy Facility</b></div><div>Astronaut Spacewalk Training and simulation of Lunar gravity</div><div><br></div><div>- <b>NEEMO NASA Extreme Environment Mission Operations</b></div><div>Crew (4 Astronauten) werden 2 Wochen unter Wasser isoliert in isolated Environment -&gt; Testen von Konzepten, Prozeduren, Ausrüstungen,...&nbsp;</div><div><br></div><div>- <b>NASA NEEMO-NXT</b></div><div>Erweiterung NEEMO zu MAchbarkeitsmission in U-Boot mit Augmented Reality -&gt; Geologische Trainingsübungen unter weltraumähnlichen Einsatzbedingungen</div><div><br></div><div>- <b>Bed rest programme&nbsp;</b></div><div>physiologische Veränderungen in Organsystemen reproduzieren und Grundlagenforschung ermöglichen. (Teilweise bis zu 2 Wochen nur da liegen)</div><div><br></div><div>- <b>Isolation and confinement programme</b></div><div>Autonomie und Abgeschiedenheit wie bei Weltraummissionen. Grundlagenforschung zu physiologischen uns psychologischen Stressoren</div><div><br></div><div>- <b>Parabolic flights</b></div><div>Erlaubt testen in der Schwerelosigkeit für 20-30 sekunden</div>",
+                        "-&nbsp;<b>HERA Human Exploration Research Analogue</b><div>Three level habitat for Isolation and remote condition testing -&gt; human factors research</div><div><img src=\"paste-2ac72f7a24123f85b2b844518b5e282be569e536.jpg\"><br></div><div><br></div><div>-&nbsp;<b>HESTIA Human Exploration Spacecraft Testbed for Integration and Advancement</b></div><div>Umgebungskammer die stabile Luftschleusenumgebung erzeugt -&gt; Testen der Stabilisierungsausrüstung und ECLSS (noch aus der Apollo Zeit)</div><div><img src=\"paste-8c5e04bc7002ae5e56391059d6cb3536caea5457.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NBF Neutral Buoyancy Facility</b></div><div>Astronaut Spacewalk Training and simulation of Lunar gravity</div><div><img src=\"paste-091b4f3a6b8d2fd8a98180dfb1b568ee8de79830.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NEEMO NASA Extreme Environment Mission Operations</b></div><div>Crew (4 Astronauten) werden 2 Wochen unter Wasser isoliert in isolated Environment -&gt; Testen von Konzepten, Prozeduren, Ausrüstungen,...&nbsp;</div><div><img src=\"paste-6733caf179f24642297b33dafdc51cf270f1172f.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NASA NEEMO-NXT</b></div><div>Erweiterung NEEMO zu MAchbarkeitsmission in U-Boot mit Augmented Reality -&gt; Geologische Trainingsübungen unter weltraumähnlichen Einsatzbedingungen</div><div><img src=\"paste-5078c34507fa6df8a3ae22dc47ff2f1165fca48f.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Bed rest programme&nbsp;</b></div><div>physiologische Veränderungen in Organsystemen reproduzieren und Grundlagenforschung ermöglichen. (Teilweise bis zu 2 Wochen nur da liegen)</div><div><img src=\"paste-92d9bb03acfcb17a3039de0ab881994c100f3c23.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Isolation and confinement programme</b></div><div>Autonomie und Abgeschiedenheit wie bei Weltraummissionen. Grundlagenforschung zu physiologischen uns psychologischen Stressoren</div><div><img src=\"paste-3ace31fcd27ba27fd23f261a33a45965c28b9495.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Parabolic flights</b></div><div>Erlaubt testen in der Schwerelosigkeit für 20-30 sekunden</div><div><img src=\"paste-7bd09e229d4cf0a56141649c1a7fcde04cc1288f.jpg\"></div>"
+                    ],
+                    "guid": "Fig{Bt)ojG",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Natural Analogue Facilities gibt es? (5 Stück hier genannt)",
+                        "- <b>Robotic Exploration field trials</b> (SAFER, SEEKER, LUCID, EXOFIT, METERON, SUPVIS-M,...)<div>Analoge Umgebung auf Planetenoberfläche, Technologiedemomstrationen.&nbsp;</div><div><br></div><div>- <b>CAVES Cooperative Adventure for Valuing and Exercising HBP Skills</b></div><div>Isolation und Team Building in Höhlen (Enge, EVA-Verlauf, Isolation), 2 Wochen Underground</div><div><br></div><div>-<b> CAVES-X: CAVES eXpedition</b></div><div>Technologien testen (erweiterung CAVES), Mikrobiologie in extremer Umgebung -&gt; Monte Kronio, Sizilien</div><div><br></div><div>- <b>PANGAEA Planetary ANalogue Geology and Astrobiology Exercise for Astronauts</b></div><div>Planetare Feldgeologie wird untersucht -&gt; Bewusstsein für Komplexität von Feldoperationen -&gt; Lanzarote</div><div><br></div><div>- <b>PANGAEA-X PANGEA eXtension test campaigns</b><br></div><div>Technologien testen, Werkzeuge, Experimente, Betriebskonzepte, Lavahöhlen</div>",
+                        "-&nbsp;<b>Robotic Exploration field trials</b>&nbsp;(SAFER, SEEKER, LUCID, EXOFIT, METERON, SUPVIS-M,...)<div>Analoge Umgebung auf Planetenoberfläche, Technologiedemomstrationen.&nbsp;</div><div><img src=\"paste-a73ba0b184e7afd339d8919aad273acea0132452.jpg\"><br></div><div><br></div><div>-&nbsp;<b>CAVES Cooperative Adventure for Valuing and Exercising HBP Skills</b></div><div>Isolation und Team Building in Höhlen (Enge, EVA-Verlauf, Isolation), 2 Wochen Underground</div><div><img src=\"paste-f5448cacb7023ae5f81683ba73fc01571a7a3a41.jpg\"><br></div><div><br></div><div>-<b>&nbsp;CAVES-X: CAVES eXpedition</b></div><div>Technologien testen (erweiterung CAVES), Mikrobiologie in extremer Umgebung -&gt; Monte Kronio, Sizilien</div><div><br></div><div>-&nbsp;<b>PANGAEA Planetary ANalogue Geology and Astrobiology Exercise for Astronauts</b></div><div>Planetare Feldgeologie wird untersucht -&gt; Bewusstsein für Komplexität von Feldoperationen -&gt; Lanzarote</div><div><img src=\"paste-df4a609ad5f976e658dc7d96386eb202eb224688.jpg\"><br></div><div><br></div><div>-&nbsp;<b>PANGAEA-X PANGEA eXtension test campaigns</b><br></div><div>Technologien testen, Werkzeuge, Experimente, Betriebskonzepte, Lavahöhlen</div>"
+                    ],
+                    "guid": "BmV]PzEf5M",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sustainable Exploration - was heißt das?",
+                        "Je weiter wir ins Sonnensystem vordringen, umso mehr müssen wir wiederverwenden.&nbsp;<div>Nutzung der Ressourcen im Sonnensystem</div><div><br><div>-&gt; Transportwiederverwendung und ISRU (In Situ resource Utilisation)</div></div>",
+                        ""
+                    ],
+                    "guid": "QSgsk3YC#|",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was heißt die Abkürzung I.S.R.U?",
+                        "<b>In Situ resource Utilisation</b><div>&nbsp;-&gt; Altbabylonisches wort</div><div>-&gt; Praxis des Sammelns, Verarbeitens, Lagerns und Verwenden von Materialien auf anderen astronomischen Objekten</div>",
+                        ""
+                    ],
+                    "guid": "BX:ZX^N*03",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was könnte auf dieser Mondoberfläche ISRU-verwendet werden?<div><img src=\"paste-730dd4876b439a674a28792a844c0d8018d7a156.jpg\"><br></div>",
+                        "- Wasser an den Polen<div>- Regulith als Material</div><div>- Solarenergie</div>",
+                        "<img src=\"paste-eed9e67515efa9d938dac1f59fb4185a45f1ad02.jpg\">"
+                    ],
+                    "guid": "N*z,ZIzWnJ",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches sind die 5 Main Areas der ISRU?",
+                        "- Energy<div>- Water</div><div>- Metals</div><div>- Oxygen</div><div>- Construction</div>",
+                        "<img src=\"paste-e33fee231de2fcf769f01b19656c0912d6755b1f.jpg\">"
+                    ],
+                    "guid": "sZB1L_R#h^",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ISRU: Energy- how can we procude and storage Energy?",
+                        "<div>- <b>Regenrative Fuel Cells</b> zum erzeugen von Energie (Energiespeicher, Elektrolyse durch Sonnenenrgie am Tag und Rekombination in der Schattenphase)<br></div><div>- <b>Hot-Cold-Differential</b>: Use thermal Energy</div>",
+                        "<img src=\"paste-a97740faec036521a6c9c86bc994c89f9ec8fdde.jpg\"><div><img src=\"paste-8d6774aa4390d593e830ba6c9095b98341128350.jpg\"><br></div>"
+                    ],
+                    "guid": "jMFf~*-#!?",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ISRU: Water- how can we produce Water?",
+                        "- Wasser an den Polarregionen<div>- Untersuchungen von Regolith um mehr über Wasser auf dem Mond zu lernen</div>",
+                        "<img src=\"paste-067289cd64dfed7f28490d33c17a28c7a737ea74.jpg\">"
+                    ],
+                    "guid": "H#q13o{|E5",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ISRU: Metals- how can we produce Materials to build things?",
+                        "-&gt; Regolith enthält viele Bestandteile, auch viel O2, leider nur in Oxidform<div>-&gt; 3D-Drucken von Regolith&nbsp;<br><div><img src=\"paste-892c89b9ddd3ebf7374984c04dfa6561dc3690a9.jpg\"><br></div></div>",
+                        "<div><img src=\"paste-a66937ba98d3d45400c302cf6ae7930679755edc.jpg\"><br></div><img src=\"paste-fee54740c16d8380d3ff23fd7f3d03d87b78580a.jpg\">"
+                    ],
+                    "guid": "EL`23ULdq&",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können Metalle und Ogygen aus Regolith extrahiert werden?",
+                        "<img src=\"paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg\"><div><img src=\"paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg\"><br></div>",
+                        "<div><b>Ice/ Volatile Extraction Process:</b></div><div>Uses Ice from Craters -&gt; 20-70 kg O2/t, 100°C</div><img src=\"paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg\"><div><br></div><div><b>Hydrogen Extraction Process:</b>&nbsp;<br><div>Uses FeO Fraction -&gt; 10-50 kg O2/t bei 800-1000°C</div></div><div><img src=\"paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg\"><br></div><div><br></div><div><b>Solid Carbothermal Extraction Process</b></div><div>FeO fraction -&gt; 10-50 kg O2/t at 800-1000°C</div><div><img src=\"paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg\"><br></div><div><br></div><div><b>Liquid Carbothermal Extraction Process</b></div><div>FeO and SiO2 fractions -&gt; 150-200 kg O2/t at &gt;1600°C</div><div><img src=\"paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg\"><br></div><div><br></div><div><b>Molten Regolith Electrolysis</b></div><div>All Oxide fractions -&gt; 160-400 kg O2/t, 1600-2000 °C</div><div><img src=\"paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg\"><br></div><div><br></div><div><b>FCC Cambridge/ Metalysis Process</b></div><div>All oxide Fractions -&gt; 250-400 kg O2/t at 800-950°C</div><div><img src=\"paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg\"><br></div>"
+                    ],
+                    "guid": "Nj.aWB?_q^",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche ISRU Aktivitäten der ESA gibt es?",
+                        "- PROSPECT<div>- Nutzlast mit Roscosmos-Mondlandegerät zur Erforschung der Südpolregion und Gasgewinnng</div><div>- Ent-to-End Demonstrator für ISRU Anlage</div><div>- Raumschiff EAC (ISRU Untersuchungen auf niedrigem Niveau)</div>",
+                        ""
+                    ],
+                    "guid": "EFaskQ)w8u",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für was kann das Moon-Village zukünftig verwendet werden?",
+                        "- Als Propellant Depot<div>- Für Tests auf dem Mars super, da alles auf dem Mond schwieriger ist (Gravitation geringer, Oxygen generation schwerer)</div>",
+                        "<img src=\"paste-3f99d7c92424481f149120a9f9bfaacf0f56e277.jpg\">"
+                    ],
+                    "guid": "ClPOk;x}H&",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Woher kam das Regulith für die Tests der ESA?",
+                        "Regulith Similars wurden entwickelt zum Beispiel<b> EAC-1</b><div>Und auf der Erde gibt es ähnliche Materialien in manchen Regionen<br><div>-&gt; Es gibt nur 400 kg echtes Regulith, das wird vom Ami aufbewahrt</div></div>",
+                        ""
+                    ],
+                    "guid": "JYJft#T*SA",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "dff6d096-84be-11eb-935d-fc4596679de3",
             "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
             "desc": "",
@@ -189,7 +1243,7 @@
                 "paste-ebaf2f84de5a24a945decd644e0e4ed275e3f42a.jpg",
                 "paste-f59eed1ecd0be0c2f15bdb8f679bfdaedba81082.jpg"
             ],
-            "name": "AstronautTrainingSelection",
+            "name": "9_AstronautTrainingSelection",
             "notes": [
                 {
                     "__type__": "Note",
@@ -427,868 +1481,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "dffd8292-84be-11eb-8f74-fc4596679de3",
-            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "paste-14ed27aac6298f9405af6a526147afaf4c0e0c6d.jpg",
-                "paste-1c74837e406f33cc4399aa052fd462a8a755c484.jpg",
-                "paste-2f9504195431fb484f13af094b1abc9d5c6e9bcb.jpg",
-                "paste-4edf593a335944ed06a8dc155ce0b063eee3578f.jpg",
-                "paste-5ef6ab4a074808ea124dc0f2ead333ed22c723b4.jpg",
-                "paste-60a66e39f11c489da4fffa9dc9cc8e3a138317f1.jpg",
-                "paste-6ec472d5db029d270ffc575bd95d27f71f9c94e9.jpg",
-                "paste-85e32110ee62faef29d94fa22320794a37fa7646.jpg",
-                "paste-8f8acb8d7d1fcb431a64d7206b1c79cd882a986a.jpg",
-                "paste-a168dfb2fdfc637e3fbea496628a6813c2bcefae.jpg",
-                "paste-b060692db55e4dd279e2a7f9b82739c4fdf5132f.jpg",
-                "paste-b3e506e0a5d501a6fae0a3b94b85f10e2de502da.jpg",
-                "paste-bb5cd81636783cb3d5948873164e9781a4a342e0.jpg",
-                "paste-bda0cc258a223b6da469c7fd1ec7b553bdd14bc8.jpg",
-                "paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg",
-                "paste-fd98b46f71338c829d325d2c943a79417526bbcf.jpg"
-            ],
-            "name": "EVA's",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie werden Astronauten darauf trainietr, die Steuerdüsen einzusetzen für den Fall, dass das Safety Kabel reißt?",
-                        "Virtual Reality",
-                        ""
-                    ],
-                    "guid": "P^icg-o&C~",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "In welchen zwei EVA Schritten werden seit 2010 alle europäischen Astronauten trainiert?",
-                        "1. Training in Europe (Cologne) -&gt; Basis of Space Walk&nbsp;<div>2. Training in US (Houston) -&gt; Neutral Bouancy Facility NBF</div>",
-                        ""
-                    ],
-                    "guid": "g=ll~>Y6{K",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "First Spacewalk/ EVA:",
-                        "Alexei Leonov<div>März 1965 - 12 Minuten</div><div>-&gt; problems getting back in Spacecraft, risks his life, depressurizing his suit</div><div><br></div><div>Ed White</div><div>Juni 1965 - 21 Minuten</div><div><br></div><div>Neil Armstrong und Buzz Aldrin</div><div>Juli 1969 - 2,5 Stunden</div>",
-                        ""
-                    ],
-                    "guid": "pTR^LzNvVg",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viele kummulierte Stunden EVA waren die Astronauten insgesamt auf dem Mond?",
-                        "81 Stunden (max. 7.5 h)<div>-&gt; 15 lunar EVA's by 12 astronauts</div>",
-                        ""
-                    ],
-                    "guid": "I8`4@tN%(`",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viele Spacewalks/EVA's gab es bis Dezember 2020/ Jan 2021?",
-                        "422 Walks von 229 Spacewalkers",
-                        ""
-                    ],
-                    "guid": "4q0@uG2@Z",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche drei Spacewalker unterschiedlicher Nationen waren jeweils am längsten in EVA's?",
-                        "Russia: Anatoly Soloviev<div>US: Michael Lopez Allegria</div><div>Europe: Luca Parmitano</div>",
-                        "<img src=\"paste-85e32110ee62faef29d94fa22320794a37fa7646.jpg\">"
-                    ],
-                    "guid": "dP^+:NjG]F",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was sind die Unterschiede zwischen den EVA's der Russen und der Amerikaner?",
-                        "Der <b>Space-Suit</b> und dadurch komplett unterschiedliche Protokolle, Anhängung und Wasser.<div><br><b>Russia</b>:&nbsp;</div><div>Anhängung: Wie im Klettergarten mit zwei Sicherheitsleinen, dürfen nie am selben Griff sein, falls dieser ab geht -&gt; Enge griffe damit immer in zwei unterschiedlichen eingehängt sein kann.</div><div>Food/Drink: No Food, no drink</div><div><br></div><div><b>US</b>:&nbsp;</div><div>Anhängung: Auch zwei Sicherheitsleinen, aber eine davon immer an Safety Point, zum Beispiel Air Lock</div><div>Food/Drink: No Food, 1l Water<br></div>",
-                        "<img src=\"paste-14ed27aac6298f9405af6a526147afaf4c0e0c6d.jpg\">"
-                    ],
-                    "guid": "juY{?ww;@4",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wer hatte mehr EVA's an der ISS?",
-                        "US",
-                        "<img src=\"paste-a168dfb2fdfc637e3fbea496628a6813c2bcefae.jpg\">"
-                    ],
-                    "guid": "p%U%AXNr{#",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wer ist der Europäer mit den meisten Stunden EVA?",
-                        "Luca Parmitano",
-                        "<img src=\"paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg\">"
-                    ],
-                    "guid": "x(bg_b53Jo",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was sind die größten Schwierigkeiten bei einem EVA?",
-                        "1. Einschränkung des Anzugs: beengtheit, Steifigkeit, Sichtfeleinschränkung, reduzierung bewegungsbereich, eingeschränkte griffigkeit<div>2. Strenge Einsatzregeln für sicheren und effizienten EVA: Drastische Auswahl für den Einsatz, nur die besten dürfen</div>",
-                        ""
-                    ],
-                    "guid": "G;w_:?cQ@+",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie werden die EVA-Skills bewertet?",
-                        "<div>Jeder der 17 skills wird mit Punkten bewertet:</div><div>1(very bad)-5(excellent)</div>",
-                        "<img src=\"paste-bda0cc258a223b6da469c7fd1ec7b553bdd14bc8.jpg\">"
-                    ],
-                    "guid": "mJ[l{0RfO5",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie war die EVA- Situation vor 2009?",
-                        "Europäische Astronauten durften nur EVA's machen, wenn sie sich \"eingekauft\" haben, weil sie eine schlechtere EVA-Performance hatten, weil sie nicht durchgängig in Houston trainieren konnten.&nbsp;",
-                        "<img src=\"paste-fd98b46f71338c829d325d2c943a79417526bbcf.jpg\">"
-                    ],
-                    "guid": "pTj/;K/Wy`",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was wurde gemacht, um die Situation der EVA's nach 2009 zu verändern?",
-                        "Der Pool, der für das Hermes Space Shuttle geplant war wurde umgebaut zum EVA Training -&gt; ESA NBF<div>-&gt; Analog Space Suit Configuration</div><div>-&gt; Learn do's and Don'ts, Protocoll, ...</div><div>-&gt; Divers experts</div><br>Neutral Buoancy Facility NBF",
-                        "<img src=\"paste-8f8acb8d7d1fcb431a64d7206b1c79cd882a986a.jpg\">"
-                    ],
-                    "guid": "Q>U<VW5,Y!",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Geschichte des ESA EVA Training Programs:<br>Wann wurde es von den Amis zugelassen?",
-                        "<div>Development startet&nbsp;<b>2000</b></div><div><b>2004</b>: 2 ESA Trainer bekommen EVA Training in Houston als erste Europäische Nicht-Astronauten</div><div><b>2005</b>: Prototyp of Training Run, first Validation of US to proof, that they dont teach something wrong</div><div><b>2006</b>: Test Program validated</div><div><b>2010</b>: Become Part of the basis Training</div>",
-                        "<img src=\"paste-1c74837e406f33cc4399aa052fd462a8a755c484.jpg\">"
-                    ],
-                    "guid": "kAC]],~+mu",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie sieht dr Analoge Space Suit für European EVA's aus?",
-                        "- Maske<div>- Workstation</div><div>- Backpack</div><div>- Bouancy Device</div><div>- Boots</div>",
-                        "<img src=\"paste-b3e506e0a5d501a6fae0a3b94b85f10e2de502da.jpg\">"
-                    ],
-                    "guid": "nRG6v/ChL",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche beiden mock ups gibt es im Pool des EVA- Training Programms?",
-                        "1. Airlock der MIR Station<div>2. Columbis Bone Structure (Inzwischen Full Scale Mock up seit 2010)</div>",
-                        "<img src=\"paste-b060692db55e4dd279e2a7f9b82739c4fdf5132f.jpg\">"
-                    ],
-                    "guid": "q7trf|UbvB",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie wirkte sich das ESA Training program ab 2009 aus?",
-                        "Die Europäischen Astronauten bekamen ebenfalls bestnoten und durften viele EVA's machen<div>-&gt; Voller Erfolg</div><div><br></div><div>Sie müssen sich nur noch an sperrigkeit und bewegungseinschränkungen gewöhnen.&nbsp;</div>",
-                        "<img src=\"paste-6ec472d5db029d270ffc575bd95d27f71f9c94e9.jpg\">"
-                    ],
-                    "guid": "o`8T,**|k+",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welches weitere zusätzliche Training durchläuft ein Europäischer Astroaut außer dem EVA Training im Pool in Cologne noch?&nbsp;<div>Wofür machen wir das?</div>",
-                        "Parabelflugtraining<div>-&gt; Unterschiede zwischen Unterwasser-training und Weltraum herausfinden</div>",
-                        "<div>Floating Safety Cable: You can not simulate this under water</div><img src=\"paste-4edf593a335944ed06a8dc155ce0b063eee3578f.jpg\">"
-                    ],
-                    "guid": "eQ$t67~yUY",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was wird in Europa sonst noch im EVA-Pool trainiert?",
-                        "ESA Lunar EVA Simulations: Moondive Studies<div>Simulate partial gravity on Moon Mars</div><div>-&gt; Moonwalk with Kangoroo Jumps to move</div><div>-&gt; Difficulties: Rescue People</div>",
-                        "<img src=\"paste-5ef6ab4a074808ea124dc0f2ead333ed22c723b4.jpg\"><div><img src=\"paste-2f9504195431fb484f13af094b1abc9d5c6e9bcb.jpg\"><br></div>"
-                    ],
-                    "guid": "hksg>|uh~:",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was ist bei der Gravitation auf dem Mond ein entscheinender Unterschied zu den EVA Trainings im Weltraum mit neutral bouancy?",
-                        "Rescue a crew member:<div>Tests of LESA Prototype&nbsp;</div><div>-&gt; Lunar Evacuation System Assemlby</div>",
-                        "<img src=\"paste-bb5cd81636783cb3d5948873164e9781a4a342e0.jpg\"><br><div><img src=\"paste-60a66e39f11c489da4fffa9dc9cc8e3a138317f1.jpg\"><br></div>"
-                    ],
-                    "guid": "KtmfQ@n*V-",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "dffa026e-84be-11eb-b949-fc4596679de3",
-            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "paste-08a246918651e292c3cd895760d813b29d91d6db.jpg",
-                "paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg",
-                "paste-2a344cef58acb8a48c9bb748c7ed6ee4a1b33af4.jpg",
-                "paste-2c48476c702b5e119ef82c514fb77919df44261b.jpg",
-                "paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg",
-                "paste-6a2dbc40b20e6378b086feae677300fe0232dd61.jpg",
-                "paste-8d4b66dc511fb84ac5cc549ac29dfa49afc83ec2.jpg",
-                "paste-a087fb612e61e6ca1b20cadc89e571e81251668c.jpg",
-                "paste-a9df0634bc3a39e8565c14eb68b3c1b9c6e7fd23.jpg",
-                "paste-cb8c8c9356b8e16ab34b8e3c5eac8c8fcee14e71.jpg",
-                "paste-d054d1f68a857417da2d74581e39c68063ff9677.jpg",
-                "paste-d54075664ddb66663c6c678d4c196196d2758dfa.jpg",
-                "paste-d68097850a0aa7e3071857d049b4c1021107dc5c.jpg",
-                "paste-f1a497984470d9f9714a4072c9bbcb9bc1d78893.jpg"
-            ],
-            "name": "EinführungundSoyuz",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Geschichte der bemannten Raumfahrt:",
-                        "wichtiges:<div>-1961: Yuri Gagarin</div><div>-1962: John Glenn (erste Umlaufbahn)</div><div>-1965: Alexei Leonov (SpaceWalk)</div><div>-1965: Wladimir Komarow (first dead)</div><div>-1969: Mond Neil Armstrong, Buzz Aldrin, Michael Collins</div><div>-1986: Challenger Failure - Dichtungsringe</div>",
-                        "<img src=\"paste-cb8c8c9356b8e16ab34b8e3c5eac8c8fcee14e71.jpg\">"
-                    ],
-                    "guid": "o?LfRIa]`z",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche ISS Crew Vehicles gab und gibt es?",
-                        "- SpaceShuttle (8) auf dem Space Transortation System<div>- Soyuz (3) auf Soyuz</div><div>- Crew Dragon (7) auf Falcon 9</div><div>- Starliner (7) auf Atlas V</div>",
-                        "<img src=\"paste-a9df0634bc3a39e8565c14eb68b3c1b9c6e7fd23.jpg\"><div><img src=\"paste-f1a497984470d9f9714a4072c9bbcb9bc1d78893.jpg\"><br></div>"
-                    ],
-                    "guid": "m:_NY-D=R]",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte beim ersten Soyuz Flug? Soyuz 1",
-                        "23. April 1967<div>Vladimir Komarov (1d 2h im Weltraum)</div><div>Problem: Fallschirm öffnete nicht-&gt; Kapsel beim Aufschlag zerstört</div>",
-                        "<img src=\"paste-a087fb612e61e6ca1b20cadc89e571e81251668c.jpg\">"
-                    ],
-                    "guid": "e.13uc#3%{",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte beim Flug der Soyuz 11?",
-                        "06 Juni 1971<div>Vladislav Volkov, Georgi Dobrovolski, Viktor Patsayev (23d)</div><div>Problem: Beschädigung Ventil beim Wiedereintritt, Druckabfall von 112 s -&gt; alle tot</div>",
-                        "<img src=\"paste-d54075664ddb66663c6c678d4c196196d2758dfa.jpg\">"
-                    ],
-                    "guid": "Om50[G+h[,",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Erfolge der Soyuz:",
-                        "- Transport zur MIR<div>- immer noch aktiv</div><div>- Apollo Soyuz meet in Space</div>",
-                        ""
-                    ],
-                    "guid": "B[y^0IURt1",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie groß ist die Soyuz und wie schwer?",
-                        "50m<div>310 t</div>",
-                        "<div><img src=\"paste-6a2dbc40b20e6378b086feae677300fe0232dd61.jpg\"><br></div><img src=\"paste-8d4b66dc511fb84ac5cc549ac29dfa49afc83ec2.jpg\">"
-                    ],
-                    "guid": "utn.<c6y0H",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie ist die Soyuz Kapsel aufgebaut?",
-                        "- <b>Orbital Module</b> mit Dockingadapter, 5m^2 Living room, Teleskop<div>- <b>Descent Module</b> mit 3,5m^2 Living room und allem für Wiedereintritt</div><div>- <b>Instrument Module</b> mit Electrical Power, Fuel Tanks, Soalr Panels, Antennas</div><div><br></div><div>7.48m auf D:2.72 mit 7220 kg</div>",
-                        "<img src=\"paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg\">"
-                    ],
-                    "guid": "zedRlMKF$9",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie lange kann die Soyuz an der Iss bleiben und wieso ist diese zeit begrenzt?",
-                        "<b>180 Tage</b><div>Begrenzt durch <b>Battery Charge/rechage cycle</b></div>",
-                        ""
-                    ],
-                    "guid": "Ps&*jKg9jU",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Systeme der SOyuz sind auf Astronauten zugeschnitten?",
-                        "- <b>Spacesuit</b> (not for EVA, nur 2 1/2 h überleben)<div>- <b>Kazebek UM-Sitz</b> (reduziert BEschleunigungslasten, dämft Aufprall, Schalen individuell angepasst)</div>",
-                        "<img src=\"paste-2a344cef58acb8a48c9bb748c7ed6ee4a1b33af4.jpg\">"
-                    ],
-                    "guid": "iGVLj=&8<E",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was ist im Orbital Module der Soyuz enthalten?",
-                        "- <b>living room 4.8 m^2</b><div>- <b>Andockstutzen</b></div><div>- <b>Annäherungssystem KURS&nbsp;</b></div><div>- Bordtoilette, LCSS</div><div>- <b>Nutzlasten</b></div><div>- Einstiegsluke</div>",
-                        ""
-                    ],
-                    "guid": "mZJZ3BUks8",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was ist im Descent Module der Soyuz enthalten?",
-                        "- <b>3.5 m^2 living room</b><div>- 3 Sitze</div><div>- <b>Cockpit, Instrumente, Steuerung,</b> Periskop</div><div>- <b>Ablatives Hitzeschild</b></div><div>- <b>Fallschirmsystem</b></div><div>- Rücktransport von 100 kg Nutzlast in der Kapsel</div><div>- Cold Gas System mit N2</div>",
-                        ""
-                    ],
-                    "guid": "g{Wa.K({@R",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was ist im Instrument Module der Soyuz enthalten? (PAO)",
-                        "- <b>Antriebssystem mit Treibstoff und Drucktanks</b><div>- UDMH und NTO (880 kg Treibstoff)</div><div>- Main Engine SKD 1x</div><div>- Lageregelung DPO 28x</div><div>- <b>Solar Array </b>mit 10m^2 und 1 kW Leistung</div><div>- <b>Batterien</b></div><div>- <b>Funk Antenne</b></div><div>- Thermal Control System</div>",
-                        ""
-                    ],
-                    "guid": "LOd<Utw(mK",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie lange braucht eine Soyuz bis in den Orbit nach dem Start? (Soyuz Insertion Timeline)",
-                        "ab <b>8.48 min</b> ist dritte Stage alleine bei<b> 208 km</b> -&gt; Orbital Phase",
-                        "<img src=\"paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg\">"
-                    ],
-                    "guid": "oE9a#y+Hit",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche g-Kräfte erfährt man während dem Start mit einer Soyuz?",
-                        "<b>max 4 g</b><div><img src=\"paste-08a246918651e292c3cd895760d813b29d91d6db.jpg\"><br></div>",
-                        "<img src=\"paste-16f70908962014b3a45e1790f0370edeccc527ff.jpg\">"
-                    ],
-                    "guid": "C+6[Axz%!-",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wann ist zuletzt etwas mit der Soyuz schief gelaufen?",
-                        "11. Okt 2018<div>Valve did not open - Problem with the Booster - stayed at the Rocket</div>",
-                        "<img src=\"paste-d68097850a0aa7e3071857d049b4c1021107dc5c.jpg\"><div><img src=\"paste-d054d1f68a857417da2d74581e39c68063ff9677.jpg\"><br></div>"
-                    ],
-                    "guid": "p>f`(sPl|D",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viele Orbits fliegt die Soyuz normalerweise, bevor sie an die MIR andockt?",
-                        "16 Orbits",
-                        "<img src=\"paste-2c48476c702b5e119ef82c514fb77919df44261b.jpg\">"
-                    ],
-                    "guid": "krU`d(8uMp",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "e000b4b0-84be-11eb-9ad1-fc4596679de3",
-            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "paste-1128fdb3cef8ebef3b013e1b1fd4cf14aeced7c7.jpg",
-                "paste-235b87d35c5b9ab2143199f6b16fd2b29751410e.jpg",
-                "paste-3464660fb549f148f4c116feeda78318b9bfea42.jpg",
-                "paste-3601e0b3d1c73d670422c112e4521f90cfb323fd.jpg",
-                "paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg",
-                "paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg",
-                "paste-77d1a12cea44ea09024d8afa83b16a8b0b77a4d1.jpg",
-                "paste-8b1d87ab2c72d80ede874504ba73c8532fe276dd.jpg",
-                "paste-b27647a3eb403dfef0582f560f0fa8ae2567b63a.jpg",
-                "paste-c50a3fcb47212a251566fb91adeac5565ff2ed4f.jpg",
-                "paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg",
-                "paste-e7cb68c01644427cd06f8c6f6246e32910fbe0cd.jpg",
-                "paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg",
-                "paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg"
-            ],
-            "name": "HistoryofHumanSpaceflight",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche 11 deutschen Astronauten gibt es und wie viele waren auf der Soyuz und im Shuttle?",
-                        "<div>6 Soyuz, 7 Shuttle (+Furrer)</div><div>(Maurer),Gerst, Reiter, Messerschmidt,Ewald, Thiele,Walter, Schlegel, Flade,Merboldt, Jähn + Furrer</div><div><br></div><img src=\"paste-3601e0b3d1c73d670422c112e4521f90cfb323fd.jpg\">",
-                        ""
-                    ],
-                    "guid": "xqjZ_W87tE",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "In welche fünf Perioden lässt sich die Raumfahrt aufteilen?",
-                        "1. 1961-1972: Small Steps and Giant Leaps<div>2. 1971-1986: Eraly Space Stations</div><div>3. 1981-1991: Glory and Fall</div><div>4. 1991-1998: Winds of Change</div><div>5. 1998-today: International Space Station</div>",
-                        ""
-                    ],
-                    "guid": "QN-x8b]u,`",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte in der ersten Raumfahrtperiode 1961-1972 (Small Steps and Giant Leaps)?",
-                        "Surface Exploration of the Moon and Race to the Moon.<div><b>1961 -1965: Russian's Firts</b></div><div>- First Space Flight Vostok 1 (12.04.1961): Yuri Gagarin flies an entire orbit around earth</div><div>- First Women in Space Vostok 6 (06.1963): Valentina Tereshkova</div><div>- First EVA( Extra Vehicular Activity) in Voshkod 2 (18.03.1965): Alexei Leonov</div><div><b>1967-1972:</b></div><div>- Apollo 1: Dead of all Astronauts, Apollo 6: first time Rocket flies, Apollo 7: flies with Astronauts</div><div>- First Manned Flight to the Moon with Apollo 8 (21.12.1968)</div><div>- Apollo 13: Only Apollo after 11, who was not a sucess, but no one died</div><div>- Last Time, Human beeing visited the Moon :Apollo 17 (07.12.1972)</div>",
-                        "<img src=\"paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg\">"
-                    ],
-                    "guid": "JnR@300PtX",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Timeline:",
-                        "<img src=\"paste-6d54a68f6fc32b6de6f092e716ee40cc5498f2cc.jpg\"><div><img src=\"paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg\"><br></div><div><img src=\"paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg\"><br></div><div><img src=\"paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg\"><br></div><div><img src=\"paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg\"><br></div>",
-                        ""
-                    ],
-                    "guid": "e>X+NK7Dzx",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte in der zweiten Phase der Weltraumgeschiche von 1971-1986 (Early Space Stations)?",
-                        "- 1971: First Space Station: <b>Salyut 1</b>, visited with Soyus 11 23 Days, Cosmonauts died because of the Valve<div>- 1974: Salyut 3: war bewaffnet, um Satelliten abzuschießen&nbsp;</div><div>- 1977: <b>Salyut 6</b>: first Space Station with 2 Docking Ports -&gt; bring up consumables&nbsp;</div><div>- 1978: first Progress brings Supplies to ISS</div><div>- 1978: first German flies to Salyut 6: Siegmund Jähn</div><div><img src=\"paste-1128fdb3cef8ebef3b013e1b1fd4cf14aeced7c7.jpg\"><br></div><div>- 1973: <b>Skylab</b> - first time looking for Human Factors</div><div>- Shower in Skylab, after that never reused, took to much time</div><div><img src=\"paste-235b87d35c5b9ab2143199f6b16fd2b29751410e.jpg\"><br></div><div>-1975: <b>Apollo meets Suyuz</b>, Problem: different Atmospheres, Apollo had 1/3 and pure Oxygen -&gt; Adapter for Decompression</div><div><img src=\"paste-77d1a12cea44ea09024d8afa83b16a8b0b77a4d1.jpg\"><br></div>",
-                        "<img src=\"paste-f17d92b8fb34d2a6bb9a11b84b27388cb759f592.jpg\">"
-                    ],
-                    "guid": "vIlNY`Z8<H",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte in der dritten Phase der Raumfahrtgeschichte 1981-1991 (Glory and Fall)?",
-                        "1981: first <b>Space Shuttle</b> STS-1 Columbia<div><img src=\"paste-3464660fb549f148f4c116feeda78318b9bfea42.jpg\"><br></div><div>1983: first <b>Spacelab</b> Flug - European Astronaut flies with American Program -&gt; Space Lab build from Europe with all sorts of scientific investigations</div><div>1986: <b>Challenger</b> exploded beim Start wegen Dichtungsringen</div><div><br></div><div>1986: Aufbau der Mir Station und ausschlachtung der Salyut 7 mit Hilfe der Mission Soyuz T-15.&nbsp;</div>",
-                        "<img src=\"paste-3dc9d2f6f0fd58329314517a92d2d6f3dccb5c8c.jpg\">"
-                    ],
-                    "guid": "ex=Qs@557q",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div>Welchem Satelliten wurde Hubble nachgebaut?</div>",
-                        "<div>Space Shuttle hatte integrierten Satelliten, der das Thermal Protection System überprüfen sollte (KH-11 fliegt über Bauch des STS und macht Bilder) -&gt; Spy Satellite. <b>Hubble</b> wurde dem Aufbau dieses Satelliten nachgebildet.&nbsp;<br></div>",
-                        "<img src=\"paste-8b1d87ab2c72d80ede874504ba73c8532fe276dd.jpg\">"
-                    ],
-                    "guid": "Q^v.18_H81",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie wurde das erste STS angeliefert?",
-                        "<div>Als Columbia geliefert wurde, war das Hitzeschild nur halb fertig -&gt; Kunststoffdummys wurden für den Flug angebracht, fielen jedoch während des Atmosphärischen Fluges ab und viele der echten Keramiken mit.&nbsp;</div>",
-                        "<img src=\"paste-b27647a3eb403dfef0582f560f0fa8ae2567b63a.jpg\">"
-                    ],
-                    "guid": "JM~,ic-ih>",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte in der vierten Periode der Raumfahrtgeschichte 1991-1998 (Winds of Change)?",
-                        "1994-1998: Shuttle-Mir -&gt; Implementing long term Missions togehter<div><br></div><div>1994: first Cosmonaut flying with American Vehicle</div><div>1995: first American Astronaut flies Soyuz</div><div>1995: Valery Polyakov stadey 438 days in Space (<b>longest time in Space</b>)</div><div>1992: Intel Satellite failed to attach apogee motor -&gt; musste ausgetauscht werden mit Shuttle (STS-49) (3 tries - needed 3 Astronauts to fix it)</div>",
-                        "<img src=\"paste-ef9d566226c209b302874fad92fe2a406d33f445.jpg\">"
-                    ],
-                    "guid": "I(*A%{4vTu",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was passierte in der fünften Periode der Raumfahrt 1998- heute (ISS)?",
-                        "1998: start to build ISS with Functional Cargo Block<div>2008: Columbus brought to ISS with one Space Shuttle flight (Human tests)<br><div>2011: Shuttle Flotte grounded (atlantis was last)</div><div>2008-2015: European Cargo Vehicle ATV (5 times)</div></div><div>since 2020: commercial Operators like SpaceX bring Astronauts to the ISS: Dragon</div><div><br></div><div>2003: China launched its own Astronauts with Shenzou 5</div>",
-                        "<img src=\"paste-e082d3907f1af9bbb64c0757acb44854975c9ba0.jpg\">"
-                    ],
-                    "guid": "jpL:fxY%V5",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welches Land hat die meisten Menschen ins All geschickt?",
-                        "USA",
-                        "<img src=\"paste-e7cb68c01644427cd06f8c6f6246e32910fbe0cd.jpg\">"
-                    ],
-                    "guid": "K.Nm2Lf>b-",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Astronauten/Kosmonauten welches Landes blieben am längsten im Weltall?",
-                        "Russische",
-                        "<img src=\"paste-c50a3fcb47212a251566fb91adeac5565ff2ed4f.jpg\">"
-                    ],
-                    "guid": "fM`mmcm<<+",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "e006a400-84be-11eb-9c67-fc4596679de3",
-            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [
-                "paste-067289cd64dfed7f28490d33c17a28c7a737ea74.jpg",
-                "paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg",
-                "paste-091b4f3a6b8d2fd8a98180dfb1b568ee8de79830.jpg",
-                "paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg",
-                "paste-10b7e974c377765d3bfe17e61d475e23ebc33d99.jpg",
-                "paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg",
-                "paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg",
-                "paste-2ac72f7a24123f85b2b844518b5e282be569e536.jpg",
-                "paste-3ace31fcd27ba27fd23f261a33a45965c28b9495.jpg",
-                "paste-3f99d7c92424481f149120a9f9bfaacf0f56e277.jpg",
-                "paste-5078c34507fa6df8a3ae22dc47ff2f1165fca48f.jpg",
-                "paste-6733caf179f24642297b33dafdc51cf270f1172f.jpg",
-                "paste-730dd4876b439a674a28792a844c0d8018d7a156.jpg",
-                "paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg",
-                "paste-7bd09e229d4cf0a56141649c1a7fcde04cc1288f.jpg",
-                "paste-7d64b894553e7202f2fefa263300231ac8b7a0d6.jpg",
-                "paste-892c89b9ddd3ebf7374984c04dfa6561dc3690a9.jpg",
-                "paste-8937ff3cbe0f12e83cced8b7a52579500159a96b.jpg",
-                "paste-8c5e04bc7002ae5e56391059d6cb3536caea5457.jpg",
-                "paste-8d6774aa4390d593e830ba6c9095b98341128350.jpg",
-                "paste-92d9bb03acfcb17a3039de0ab881994c100f3c23.jpg",
-                "paste-a66937ba98d3d45400c302cf6ae7930679755edc.jpg",
-                "paste-a73ba0b184e7afd339d8919aad273acea0132452.jpg",
-                "paste-a97740faec036521a6c9c86bc994c89f9ec8fdde.jpg",
-                "paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg",
-                "paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg",
-                "paste-df4a609ad5f976e658dc7d96386eb202eb224688.jpg",
-                "paste-e33fee231de2fcf769f01b19656c0912d6755b1f.jpg",
-                "paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg",
-                "paste-eed9e67515efa9d938dac1f59fb4185a45f1ad02.jpg",
-                "paste-f5448cacb7023ae5f81683ba73fc01571a7a3a41.jpg",
-                "paste-fee54740c16d8380d3ff23fd7f3d03d87b78580a.jpg"
-            ],
-            "name": "ISRUandAnalogues",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ISRU: Construction - how can we protect out habitats on the moon and what are the greatest dangers?",
-                        "Regulith Material to protect habitat from <b>Radiation</b> and <b>micro- meteorite environment</b> and <b>thermal stabilisation</b>",
-                        "<img src=\"paste-8937ff3cbe0f12e83cced8b7a52579500159a96b.jpg\">"
-                    ],
-                    "guid": "w|AKdh[@#@",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche drei Hauptziele hat die moderne bemannte Raumfahrt?",
-                        "- Mond<div>- Mars</div><div>- LEO</div>",
-                        "<img src=\"paste-10b7e974c377765d3bfe17e61d475e23ebc33d99.jpg\">"
-                    ],
-                    "guid": "Qtb*p3Is0&",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was sind Analogue Facilities?",
-                        "\"fielt tests\" an Orten und Einrichtungen, die Ähnlichkeiten mit der Umgebung im Weltraum aufweisen -&gt; <b>Aktivität, die Elemente einer Weltraumumgebung in irdischer Umgebung nachbilden</b><div><br></div><div>Gestetet wird:<br><div>- Verhaltenseffekte&nbsp;</div><div>- Isolation und Eingeschlossenheit (confinement)</div><div>- Teamdynamik<br><div>- Demonstrationen neuer Technologien</div><div>- Validierung von Roboterausrüstung/ neue Fahrzeuge</div><div>- Habitat - Konzepte</div><div>- Kommunikation (mit der IRS)</div><div>- Energieerzeugung</div><div>- Infrastruktur und Mobilität</div><div><br><div>-&gt; <b>Billiger und schneller</b> auf der Erde als im Weltraum</div></div></div></div>",
-                        ""
-                    ],
-                    "guid": "QV<[p|iuf+",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was wird in Analogue Facilities getestet? Nenne 4 unterschiedliche Aufgaben",
-                        "<div>- Verhaltenseffekte&nbsp;</div><div>- Isolation und Eingeschlossenheit (confinement)</div><div>- Teamdynamik<br><div>- Demonstrationen neuer Technologien</div><div>- Validierung von Roboterausrüstung/ neue Fahrzeuge</div><div>- Habitat - Konzepte</div><div>- Kommunikation (mit der IRS)</div><div>- Energieerzeugung</div><div>- Infrastruktur und Mobilität</div></div>",
-                        ""
-                    ],
-                    "guid": "geFXS,2gI=",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche unterschiedlichen Arten von Analogues in space context gibt es?",
-                        "<b>Artificial analogue:</b><div>Something, that we created in a controlles environment (not naturally)</div><div><br></div><div><b>Natural analogue:&nbsp;</b></div><div>A natural place who is representative of a space environment</div><div>Ex: Lanzarote -&gt; Mars</div>",
-                        "<img src=\"paste-7d64b894553e7202f2fefa263300231ac8b7a0d6.jpg\">"
-                    ],
-                    "guid": "eC-OIS!mm1",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Artificial Analogue Facilities gibt es? (8 Stück hier genannt)",
-                        "- <b>HERA Human Exploration Research Analogue</b><div>Three level habitat for Isolation and remote condition testing -&gt; human factors research</div><div><br></div><div>- <b>HESTIA Human Exploration Spacecraft Testbed for Integration and Advancement</b></div><div>Umgebungskammer die stabile Luftschleusenumgebung erzeugt -&gt; Testen der Stabilisierungsausrüstung und ECLSS (noch aus der Apollo Zeit)</div><div><br></div><div>- <b>NBF Neutral Buoyancy Facility</b></div><div>Astronaut Spacewalk Training and simulation of Lunar gravity</div><div><br></div><div>- <b>NEEMO NASA Extreme Environment Mission Operations</b></div><div>Crew (4 Astronauten) werden 2 Wochen unter Wasser isoliert in isolated Environment -&gt; Testen von Konzepten, Prozeduren, Ausrüstungen,...&nbsp;</div><div><br></div><div>- <b>NASA NEEMO-NXT</b></div><div>Erweiterung NEEMO zu MAchbarkeitsmission in U-Boot mit Augmented Reality -&gt; Geologische Trainingsübungen unter weltraumähnlichen Einsatzbedingungen</div><div><br></div><div>- <b>Bed rest programme&nbsp;</b></div><div>physiologische Veränderungen in Organsystemen reproduzieren und Grundlagenforschung ermöglichen. (Teilweise bis zu 2 Wochen nur da liegen)</div><div><br></div><div>- <b>Isolation and confinement programme</b></div><div>Autonomie und Abgeschiedenheit wie bei Weltraummissionen. Grundlagenforschung zu physiologischen uns psychologischen Stressoren</div><div><br></div><div>- <b>Parabolic flights</b></div><div>Erlaubt testen in der Schwerelosigkeit für 20-30 sekunden</div>",
-                        "-&nbsp;<b>HERA Human Exploration Research Analogue</b><div>Three level habitat for Isolation and remote condition testing -&gt; human factors research</div><div><img src=\"paste-2ac72f7a24123f85b2b844518b5e282be569e536.jpg\"><br></div><div><br></div><div>-&nbsp;<b>HESTIA Human Exploration Spacecraft Testbed for Integration and Advancement</b></div><div>Umgebungskammer die stabile Luftschleusenumgebung erzeugt -&gt; Testen der Stabilisierungsausrüstung und ECLSS (noch aus der Apollo Zeit)</div><div><img src=\"paste-8c5e04bc7002ae5e56391059d6cb3536caea5457.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NBF Neutral Buoyancy Facility</b></div><div>Astronaut Spacewalk Training and simulation of Lunar gravity</div><div><img src=\"paste-091b4f3a6b8d2fd8a98180dfb1b568ee8de79830.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NEEMO NASA Extreme Environment Mission Operations</b></div><div>Crew (4 Astronauten) werden 2 Wochen unter Wasser isoliert in isolated Environment -&gt; Testen von Konzepten, Prozeduren, Ausrüstungen,...&nbsp;</div><div><img src=\"paste-6733caf179f24642297b33dafdc51cf270f1172f.jpg\"><br></div><div><br></div><div>-&nbsp;<b>NASA NEEMO-NXT</b></div><div>Erweiterung NEEMO zu MAchbarkeitsmission in U-Boot mit Augmented Reality -&gt; Geologische Trainingsübungen unter weltraumähnlichen Einsatzbedingungen</div><div><img src=\"paste-5078c34507fa6df8a3ae22dc47ff2f1165fca48f.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Bed rest programme&nbsp;</b></div><div>physiologische Veränderungen in Organsystemen reproduzieren und Grundlagenforschung ermöglichen. (Teilweise bis zu 2 Wochen nur da liegen)</div><div><img src=\"paste-92d9bb03acfcb17a3039de0ab881994c100f3c23.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Isolation and confinement programme</b></div><div>Autonomie und Abgeschiedenheit wie bei Weltraummissionen. Grundlagenforschung zu physiologischen uns psychologischen Stressoren</div><div><img src=\"paste-3ace31fcd27ba27fd23f261a33a45965c28b9495.jpg\"><br></div><div><br></div><div>-&nbsp;<b>Parabolic flights</b></div><div>Erlaubt testen in der Schwerelosigkeit für 20-30 sekunden</div><div><img src=\"paste-7bd09e229d4cf0a56141649c1a7fcde04cc1288f.jpg\"></div>"
-                    ],
-                    "guid": "Fig{Bt)ojG",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Natural Analogue Facilities gibt es? (5 Stück hier genannt)",
-                        "- <b>Robotic Exploration field trials</b> (SAFER, SEEKER, LUCID, EXOFIT, METERON, SUPVIS-M,...)<div>Analoge Umgebung auf Planetenoberfläche, Technologiedemomstrationen.&nbsp;</div><div><br></div><div>- <b>CAVES Cooperative Adventure for Valuing and Exercising HBP Skills</b></div><div>Isolation und Team Building in Höhlen (Enge, EVA-Verlauf, Isolation), 2 Wochen Underground</div><div><br></div><div>-<b> CAVES-X: CAVES eXpedition</b></div><div>Technologien testen (erweiterung CAVES), Mikrobiologie in extremer Umgebung -&gt; Monte Kronio, Sizilien</div><div><br></div><div>- <b>PANGAEA Planetary ANalogue Geology and Astrobiology Exercise for Astronauts</b></div><div>Planetare Feldgeologie wird untersucht -&gt; Bewusstsein für Komplexität von Feldoperationen -&gt; Lanzarote</div><div><br></div><div>- <b>PANGAEA-X PANGEA eXtension test campaigns</b><br></div><div>Technologien testen, Werkzeuge, Experimente, Betriebskonzepte, Lavahöhlen</div>",
-                        "-&nbsp;<b>Robotic Exploration field trials</b>&nbsp;(SAFER, SEEKER, LUCID, EXOFIT, METERON, SUPVIS-M,...)<div>Analoge Umgebung auf Planetenoberfläche, Technologiedemomstrationen.&nbsp;</div><div><img src=\"paste-a73ba0b184e7afd339d8919aad273acea0132452.jpg\"><br></div><div><br></div><div>-&nbsp;<b>CAVES Cooperative Adventure for Valuing and Exercising HBP Skills</b></div><div>Isolation und Team Building in Höhlen (Enge, EVA-Verlauf, Isolation), 2 Wochen Underground</div><div><img src=\"paste-f5448cacb7023ae5f81683ba73fc01571a7a3a41.jpg\"><br></div><div><br></div><div>-<b>&nbsp;CAVES-X: CAVES eXpedition</b></div><div>Technologien testen (erweiterung CAVES), Mikrobiologie in extremer Umgebung -&gt; Monte Kronio, Sizilien</div><div><br></div><div>-&nbsp;<b>PANGAEA Planetary ANalogue Geology and Astrobiology Exercise for Astronauts</b></div><div>Planetare Feldgeologie wird untersucht -&gt; Bewusstsein für Komplexität von Feldoperationen -&gt; Lanzarote</div><div><img src=\"paste-df4a609ad5f976e658dc7d96386eb202eb224688.jpg\"><br></div><div><br></div><div>-&nbsp;<b>PANGAEA-X PANGEA eXtension test campaigns</b><br></div><div>Technologien testen, Werkzeuge, Experimente, Betriebskonzepte, Lavahöhlen</div>"
-                    ],
-                    "guid": "BmV]PzEf5M",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sustainable Exploration - was heißt das?",
-                        "Je weiter wir ins Sonnensystem vordringen, umso mehr müssen wir wiederverwenden.&nbsp;<div>Nutzung der Ressourcen im Sonnensystem</div><div><br><div>-&gt; Transportwiederverwendung und ISRU (In Situ resource Utilisation)</div></div>",
-                        ""
-                    ],
-                    "guid": "QSgsk3YC#|",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was heißt die Abkürzung I.S.R.U?",
-                        "<b>In Situ resource Utilisation</b><div>&nbsp;-&gt; Altbabylonisches wort</div><div>-&gt; Praxis des Sammelns, Verarbeitens, Lagerns und Verwenden von Materialien auf anderen astronomischen Objekten</div>",
-                        ""
-                    ],
-                    "guid": "BX:ZX^N*03",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Was könnte auf dieser Mondoberfläche ISRU-verwendet werden?<div><img src=\"paste-730dd4876b439a674a28792a844c0d8018d7a156.jpg\"><br></div>",
-                        "- Wasser an den Polen<div>- Regulith als Material</div><div>- Solarenergie</div>",
-                        "<img src=\"paste-eed9e67515efa9d938dac1f59fb4185a45f1ad02.jpg\">"
-                    ],
-                    "guid": "N*z,ZIzWnJ",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welches sind die 5 Main Areas der ISRU?",
-                        "- Energy<div>- Water</div><div>- Metals</div><div>- Oxygen</div><div>- Construction</div>",
-                        "<img src=\"paste-e33fee231de2fcf769f01b19656c0912d6755b1f.jpg\">"
-                    ],
-                    "guid": "sZB1L_R#h^",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ISRU: Energy- how can we procude and storage Energy?",
-                        "<div>- <b>Regenrative Fuel Cells</b> zum erzeugen von Energie (Energiespeicher, Elektrolyse durch Sonnenenrgie am Tag und Rekombination in der Schattenphase)<br></div><div>- <b>Hot-Cold-Differential</b>: Use thermal Energy</div>",
-                        "<img src=\"paste-a97740faec036521a6c9c86bc994c89f9ec8fdde.jpg\"><div><img src=\"paste-8d6774aa4390d593e830ba6c9095b98341128350.jpg\"><br></div>"
-                    ],
-                    "guid": "jMFf~*-#!?",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ISRU: Water- how can we produce Water?",
-                        "- Wasser an den Polarregionen<div>- Untersuchungen von Regolith um mehr über Wasser auf dem Mond zu lernen</div>",
-                        "<img src=\"paste-067289cd64dfed7f28490d33c17a28c7a737ea74.jpg\">"
-                    ],
-                    "guid": "H#q13o{|E5",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ISRU: Metals- how can we produce Materials to build things?",
-                        "-&gt; Regolith enthält viele Bestandteile, auch viel O2, leider nur in Oxidform<div>-&gt; 3D-Drucken von Regolith&nbsp;<br><div><img src=\"paste-892c89b9ddd3ebf7374984c04dfa6561dc3690a9.jpg\"><br></div></div>",
-                        "<div><img src=\"paste-a66937ba98d3d45400c302cf6ae7930679755edc.jpg\"><br></div><img src=\"paste-fee54740c16d8380d3ff23fd7f3d03d87b78580a.jpg\">"
-                    ],
-                    "guid": "EL`23ULdq&",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie können Metalle und Ogygen aus Regolith extrahiert werden?",
-                        "<img src=\"paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg\"><div><img src=\"paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg\"><br></div>",
-                        "<div><b>Ice/ Volatile Extraction Process:</b></div><div>Uses Ice from Craters -&gt; 20-70 kg O2/t, 100°C</div><img src=\"paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg\"><div><br></div><div><b>Hydrogen Extraction Process:</b>&nbsp;<br><div>Uses FeO Fraction -&gt; 10-50 kg O2/t bei 800-1000°C</div></div><div><img src=\"paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg\"><br></div><div><br></div><div><b>Solid Carbothermal Extraction Process</b></div><div>FeO fraction -&gt; 10-50 kg O2/t at 800-1000°C</div><div><img src=\"paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg\"><br></div><div><br></div><div><b>Liquid Carbothermal Extraction Process</b></div><div>FeO and SiO2 fractions -&gt; 150-200 kg O2/t at &gt;1600°C</div><div><img src=\"paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg\"><br></div><div><br></div><div><b>Molten Regolith Electrolysis</b></div><div>All Oxide fractions -&gt; 160-400 kg O2/t, 1600-2000 °C</div><div><img src=\"paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg\"><br></div><div><br></div><div><b>FCC Cambridge/ Metalysis Process</b></div><div>All oxide Fractions -&gt; 250-400 kg O2/t at 800-950°C</div><div><img src=\"paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg\"><br></div>"
-                    ],
-                    "guid": "Nj.aWB?_q^",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche ISRU Aktivitäten der ESA gibt es?",
-                        "- PROSPECT<div>- Nutzlast mit Roscosmos-Mondlandegerät zur Erforschung der Südpolregion und Gasgewinnng</div><div>- Ent-to-End Demonstrator für ISRU Anlage</div><div>- Raumschiff EAC (ISRU Untersuchungen auf niedrigem Niveau)</div>",
-                        ""
-                    ],
-                    "guid": "EFaskQ)w8u",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Für was kann das Moon-Village zukünftig verwendet werden?",
-                        "- Als Propellant Depot<div>- Für Tests auf dem Mars super, da alles auf dem Mond schwieriger ist (Gravitation geringer, Oxygen generation schwerer)</div>",
-                        "<img src=\"paste-3f99d7c92424481f149120a9f9bfaacf0f56e277.jpg\">"
-                    ],
-                    "guid": "ClPOk;x}H&",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Woher kam das Regulith für die Tests der ESA?",
-                        "Regulith Similars wurden entwickelt zum Beispiel<b> EAC-1</b><div>Und auf der Erde gibt es ähnliche Materialien in manchen Regionen<br><div>-&gt; Es gibt nur 400 kg echtes Regulith, das wird vom Ami aufbewahrt</div></div>",
-                        ""
-                    ],
-                    "guid": "JYJft#T*SA",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "e0032400-84be-11eb-a52b-fc4596679de3",
             "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
             "desc": "",
@@ -1334,7 +1526,7 @@
                 "paste-f97d0656c2662f1d3df4f995b12cda9000569f1b.jpg",
                 "paste-fd402e0ca006e7eed2287442e025d853590bfece.jpg"
             ],
-            "name": "InterplanetaryTrajectories",
+            "name": "Z10_InterplanetaryTrajectories",
             "notes": [
                 {
                     "__type__": "Note",
@@ -1605,185 +1797,213 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "e0098830-84be-11eb-a129-fc4596679de3",
-            "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
+            "crowdanki_uuid": "a94b5bf1-87bf-11eb-abc2-fc4596679de3",
+            "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "paste-047fc289f49ca9de23d43dd6764dbb07a299e9fb.jpg",
-                "paste-30920120ac1f58c051581776aac9124cef83020b.jpg",
-                "paste-43541fbc228b37be02ccdb797454006ed9eac78c.jpg",
-                "paste-75de8b71401175d818db08c7872a780eaf0ddf8e.jpg",
-                "paste-7d3fdfe30419012569a8b5b7328c84953b15c39e.jpg",
-                "paste-95eda658c89a0560a4c027acb60d40b437a47675.jpg",
-                "paste-a20f6d10d02b53cfab448a30e9e8fd3f83659855.jpg"
+                "paste-002e29c12101735764a6e119651316c46b02f18c.jpg",
+                "paste-00aff634be95efd3a1d66e7b41d59522846257c3.jpg",
+                "paste-00b17b84cd14f5a2c7136aa1bbe1fd66ad18650b.jpg",
+                "paste-02dd82538ef41d67bbfb8062842c872f9b7b51fe.jpg",
+                "paste-0622524fc6335682f53d312a216c1413d97c8868.jpg",
+                "paste-07f224ac9fdd204c2c06c85800e92582820fb0f9.jpg",
+                "paste-11437c910be9716c1f67fa9190133c4cc64e3258.jpg",
+                "paste-1b879bdf1bfcfd6df00a9d96b5315a298a78b1a6.jpg",
+                "paste-1d005b7d836e40ca5dc1921ad563cf9ee9b19b1c.jpg",
+                "paste-27b98be79c60733d19dbfffa5665cb083d9814b6.jpg",
+                "paste-3638b32c6ba1d4194386a38136b138244aa69c05.jpg",
+                "paste-4395e587c1de92975fc5e60a572701f7939ada8e.jpg",
+                "paste-45b40675b97e976da7a9d73235b4f5fc6e00c266.jpg",
+                "paste-52ae117cfab1742fa7666dce712168cf4fbdc646.jpg",
+                "paste-5420ceb108e36fd9ddd018a4652c10e488835b80.jpg",
+                "paste-59af53895c916ccc0dbdaa4db38bbe9a73eca56a.jpg",
+                "paste-5a62dfd8fd2344593eebb73793e38cecc1edb931.jpg",
+                "paste-634ddfe647ed621ecdc4d50c7a8cbed7a8aa88d1.jpg",
+                "paste-64788365f4e21618e39a69a72841854c1469a37d.jpg",
+                "paste-6d4c3dc733681506b3ecb6f7bb609d9f2bcf0586.jpg",
+                "paste-744e3934e385f0ac8e683b86cbb241f5d4aa1f2b.jpg",
+                "paste-80737aa3eb6ca7ef5de466ed903fb23643dd2f58.jpg",
+                "paste-8b68f2f1962729675236d16dd020e4758f52d40b.jpg",
+                "paste-98ab85b2b4a83c012a7e668e195d0bb0c770ab6b.jpg",
+                "paste-a7d3dd992ddd2ef5db2708606d3514e69b187438.jpg",
+                "paste-bdd81e26884af4f690f2691668669aaecdbb9952.jpg",
+                "paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg",
+                "paste-ceecb1c4fe8ef85a74d61302bb3d05a68352fe9b.jpg",
+                "paste-d9792d7560217fed72c8f29c031aa3aa971f3b32.jpg",
+                "paste-e29143ca993b43e0f81f78a0dec09a3099c032e4.jpg",
+                "paste-ea70cd432b536b25c0d6e17841a3f5b9d1814449.jpg",
+                "paste-eb52e018a21af9afaeb62f10445162e883feb841.jpg",
+                "paste-ecfb7dd009c04428970ea6c9b06701b62b228f13.jpg",
+                "paste-f658169a07eb4eb4a333719a9ef9b28808460bc5.jpg"
             ],
-            "name": "SpaceShuttle",
+            "mid": 1609598497876,
+            "name": "Z11_Asteroids",
             "notes": [
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welches war das letzte Space Shuttle, das Flog und wann?",
-                        "2011 Atlantis mit Chris Ferguson (Testflight Starliner) und Duck Hurley (first Commander of Dragon Capsule)</div>",
-                        "<img src=\"paste-a20f6d10d02b53cfab448a30e9e8fd3f83659855.jpg\">"
+                        "Geschichte des SolarSystems - was ist bis heute passiert?",
+                        "Anziehungen zwischen Jupiter und Saturn sorgen nach 800-900 Mio Jahren für Störungen und sorgen dafür, dass Neptun aus seiner Bahn geworfen wird und jetzt der äußerste Planet ist. -&gt; complete chaos in minor body belts<div>-&gt; Bombadierung der inneren Planeten (Krater auf dem Mond)</div><div>-&gt; Zusammensetzung im Asteroidengürtel durcheinander</div><div><img src=\"paste-27b98be79c60733d19dbfffa5665cb083d9814b6.jpg\"><br></div>",
+                        "<img src=\"paste-f658169a07eb4eb4a333719a9ef9b28808460bc5.jpg\"><img src=\"paste-ea70cd432b536b25c0d6e17841a3f5b9d1814449.jpg\"><img src=\"paste-1b879bdf1bfcfd6df00a9d96b5315a298a78b1a6.jpg\"><img src=\"paste-eb52e018a21af9afaeb62f10445162e883feb841.jpg\"><img src=\"paste-1d005b7d836e40ca5dc1921ad563cf9ee9b19b1c.jpg\"><img src=\"paste-52ae117cfab1742fa7666dce712168cf4fbdc646.jpg\"><img src=\"paste-64788365f4e21618e39a69a72841854c1469a37d.jpg\"><div><a href=\"http://docmadhattan.fieldofscience.com/2011/05/nice-model-of-solar-system.html\">http://docmadhattan.fieldofscience.com/2011/05/nice-model-of-solar-system.html</a><br></div>"
                     ],
-                    "guid": "g]spefrR#m",
+                    "guid": "PGLgiM=C<@",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was war das politische Problem in den 1970er, als das Space Shuttle entwickelt werden sollte?",
-                        "<div><b>Geld und Zeit:</b></div>Präsident Richard Nixon strich NASA Budget auf 5 Billion US-Dollar. (Obwohl er die Astronauten von Apollo 11 vom Mond empfangen hat)<div>Musste mit wenig Geld in nur 5 Jahren entwickelt werden (es gab vorher noch kein geflügeltes Eintrittsfahrzeug.&nbsp;</div>",
+                        "Wie unterscheiden sich Asteroiden/ Wie divers sind Asteroiden?",
+                        "- <b>Location</b><div>- <b>Size</b></div><div>- <b>Farbe </b>(Albedo Range 0,01-0,9)</div><div>- <b>Form</b>/Shape: mit ring (technically Zwergplanet)</div><div>- Als <b>Asteroid Systems</b> (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><b>- Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div>",
+                        "Location<div><img src=\"paste-002e29c12101735764a6e119651316c46b02f18c.jpg\"><br></div><div><br></div><div>Size</div><div><img src=\"paste-11437c910be9716c1f67fa9190133c4cc64e3258.jpg\"><br></div><div><br></div><div>Farbe (Albedo Range 0,01-0,9)</div><div><img src=\"paste-ceecb1c4fe8ef85a74d61302bb3d05a68352fe9b.jpg\"><br></div><div><br></div><div>Form/Shape: mit ring (technically Zwergplanet)</div><div><img src=\"paste-00aff634be95efd3a1d66e7b41d59522846257c3.jpg\"><br></div><div><br></div><div>Als Asteroid Systems (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><img src=\"paste-ecfb7dd009c04428970ea6c9b06701b62b228f13.jpg\"><br></div><div><br></div><div><b>Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div><img src=\"paste-0622524fc6335682f53d312a216c1413d97c8868.jpg\"><br></div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div><div><img src=\"paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg\"><br></div><div><br></div>"
+                    ],
+                    "guid": "Qx:C.@A]qx",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie entstehen solche Asteroiden wie Churyumov Gerasinemko?<div><img src=\"paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg\"><br></div>",
+                        "1. Aus einem großen Körper -&gt; neck quite active and many outgasses&nbsp;<div>2. Zwei seperate Körper und kollidierung -&gt; Dadurch zusammenschmelzen (Sehr wahrscheinlich!)</div>",
+                        "<img src=\"paste-45b40675b97e976da7a9d73235b4f5fc6e00c266.jpg\">"
+                    ],
+                    "guid": "LRA/^8/2b:",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches war der erste Asteroid, der von außerhalb des Sonnensystems war?",
+                        "1l/'Oumuamua<div>-&gt; Wir wissen nicht wie genau er aussieht, wir wissen, dass er länglich ist da sich die Lichtverhältnisse ändern. Wir wissen aber nicht viel über dieses Objekt. Vermtlich gibt es kleine Ausgasungen, die wir nicht erkennen können, denn die Bahn des Asteroiden ist sonst nicht erklärbar</div><div>Kurz nach Oumuamua gab es dann das zweite Interstellare Object: 2l/Borisov</div>",
+                        "<img src=\"paste-6d4c3dc733681506b3ecb6f7bb609d9f2bcf0586.jpg\"><div><img src=\"paste-59af53895c916ccc0dbdaa4db38bbe9a73eca56a.jpg\"><br></div><div><img src=\"paste-d9792d7560217fed72c8f29c031aa3aa971f3b32.jpg\"><br></div><div>-&gt; measure light over time and see how it changes</div><div><img src=\"paste-80737aa3eb6ca7ef5de466ed903fb23643dd2f58.jpg\"><br></div>"
+                    ],
+                    "guid": "OG4~^{>#qZ",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wofür untersuchen wir Astronauten/ Cometen?",
+                        "- <b>Science</b>: Solarsystem verstehen, Probenrückführung, Entstehung Leben<div>- <b>Impact hazard</b>/ Schutz vor NEO: Verstehen und Abschwächen des Aufpralls</div><div>- <b>Mining</b>: Edelmetalle (lohnt sich nicht), Wasser und flüchtige Stoffe (interesting for in Situ)</div>",
                         ""
                     ],
-                    "guid": "FWC1}*}B}U",
+                    "guid": "E6IgH}];vj",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie ist die Wingspan des Shuttles?",
-                        "24m&nbsp;",
-                        "<img src=\"paste-30920120ac1f58c051581776aac9124cef83020b.jpg\">"
-                    ],
-                    "guid": "dx$nE-Yz&K",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viel Masseanteil an Sprit hat der External Tank des Space Transportation Systems?",
-                        "Gesamtgewicht: 750 t<div>Struktur: 39t</div>",
-                        "<img src=\"paste-95eda658c89a0560a4c027acb60d40b437a47675.jpg\">"
-                    ],
-                    "guid": "K~=][~2u8j",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie ist das Verhätnis Strukturgewicht zu Gesamtgewicht beim Booster des Space Transportation Systems?",
-                        "Gesamtgewicht: 2x 590t<div>Struktur: 2x 87t</div><div>-burn radiately outward</div>",
-                        "<img src=\"paste-047fc289f49ca9de23d43dd6764dbb07a299e9fb.jpg\">"
-                    ],
-                    "guid": "Q19.`J1LzI",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Aufbau Orbiter des Space Transportation System:",
-                        "<img src=\"paste-43541fbc228b37be02ccdb797454006ed9eac78c.jpg\">",
-                        "Steuerung durch differentiellen Schub"
-                    ],
-                    "guid": "jUlVAAldUY",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viele Shuttle Flights gab es?",
-                        "<b>135</b>: 12.04.1981-21.07.2011",
-                        "28 Columbia<div>10 Challenger</div><div>29 Discovery</div><div>33 Atlantis</div><div>25 Endeavour</div>"
-                    ],
-                    "guid": "sJ%|lH@,,M",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wer flog mit allen fünf Shutteln?",
-                        "<b>Story Musgrave</b> war die einzige Person, die mit allen fünf Shutteln geflogen ist.&nbsp;",
+                        "Was sind Cometen, Asteroiden, Meteroriden, Meteore und Meteoriten?",
+                        "<div><b><u>Space</u></b></div><div><b>Small Solar System Bodies</b>: Asteroids, Comets, Meteoroids</div><b>Meteorid:</b>&nbsp;fester, natürlicher Körper im Weltraum - kleiner als Asteroide<div><b>Micrometeorid</b>: Meteorid mit weniger als 1g Masse</div><div><div><b>Comet:</b>&nbsp;\"Snowy dust ball\" - Eisklumpen, aus Wasser und Gas (volatile materials), die Steinfragmente enthalten. (created in Solar System), ~3709 objects, 100m-10km, coma and tail</div><div><b>Asteroid</b>: fester, natürlicher Körper im Weltraum, vor allem im Asteoridengürtel, sehr viele Objekte ~920,000 objects, aus silicaten, metal or carbon, 10m-100km</div></div><div><b>Dwarf Planet</b>: Ab einer bestimmten Größe werden Objekte sphärisch -&gt; dann sind es Zwerg-Planeten</div><div><br></div><div><b><u>Erde</u></b></div><div><b>Meteor</b>: Meteorid, der in die Atmosphäre eintritt und dort verglüht (burning up), &lt;10m,&nbsp;</div><div><b>Meteorite</b>: Was von einem Meteor auf die Erde auftritt</div><div><b>Micrometeorite:</b>&nbsp;Meteorit, der kleiner als 0.2 mm ist</div><div><img src=\"paste-bdd81e26884af4f690f2691668669aaecdbb9952.jpg\"><br></div>",
                         ""
                     ],
-                    "guid": "sm~zi6M|4%",
+                    "guid": "jbTP+Q,.r#",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welches war der erste Spacelbab flight?",
-                        "STS-9 mit first Non-American in Shace Shuttle: Ulf Merboldt<div>1983 - 72 Experimente&nbsp;</div><div>Problems: Reaction Control System crash (4h bevore re-enrty), 2 APU units caught fire&nbsp;</div>",
-                        "mit dabei außerdem John Young (Apollo 16)&nbsp;"
-                    ],
-                    "guid": "u0QZXw>%+@",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie sind die Astronauten Aufgabentechnisch in Deutschland-Frankreich verteilt?",
-                        "Deutschland: scientists (science)<div>Frankreich: testpilots (build rockets)</div>",
+                        "Was ist die Snowline?",
+                        "Die grenze im Sonnensystem hinter der es kalt genug ist, dass Wasser fest bleibt und noch nicht gasförmig ist. Innen ist Wasser evaporiert",
                         ""
                     ],
-                    "guid": "Pqt_2U~$~+",
+                    "guid": "k&)m]=w8_]",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was war an den Missionen D1 und D2 Besonders?",
-                        "D1: 1985 - 75 experiments<div>D2: 1993 - 88 experiments</div><div>-&gt; Nasa gave away the control of Payload Operation Ground System</div>",
+                        "Was wissen wir eigentlich alles über Asteroiden/ Wie messen wir wichtige Eigenschaften von Asteroiden?",
+                        "<div>-&nbsp;<b>Größe</b>? -&gt; wir kennen nut die Brightness und können daraus die Größe abschätzen<div>-&nbsp;<b>Brightness</b>: Reflektion + visible light (IR Observations) -&gt; Information about&nbsp;<b>size &amp; surface colour</b></div><div>-&nbsp;<b>Shape &amp; rotational behaviour</b>: Observation über 10 Jahre um die Form zu rekonstruieren&nbsp;</div><div>-&gt; 3D Modell based on light curves taken over years</div><div>-&nbsp;<b>Internal structure:</b>&nbsp;mit size &amp; rotation we can make assumptions about internal structure</div><div>- <b>Multiple asteroid systems</b>: binary systems, triple systems,... ~15%</div><div>- <b>Spectral Information</b>: Information about surface composition (Taxonomie)</div></div>",
+                        "<div>-&nbsp;<b>Größe</b>? -&gt; wir kennen nut die Brightness und können daraus die Größe abschätzen<div>-&nbsp;<b>Brightness</b>: Reflektion + visible light (IR Observations) -&gt; Information about&nbsp;<b>size &amp; surface colour</b></div><div><img src=\"paste-744e3934e385f0ac8e683b86cbb241f5d4aa1f2b.jpg\"><br></div><div><img src=\"paste-634ddfe647ed621ecdc4d50c7a8cbed7a8aa88d1.jpg\"><br></div><div>-&nbsp;<b>Shape &amp; rotational behaviour</b>: Observation über 10 Jahre um die Form zu rekonstruieren&nbsp;</div><div><img src=\"paste-07f224ac9fdd204c2c06c85800e92582820fb0f9.jpg\"><br></div><div>-&gt; 3D Modell based on light curves taken over years</div><div>-&nbsp;<b>Internal structure:</b>&nbsp;mit size &amp; rotation we can make assumptions about internal structure</div><div><img src=\"paste-98ab85b2b4a83c012a7e668e195d0bb0c770ab6b.jpg\"><br></div><div>- <b>Multiple asteroid systems</b>: binary systems, triple systems,... ~15%</div><div><img src=\"paste-a7d3dd992ddd2ef5db2708606d3514e69b187438.jpg\"><br></div><div>- <b>Spectral Information:</b> Information about surface composition (Taxonomie)</div><div><img src=\"paste-02dd82538ef41d67bbfb8062842c872f9b7b51fe.jpg\"><br></div></div>"
+                    ],
+                    "guid": "NHu/IIRgym",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wirft Asteroiden im Asteroidengürtel aus ihrere Bahn und sorgt dafür, dass sie eine Gefahr für die Erde darstellen?",
+                        "- Gravity of Planets: Resonsanz mit Jupiter oder Saturn, flybys<div>- Non-gravitational effects: Outgasing, Thermal Effects (Yarkowsky Effect), radiation</div><div>- (collisions not often)</div>",
+                        "<img src=\"paste-5a62dfd8fd2344593eebb73793e38cecc1edb931.jpg\">"
+                    ],
+                    "guid": "M^8+_hA+P;",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ab wann wird ein Asteroid als Near-Earth Asteroid/object (NEO) klassifiziert?",
+                        "wenn er näher als 1,3 AU an der Sonne ist",
+                        "<img src=\"paste-00b17b84cd14f5a2c7136aa1bbe1fd66ad18650b.jpg\">"
+                    ],
+                    "guid": "esv4pm0[p?",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ab wann ist ein Objekt ein potenziell Hazardous Object PHO? Wie viele gibt es?",
+                        "- Minimal Orbital Intersection Distance &lt;0,05 AU von der Erde weg<div>- Absolute Helligkeit H von 22,0 oder weniger (&gt;150m@13%Albedo)</div><div><br></div><div>Es gibt Stand Jan 2021 ~2170 PHO's</div>",
+                        "<img src=\"paste-e29143ca993b43e0f81f78a0dec09a3099c032e4.jpg\">"
+                    ],
+                    "guid": "lgRJjlrCS9",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welcher Frequenz kommen Asteroiden auf die Erde und welche sind wie gefährlich?",
+                        "<u>Size: 10-30m/ 5 years</u><div><div><div><b>Chellyabinsk</b>&nbsp;(2013)-&gt; 19 m Durchmesser, 10.000 T Masse, Fragmentet at 30 km Höhe (passiert ca. alle 10 Jahre - 10 Hiroshima-Bomben, oft im Ozean)</div><div>-&gt; Kam von der Sonne, keine Frühwarnung möglich!</div></div><div><br></div></div><div><u>Size: 20-80m / 100-500 years</u></div><div><div><b>-Tunguska</b>&nbsp;(1908) Explodoerte über der Oberfläche Sibirien - alle 1000 Jahre (10.000 Hiroshima Bomben -&gt; 50-100 m Durchmesser, 10 km Explosion</div><div><br></div></div><div><u>Size: 60-230m / 10,000 years</u></div><div><br></div><div><u>Size: &gt;1000m / 700,000 years</u></div><div><b>-Nördlinger Ries&nbsp;</b>(14 Million Years Ago) -&gt; from 1,5 km meteorite, 24 km Crater<br><div><b>- Steinheimer Crater&nbsp;</b>(14 Million Years Ago)</div><div><div><b>- Elgygytgyn / White Lake</b>&nbsp;(3.6 Mio. Years Ago) -&gt; 18 km crater</div></div></div><div><div><b>- KT-Impact</b>&nbsp;- Dinosaurier sterben aus 10 km Durchmesser alle 10. Mio-100Mio. Jahre -&gt; 10.000. Mio Hiroshima Bomben</div></div>",
+                        "<img src=\"paste-5420ceb108e36fd9ddd018a4652c10e488835b80.jpg\">"
+                    ],
+                    "guid": "d[YldkRwaq",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was kann gemacht werden um einen Impact zu vermeiden?",
+                        "- change of asteroids speed (orbital energy)<div><br></div><div>Möglichkeiten einer Impact mitigation:</div><div>- Explosive strategy</div><div>- kinetic impact strategy</div><div>- gravity tractor</div><div>- Ion beam shepherd, laser beams -&gt; slightly change its course</div><div><br></div>",
+                        "<img src=\"paste-3638b32c6ba1d4194386a38136b138244aa69c05.jpg\"><div><img src=\"paste-8b68f2f1962729675236d16dd020e4758f52d40b.jpg\"><br></div>"
+                    ],
+                    "guid": "l01E[y^IYZ",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo können Asteroiden im Sonnensystem auftauchen?",
+                        "- Kuiper belt/ Transneptun region<div>- On orbits of other planets</div><div>- asteroid belt</div><div>- near erath asteroids</div>",
                         ""
                     ],
-                    "guid": "GS71&t_^do",
+                    "guid": "NF`iIcJ-Gb",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welche Payloads hatte das Spaceshuttle?",
-                        "<b>Spacelab 24 Flüge </b>(15 Module, 9 Pallets) (z.B. Spacelab-1, D1, D2)<div><br></div><div><b>Iss</b><br><div><br></div><div>Great Observatory Missions:<div><b>Hubble</b>: 6 Flüge von 1990-2009<div><b>Gamma Ray Observatory</b>: 1991</div><b>Chandra Xray Observatory</b>: 1991, observe Universe, Gamma Ray Burst 1999<div><b><br></b></div><div>Interplanetary Explorer Missions:</div><div><b>Magellan</b>: 1989 Venus Radar Mapping</div><div><b>Galileo</b>: 1989, Jupiter - 14 Jahre unterwegs, 3 Flybys - Mentioned Climate Change</div><div><b>Ulysses</b>: 1990, Sonne, Jupiter Flyby</div></div></div></div>",
-                        "Hubble hatte einen ungenauen Primärspiegel<div>2.-13.02.1993 wurde die Korrekturoptik mit 5 Spacewalks eingebaut</div><div>Danach: Wartungsarbeiten</div>"
-                    ],
-                    "guid": "B/w)MOO-B!",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wo landen die meisten Space Shuttles?",
-                        "- Kennedy Space Center (78)<div>- Edwards Airforce Base (54)</div><div>- White Sands (1) (Umgeleitet, eigentlich Edwards AFB)</div>",
+                        "Warum sollten Menschen zu Asteroiden starten?",
+                        "- geringes delta v (&lt;10km/s)<div>- Mission duration &lt; 1 Jahr</div><div>- 170 launch windows zwischen 2020 und 2040 mit deltav kleiner 7,5 km/s</div><div><img src=\"paste-4395e587c1de92975fc5e60a572701f7939ada8e.jpg\"><br></div><div>- Technologiedemonstration</div><div>- Sprungbrett zum Mars</div><div>- Verständnis des Sonnensystems</div><div>- Betriebserfahrung</div>",
                         ""
                     ],
-                    "guid": "IWi!|4W}QI",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Welche Return Options hat ein Space Shuttle, falls beim Start etwas schief geht?",
-                        "- <b>RTLF</b>: Return to launch Site, am gefährlichsten<div>- <b>TAL</b>: Trans Atlantic Landing, across the ocean</div><div>- <b>ATO</b>: Abort to Orbit, z.B. bei Engine Loss können die anderen Triebwerke weiter betrieben werden und man erreicht einen anderen Orbit oder zu einem späteren Zeitpunkt</div><div>- <b>AOA</b>: Abort Once Around, z.B. bei einem Leck, um schnell wieder einzutreten</div>",
-                        "TAL:<div><img src=\"paste-7d3fdfe30419012569a8b5b7328c84953b15c39e.jpg\"><br></div><div>Return to Launch/Landing Site:&nbsp;<img src=\"paste-75de8b71401175d818db08c7872a780eaf0ddf8e.jpg\"></div>"
-                    ],
-                    "guid": "l;pI46bgL!",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Warum hat die Trägerrake eine schiefe Flugbahn",
-                        "Weil das Shuttle seitlich festgemacht ist",
-                        "Da ist es im Notfall sicherer als an der Spitze"
-                    ],
-                    "guid": "ci,b4>?e!j",
+                    "guid": "k=w5f8gMik",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 }
@@ -1841,6 +2061,51 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    0
+                ],
+                "order": 1,
+                "perDay": 15,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 75
+            },
+            "timer": 0
         }
     ],
     "desc": "",
@@ -1893,7 +2158,7 @@
                     0,
                     "any",
                     [
-                        1
+                        0
                     ]
                 ]
             ],
@@ -1901,7 +2166,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{answer-own-comment}}\n\n<hr id=answer>\n\n\n\n",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{answer-slide}}\n{{#answer-own-comment}}\n<hr id=answer>\n{{answer-own-comment}}\n{{/answer-own-comment}}\n\n\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{question}}",
@@ -1909,7 +2174,7 @@
                     "did": null,
                     "name": "Karte 1",
                     "ord": 0,
-                    "qfmt": "<div class=info>Stapel: {{Deck}}, Frage <br>\nTags: {{Tags}} \n</div> \n\n<br>\n{{answer-slide}}\n\n"
+                    "qfmt": "<div class=info>Stapel: {{Deck}}, Frage <br>\nTags: {{Tags}} \n</div> \n\n<br>\n{{question}}\n\n"
                 }
             ],
             "type": 0,
