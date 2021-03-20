@@ -390,6 +390,7 @@
                 "paste-95eda658c89a0560a4c027acb60d40b437a47675.jpg",
                 "paste-a20f6d10d02b53cfab448a30e9e8fd3f83659855.jpg"
             ],
+            "mid": 1609598497876,
             "name": "5_SpaceShuttle",
             "notes": [
                 {
@@ -1856,6 +1857,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Wie viele und welche Sample-Return Missionen von Asteroiden gibt es/ sind derzeit unterwegs?",
+                        "vier<div>- Stardust<br><div>- Hayabusa</div><div>- Hayabusa 2</div><div>- OSIRIS-REx</div></div>",
+                        ""
+                    ],
+                    "guid": "y32brk5nQS",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Wie unterscheiden sich Asteroiden/ Wie divers sind Asteroiden?",
                         "- <b>Location</b><div>- <b>Size</b></div><div>- <b>Farbe </b>(Albedo Range 0,01-0,9)</div><div>- <b>Form</b>/Shape: mit ring (technically Zwergplanet)</div><div>- Als <b>Asteroid Systems</b> (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><b>- Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div>",
                         "Location<div><img src=\"paste-002e29c12101735764a6e119651316c46b02f18c.jpg\"><br></div><div><br></div><div>Size</div><div><img src=\"paste-11437c910be9716c1f67fa9190133c4cc64e3258.jpg\"><br></div><div><br></div><div>Farbe (Albedo Range 0,01-0,9)</div><div><img src=\"paste-ceecb1c4fe8ef85a74d61302bb3d05a68352fe9b.jpg\"><br></div><div><br></div><div>Form/Shape: mit ring (technically Zwergplanet)</div><div><img src=\"paste-00aff634be95efd3a1d66e7b41d59522846257c3.jpg\"><br></div><div><br></div><div>Als Asteroid Systems (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><img src=\"paste-ecfb7dd009c04428970ea6c9b06701b62b228f13.jpg\"><br></div><div><br></div><div><b>Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div><img src=\"paste-0622524fc6335682f53d312a216c1413d97c8868.jpg\"><br></div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div><div><img src=\"paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg\"><br></div><div><br></div>"
@@ -1889,7 +1901,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wofür untersuchen wir Astronauten/ Cometen?",
+                        "Wofür untersuchen wir Asteroids/ Cometen?",
                         "- <b>Science</b>: Solarsystem verstehen, Probenrückführung, Entstehung Leben<div>- <b>Impact hazard</b>/ Schutz vor NEO: Verstehen und Abschwächen des Aufpralls</div><div>- <b>Mining</b>: Edelmetalle (lohnt sich nicht), Wasser und flüchtige Stoffe (interesting for in Situ)</div>",
                         ""
                     ],
@@ -2008,6 +2020,374 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "bee110e3-89b8-11eb-ac5d-0028f82ae61b",
+            "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "paste-00934e4cb8de54ab60975147c463799f2d462152.jpg",
+                "paste-09466e47fd94c93cd020d831251fe7fd8e72c501.jpg",
+                "paste-0dfabcb7ffcca90cf8274711edbf9b17b51b0c48.jpg",
+                "paste-0f9a56416dbaad72705f50efd86ce5cf2f75e06c.jpg",
+                "paste-125d2fd1e6407e99b09395374ffb12605eabd33c.jpg",
+                "paste-213a1d4c7cb9c70d335b8eed968a4a8edb60b518.jpg",
+                "paste-2dc0fcae0b4ef8a8cd4e011840eef0fd9bd210d7.jpg",
+                "paste-2e4fe79dfa766b1f0b974238e2735aedf0a86bc0.jpg",
+                "paste-311c7bde4e330c1d98843bd2cdf2271c50d54d92.jpg",
+                "paste-4045e882c03d1f23d78424e2f8717ad02f3d2209.jpg",
+                "paste-442ce9a5a09143150f99876ccc1eec876041963a.jpg",
+                "paste-44fd4506a7aa223c47053a68a3d23aa3cebe812d.jpg",
+                "paste-4d67d6c643f7ac71b7c9952c08b4d65478309f61.jpg",
+                "paste-61f107ccce97264975d4535f7d5369d5488e58c7.jpg",
+                "paste-6c8384f2efa6cc3d710c7ddbc0ac5aeea080bce9.jpg",
+                "paste-7bdd0593337ea45e43a6f81a4b6cf708279ae5f7.jpg",
+                "paste-8546fd9953b49ccc963a85f7ddbc961b6adba3a0.jpg",
+                "paste-8a1080ebc103a77f8d2a874cfd4a798203269fad.jpg",
+                "paste-8c420c36e3daedc1d8ecf108fd1abe7dfb64a6fe.jpg",
+                "paste-96a0c9a2b36f4664a00c3aa4cdf18d0b40c38b55.jpg",
+                "paste-afe1cca57c50836355ad7e6e1594ea357507c62c.jpg",
+                "paste-c7923eb35b83329e263a0ffdd7604bab279d4d62.jpg",
+                "paste-cb7a5d11a09888f8dba90a594b66cd047aa7c183.jpg",
+                "paste-cbcb282d6c19256c064482b9992b1f77c570df10.jpg",
+                "paste-d03c575b443e77de4e698f469a3377cbd4b44be2.jpg",
+                "paste-d27d0590a80e08e1f63a16eb15bc29f4c75bd3b7.jpg",
+                "paste-d575eb21668dc986df44cee3277ba6351543a602.jpg",
+                "paste-dbdfc2163db80c1cba92b6c7b597463e60b3b900.jpg",
+                "paste-e276f4849782ab09650188ce1055eaa495b3b4b7.jpg",
+                "paste-eaac863a5fdc963c20e21396a1d6dff3539ddbd8.jpg",
+                "paste-f1ac218f8b904bbf02d77f0e7e8929c5412007e5.jpg",
+                "paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg"
+            ],
+            "name": "Z11_Moon",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How many potential Landing sides on the Moon are already detected?",
+                        "<b>40-50</b> well described, defined and researched Landing sides with surface data and remote sensing data<div><b>5-6</b> most promising landing sides, depending on what you want to achieve</div>",
+                        ""
+                    ],
+                    "guid": "e6+KSaAc$Q",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das besondere an der Mond - Erde konstellation so wie sie ist?",
+                        "normalerweise (im Rest des Sonnensystems) sind Monde im Vergleich zu ihren Planeten kleiner - wir sind schon fast ein <b>\"double Planet\" System</b>",
+                        ""
+                    ],
+                    "guid": "AR8ThqdBOO",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameter des Mondes: Wie groß ist die Masse des Mondes im Vergleich zur Erde?",
+                        "1/81<div>=0,0123 M_Earth</div>",
+                        "<img src=\"paste-eaac863a5fdc963c20e21396a1d6dff3539ddbd8.jpg\">"
+                    ],
+                    "guid": "mGf{*`2L-z",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameter des Mondes: Wie groß ist die Escape Velocity des Mondes?",
+                        "Fluchtgeschwindigkeit v2 = <b>2,38 km/s</b><div><br></div><div>(1,68 km/s für stabilen Orbit um den Mond LLO = Kreisbahngeschwindigkeit v1)</div>",
+                        "<img src=\"paste-eaac863a5fdc963c20e21396a1d6dff3539ddbd8.jpg\">"
+                    ],
+                    "guid": "HzjHGB}oki",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameter des Mondes: Wie groß ist die Gravitationskraft des Mondes?",
+                        "1/6<div>=1,622m/s^2</div>",
+                        "<img src=\"paste-eaac863a5fdc963c20e21396a1d6dff3539ddbd8.jpg\">"
+                    ],
+                    "guid": "Q0d3l2sb1H",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameter des Mondes: Wie groß ist der Radius des Mondes im Vergleich zur Erde?",
+                        "1/3,7 oder 0,272 R_Earth",
+                        "<img src=\"paste-eaac863a5fdc963c20e21396a1d6dff3539ddbd8.jpg\">"
+                    ],
+                    "guid": "OQGN}Mifz0",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Material Regolith befindet sich an welchen Stellen des Mondes?",
+                        "Highland: 10-20m<div>Mare:4-5 m</div><div><br></div><div><img src=\"paste-4d67d6c643f7ac71b7c9952c08b4d65478309f61.jpg\"><br></div>",
+                        "<img src=\"paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg\">"
+                    ],
+                    "guid": "FOrY/D6prq",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie groß sind Regolith Partikel? Was ist zu beachten?",
+                        "Finer than sand&nbsp;<div>-&gt; Dust in all the machinery</div><div>-&gt; sticks to your material</div><div>-&gt; breath in: interaction with body: negative effects on the lung - nicht einatmen!&nbsp;<br><div><img src=\"paste-7bdd0593337ea45e43a6f81a4b6cf708279ae5f7.jpg\"><br></div></div>",
+                        "<img src=\"paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg\">"
+                    ],
+                    "guid": "Pg/3zlV10y",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Mare und Highlands auf dem Mond?",
+                        "Mare = dark oceans (black)<div>Highlands = more aincient rocky locations</div>",
+                        "<img src=\"paste-311c7bde4e330c1d98843bd2cdf2271c50d54d92.jpg\">"
+                    ],
+                    "guid": "oBj/xzfn;&",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Temperaturen herrschen auf dem Mond?",
+                        "Very low temperatures -&gt; selbst am Equator 255K+/-140K und es gibt nur Extreme = -158°C bis 122°C<div>An den Polen ist es nur kalt -&gt; gut für superconducting technologies</div>",
+                        "<img src=\"paste-f1ac218f8b904bbf02d77f0e7e8929c5412007e5.jpg\">"
+                    ],
+                    "guid": "oIU5^%MH7G",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Seit wann wurde bewiesen, dass es Wasser auf dem Mond gibt?",
+                        "<div>Hypothese 1961&nbsp;</div>Erst in den <b>90ern (1994)</b> konnte durch unterschiedliche Missionen nachgewiesen werden, dass es Wasser auf dem Mond gibt -&gt; Neutron Spectrometer,...",
+                        "<img src=\"paste-213a1d4c7cb9c70d335b8eed968a4a8edb60b518.jpg\">"
+                    ],
+                    "guid": "A}bh/i_=:n",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist das Wasser auf dem Mond gelagert/ wie kam es dorthin?<div>Wo gibt es mehr Wasser auf der Mondoberfläche?</div>",
+                        "<div>1. Wasser ist vermutlich gefroren in Kratern, die bisher nie die Sonne gesehen haben -&gt; permanently frozen in \"<b>Cold Traps</b>\"<br></div><div>2. Asteroiden, die auf dem Mond einschlagen und Wasser gespeichert hatten vaporisieren nicht alles und das wasser wird \"<b>shockfrozen</b>\"</div><div><br></div><div>! Es gibt nur 100.000.000 (100 Mio Tonnen)&nbsp; Wasser ~ So viel Wasser wie der Bodensee hat, es ist endlich!&nbsp;</div><div>Es gibt mehr Wasser am <b>Nordpol </b>als am Südpol</div>",
+                        "<img src=\"paste-213a1d4c7cb9c70d335b8eed968a4a8edb60b518.jpg\">"
+                    ],
+                    "guid": "p:r^`W/abG",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lunar Geschichte: (nur neues, was in History of human Spaceflight nicht abgedeckt war nennen)",
+                        "1959 = Erstes Bild von der Rückseite des Mondes (Russen)<div>1966 = Erste weiche Landung auf dem Mond (Russen)</div><div>1970 = First Rover on another Planet (Amerika?)</div><div>1972 = Speed Record auf dem Mond = 17 km/h</div><div>1990/92 = erste multispekrtalanalyse des Mondes von Galileo auf dem Weg zum Jupiter</div>",
+                        "<img src=\"paste-d27d0590a80e08e1f63a16eb15bc29f4c75bd3b7.jpg\">"
+                    ],
+                    "guid": "ZQxY;Yt}9",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Missionen zum Mond gab es? Wie viele waren bemannt?",
+                        "91 erfolgreiche Missionen,&nbsp;<div>davon 9 bemannt (Apollo 8,10-17)</div><div>(+~90 failed Missions)</div>",
+                        "<img src=\"paste-6c8384f2efa6cc3d710c7ddbc0ac5aeea080bce9.jpg\">"
+                    ],
+                    "guid": "mkrv7yc6TA",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum hat man von den Missionen zum Mond weniger Datensätze als Missionen geflogen sind?<div><img src=\"paste-cb7a5d11a09888f8dba90a594b66cd047aa7c183.jpg\"><br></div>",
+                        "1. not always instruments worked<div>2. not always missions/vehicles workes</div><div>3. not always communication worked</div><div>4. Data get lost (today its more easy to transfer data)</div><div>5. sometimes data just dont get available (national security)</div>",
+                        ""
+                    ],
+                    "guid": "M5lI2;$s,9",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was erhoffen wir uns von Missionen zum Mond?",
+                        "The moon is an<b> easy acessible laboratory</b> for many processes that formed the solar system right in our backyard",
+                        "<img src=\"paste-09466e47fd94c93cd020d831251fe7fd8e72c501.jpg\">"
+                    ],
+                    "guid": "s,ym+N@u_p",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Zeit verbrachten MEnschen insgesamt auf dem Mond (! nicht EVA time)",
+                        "~186h",
+                        "<div>Apollo 11 Activity Log: Later Missions: Range of Paris<br></div><img src=\"paste-0dfabcb7ffcca90cf8274711edbf9b17b51b0c48.jpg\">"
+                    ],
+                    "guid": "rI3lER/)5/",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wem gehört der Rover Lunochod 2?",
+                        "Lord British (vorher Sovjet Union)",
+                        "<img src=\"paste-96a0c9a2b36f4664a00c3aa4cdf18d0b40c38b55.jpg\">"
+                    ],
+                    "guid": "m&wFX}5S;c",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Errungenschaften haben die Chinesen in der Raumfahrt geschafft?",
+                        "Anfang 2000 angehkündigt zum Mond zu fliegen (wurden am Anfang ausgelacht)<div>Chang E1&amp;2: 2007-09&nbsp;&nbsp;</div><div>Chang E3: 2013 Lander/Rover auf dem Mond</div><div>Chang E4: <b>2018/19 Far-Side Landing</b> (first landing on moon)</div><div>Chang E5: <b>2020 Sample Return</b> (first since Apollo from the Moon)</div><div>Chang E6: 2023 Sample Return</div>",
+                        "<img src=\"paste-d03c575b443e77de4e698f469a3377cbd4b44be2.jpg\">"
+                    ],
+                    "guid": "e*?nn1b>8M",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Missionen von non government Organisationen gab es?",
+                        "eine<div>Es gab einen Wettbewerb 2007: Google Lunar X-Prize</div><div>-&gt; fünf kamen ins Finale 2017 aber keines schaffte es zum Mond.</div><div>Eine non-profit organization aus Israel \"<b>Space IL</b>\" schaffte es zum Mond, aber das Fahrzeug crashte bei der Landung (Engine Fail)</div>",
+                        "<img src=\"paste-00934e4cb8de54ab60975147c463799f2d462152.jpg\"><div><img src=\"paste-dbdfc2163db80c1cba92b6c7b597463e60b3b900.jpg\"><br></div>"
+                    ],
+                    "guid": "vd#Su1N[|J",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Delta v hatten die Apollo Raketen?<div>Wie viel würden wir mit Zwischenstop an der ISS brauchen?</div>",
+                        "1. 19 km/s<div>2. 22 km/s</div><div>-&gt; Mindestens 3 Stufig</div>",
+                        "<img src=\"paste-61f107ccce97264975d4535f7d5369d5488e58c7.jpg\"><div><img src=\"paste-2e4fe79dfa766b1f0b974238e2735aedf0a86bc0.jpg\"><br></div>"
+                    ],
+                    "guid": "Jr;1cZW(H>",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist die nächste bemannte Mission zum Mond geplant? (Launcher,...)",
+                        "Mit mehreren Systemen, sodass nicht ein Launcher alles übernehmen muss, sondern es eine \"Straße zum Mond\" gibt.<div>Altes Beispiel:</div><div><img src=\"paste-afe1cca57c50836355ad7e6e1594ea357507c62c.jpg\"><br></div>",
+                        "<img src=\"paste-0f9a56416dbaad72705f50efd86ce5cf2f75e06c.jpg\">"
+                    ],
+                    "guid": "KR8:vx)!sK",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beitrag leistete die ESA zum neuen Mond-Programm der Amerikaner?",
+                        "Service Modul based on ATV",
+                        "<img src=\"paste-e276f4849782ab09650188ce1055eaa495b3b4b7.jpg\">"
+                    ],
+                    "guid": "I:)T6f.Zu+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist als nächster Schritt auf dem Weg zur Straße zum Mond geplant?",
+                        "<b>Lunar Gateway</b> (Lunar Orbital Platform-Gateway) im Halo Orbit in der Nähe des Mondes",
+                        "<img src=\"paste-cbcb282d6c19256c064482b9992b1f77c570df10.jpg\">"
+                    ],
+                    "guid": "x~ppi{^MpA",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Aktivitäten wird es auf dem Mond geben?",
+                        "-Science<div>-Development</div><div>-Maintanance and Repair</div><div>-Test and Training for future space applications (Mars)</div><div>- Monitoring, Protection, Storage</div><div>-...</div>",
+                        "<img src=\"paste-125d2fd1e6407e99b09395374ffb12605eabd33c.jpg\"><div>-Science<div><img src=\"paste-8a1080ebc103a77f8d2a874cfd4a798203269fad.jpg\"><br></div></div><div><div>-Development</div><div>-Maintanance and Repair</div><div>-Test and Training for future space applications (Mars)</div><div><img src=\"paste-8c420c36e3daedc1d8ecf108fd1abe7dfb64a6fe.jpg\"><br></div><div>- Monitoring, Protection, Storage</div><div>-...</div></div><div><br></div>"
+                    ],
+                    "guid": "j-W%grU]*]",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchen Schritten würde eine Mond-basis aufgebaut werden?",
+                        "<div>1. Temporary Lunar Outpost (1-2 Modules on the lunar surface -&gt; mobility, regular supplies)</div><div>2. Permanent Base (Training in Antarctic, there it is more complicated than on the moon. From the moon you can be back in 3 days - from antarctic you have sometimes 70 days where no on get out or in)</div><div>3. Lunar Base</div><div>4. Lunar Factory: Indurstrial &amp; Commercial Use</div><div>5. Lunar Settelment (ISRU neccessary)<br></div><div><img src=\"paste-44fd4506a7aa223c47053a68a3d23aa3cebe812d.jpg\"><br></div>",
+                        "<div>1. Temporary Lunar Outpost (1-2 Modules on the lunar surface -&gt; mobility, regular supplies)</div><img src=\"paste-2dc0fcae0b4ef8a8cd4e011840eef0fd9bd210d7.jpg\"><div><br><div>2. Permanent Base (Training in Antarctic, there it is more complicated than on the moon. From the moon you can be back in 3 days - from antarctic you have sometimes 70 days where no on get out or in)</div><div>3. Lunar Base<br></div><div><img src=\"paste-d575eb21668dc986df44cee3277ba6351543a602.jpg\"><br></div><div><br></div><div>4. Lunar Factory: Indurstrial &amp; Commercial Use</div><div><img src=\"paste-442ce9a5a09143150f99876ccc1eec876041963a.jpg\"><br></div></div><div><br></div><div>5. Lunar Settelment (ISRU neccessary)</div><div><img src=\"paste-8546fd9953b49ccc963a85f7ddbc961b6adba3a0.jpg\"><br></div>"
+                    ],
+                    "guid": "D-3.pY?#|~",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Resourcen gibt es auf dem Mond?",
+                        "- Solar<div>- Wasser</div><div>- Regolith</div><div>- Oxygen</div><div>- Metals</div><div>- Vacuum (science)</div><div>- low gravity (science)</div><div>- Lava Tubes (natural protection)</div><div>- Helium-3 (power generation)</div>",
+                        "<img src=\"paste-c7923eb35b83329e263a0ffdd7604bab279d4d62.jpg\">"
+                    ],
+                    "guid": "x|CL7?^nWc",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vergleiche Polar Site Standorte gegenüber Equatorialen Standorten auf dem Mond:",
+                        "Polar Site - Equatorial<div>little He3 - He3</div><div>Meteoriten reduced - Oft Meteoriten</div><div>Reduzierte Strahlung - Hohe Strahlung</div><div>reduced Astronomy - full Astronomy</div><div>Earth always visible - earth always or never visible</div><div>permanently Power - reduces solar power</div>",
+                        "<img src=\"paste-4045e882c03d1f23d78424e2f8717ad02f3d2209.jpg\">"
+                    ],
+                    "guid": "m;}JEd)JVs",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "bee2218e-89b8-11eb-a2e7-0028f82ae61b",
+            "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Z12_Mars",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "dff1a3be-84be-11eb-b6d4-fc4596679de3",
@@ -2043,7 +2423,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 30,
+                "perDay": 20,
                 "separate": true
             },
             "newMix": 0,
@@ -2067,6 +2447,7 @@
             "autoplay": true,
             "crowdanki_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -2091,9 +2472,11 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 15,
+                "perDay": 20,
                 "separate": true
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": true,
@@ -2105,6 +2488,7 @@
                 "minSpace": 1,
                 "perDay": 75
             },
+            "reviewOrder": 0,
             "timer": 0
         }
     ],
