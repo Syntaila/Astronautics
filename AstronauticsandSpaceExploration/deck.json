@@ -1486,7 +1486,7 @@
             "deck_config_uuid": "e0098831-84be-11eb-9e8a-fc4596679de3",
             "desc": "",
             "dyn": 0,
-            "extendNew": 0,
+            "extendNew": 16,
             "extendRev": 0,
             "media_files": [
                 "paste-032993cba95019df6d4b0cf45dce0ae3d349d8d6.jpg",
@@ -1518,6 +1518,7 @@
                 "paste-c5bb3001f62df0320314aa748cd01cbbc832d705.jpg",
                 "paste-ce46631224459c3e6301872bab38217cb503097f.jpg",
                 "paste-d51880b4efa170be9c8dc3f71bcd244fdfb8bab5.jpg",
+                "paste-d709a0ab3c56474fa9bf4ac60c84c0a90480f25e.jpg",
                 "paste-e0a353c28068071df52e53e777a3c44714b39828.jpg",
                 "paste-e10853d86b3a92b847f0f44ee4a342d800bdfdd3.jpg",
                 "paste-e5557a0fed73b87792aa68b7d7036e007bb40e5a.jpg",
@@ -1642,9 +1643,9 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Spielt die Launchside eine Rolle für den Lunar Transfer?",
-                        "Nein, denn der Unterschied zwischen worst case delta v and best case delta v sind nur 150 m/s (bestcase: 2429 m/s, worstcase: 2577m/s)",
-                        ""
+                        "Spielt der Zielorbit am Mond eine Rolle für den Lunar Transfer?",
+                        "Nein, denn der Unterschied zwischen worst case delta v and best case delta v sind nur 150 m/s (bestcase: 2429 m/s, worstcase: 2577m/s)<div>Best Case: In Bahnebene des Mondes</div><div>Worst Case: 90 degrees zum Mond</div>",
+                        "<img src=\"paste-d709a0ab3c56474fa9bf4ac60c84c0a90480f25e.jpg\">"
                     ],
                     "guid": "m%(isF:>,#",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1676,8 +1677,8 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche anderen Möglichkeiten gibt es, um zum Mond zu kommen?",
-                        "1. Transfer via <b>Libration Points</b>: Satellit fliegt im Libration Point mit, längere Transfer Zeiten<div>2. Transfer via<b> WSB region </b>(Weeks to ability boundary transfer??? Stand nirgens): Apogee weit über Mondorbit (1.5Mio km) -&gt; Lunar Gateway, longer Transfer duration</div>",
-                        "<div>1. Transfer via Libration Points<br></div><img src=\"paste-bc7288143dfff9c600bcc1d375ff45683ec9a35b.jpg\"><div><br>2. Transfer via WSB region (Weeks to ability boundary transfer??? Stand nirgens)<br></div><div><img src=\"paste-7f9d7e0a850a8e465163da909d37663c6d608d9f.jpg\"><br></div>"
+                        "1. Transfer via <b>Libration Points</b>: Satellit fliegt im Libration Point mit, längere Transfer Zeiten -&gt; Lunar Gateway<div>2. Transfer via<b> WSB region </b>(Weak-stability boundery transfer): Apogee weit über Mondorbit (1.5Mio km) -&gt; Sonne senkt Bahn auf Mondorbit ab, longer Transfer duration (6 Months), lesser delta v</div>",
+                        "<div>1. Transfer via Libration Points<br></div><img src=\"paste-bc7288143dfff9c600bcc1d375ff45683ec9a35b.jpg\"><div><br>2. Transfer via WSB region (Weak stability boundery transfer)<br></div><div><img src=\"paste-7f9d7e0a850a8e465163da909d37663c6d608d9f.jpg\"><br></div>"
                     ],
                     "guid": "it@Qk%Xn%|",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1698,7 +1699,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie funktioniert der Mond Transfer mit Liberation Points?",
-                        "1. Raumfahrzeug sieht beide Körper als einen und fliegt im Liberty Point mit<div>2. Raumfahrzeug befindet sich im Liberty Point Erde Sonne und wird \"automatisch\" auf eine Bahn zum Mond gebracht</div>",
+                        "1. Raumfahrzeug sieht beide Körper als einen und fliegt im Liberty Point mit<div>2. Raumfahrzeug befindet sich im Liberty Point Erde Sonne und wird \"automatisch\" auf eine Bahn zum Mond gebracht -&gt; Aufwand für Mondtransfer nur 11,2 km/s</div>",
                         "1. Raumfahrzeug sieht beide Körper als einen und fliegt im Liberty Point mit<div><img src=\"paste-a514555da2aac24fd71e83acb0ca135bef3fbca6.jpg\"><br></div><div><br></div><div>2. Raumfahrzeug befindet sich im Liberty Point Erde Sonne und wird \"automatisch\" auf eine Bahn zum Mond gebracht<br></div><div><img src=\"paste-c0a50d2e698fee8047d21e82f010d634d7b61f11.jpg\"><br></div><div><img src=\"paste-5bc5fa6b866b27e7ab78dbd4cce994c7721783b8.jpg\"><br></div>"
                     ],
                     "guid": "KfBXq%|Ui4",
@@ -1742,7 +1743,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Warum sieht der Pork Chop Plot mit berücksichtigung der Inklinationsänderung so anderst aus?",
-                        "<div>Unterschiedliche Vektoren -&gt; v_unendlich muss rotiert werden zusätzlich zu 27 km/s out of plane</div><img src=\"paste-ada53555f7725335b1d3bf40c5238b30b01e7998.jpg\"><img src=\"paste-76ad7db17ab6a7e7a9d37690d6cb4990c51ee07d.jpg\"><div><img src=\"paste-8b5116f549cffb999e5dd3fbe1ce2273425c9fc0.jpg\"><br></div>",
+                        "<div>Lamberts Problem berücksichtigt keine Manöver (z.B. für Inklinationsänderung)</div><div>Unterschiedliche Vektoren -&gt; v_unendlich muss rotiert werden zusätzlich zu 27 km/s out of plane</div><img src=\"paste-ada53555f7725335b1d3bf40c5238b30b01e7998.jpg\"><img src=\"paste-76ad7db17ab6a7e7a9d37690d6cb4990c51ee07d.jpg\"><div><img src=\"paste-8b5116f549cffb999e5dd3fbe1ce2273425c9fc0.jpg\"><br></div>",
                         "<div>Mit berücksichtigung der Inklinations Difference Erde-Mars:</div><div><img src=\"paste-1cc70967b10720124a49ca827d2bc5ec2ed2896e.jpg\"></div>"
                     ],
                     "guid": "D]!d<NWv4c",
@@ -1774,8 +1775,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ist es sinnvoller direkt von der Erde aus zu starten oder zuerst zum Lunar Gateway udn dann zum Mars?",
-                        "Es macht mehr Sinn direkt zu starten und im Perigäum zu Beschleunigen<div>-&gt; Bei Starts vom Lunar Gateway zuerst abfallen zur Erde und dann Beschleunigen</div><div>Anmerkung: Da hab ich ihn nicht verstanden, bitte ergänzen, warum dann überhaupt Lunar Gateway?&nbsp;</div>",
+                        "Ist es sinnvoller direkt von der Erde aus zu starten oder zuerst zum Lunar Gateway und dann zum Mars?",
+                        "Es macht mehr Sinn direkt zu starten und im Perigäum zu Beschleunigen<div>-&gt; Bei Starts vom Lunar Gateway zuerst abfallen zur Erde und dann Beschleunigen</div><div>Zum Lunar Gateway braucht man v_Unendlich = 11,2km/s. Ist man dort, ist es sinnvoller, sich mit einem Manöver zur Erde abfallen zu lassen und im Peri zu beschleunigen. Vom Gateway zu beschleunigen braucht mehr delta v</div><div>Anmerkung: Da hab ich ihn nicht verstanden, bitte ergänzen, warum dann überhaupt Lunar Gateway?&nbsp;</div>",
                         "<img src=\"paste-f93cbbd94202935e0a6272f2fec97c000450ce02.jpg\">"
                     ],
                     "guid": "lN/h|QSn$2",
@@ -2278,7 +2279,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie viele Missionen von non government Organisationen gab es zum Mond?",
+                        "Wie viele erfolgreiche Missionen von non government Organisationen gab es zum Mond?",
                         "eine<div>Es gab einen Wettbewerb 2007: Google Lunar X-Prize</div><div>-&gt; fünf kamen ins Finale 2017 aber keines schaffte es zum Mond.</div><div>Eine non-profit organization aus Israel \"<b>Space IL</b>\" schaffte es zum Mond, aber das Fahrzeug crashte bei der Landung (Engine Fail)</div>",
                         "<img src=\"paste-00934e4cb8de54ab60975147c463799f2d462152.jpg\"><div><img src=\"paste-dbdfc2163db80c1cba92b6c7b597463e60b3b900.jpg\"><br></div>"
                     ],
@@ -2466,8 +2467,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Welches ist die erste Mission der Europäer, um auf dem Mars zu landen und wann ist die Mission gelandet?",
-                        "Exomars Rover Rosalind Franklin (ESA+Roskosmos)<div>-&gt; Sollte 2020 gestartet werden, es wurden im Mai 12 minor problems entdeckt, nächstes Startfenster: 2023</div><div><br></div><div>Exomars 2016 startete die Sonde, die die Mars-Atmosphäre untersucht&nbsp;</div>",
+                        "Welches ist die erste erfolgreiche Mission der Europäer, um auf dem Mars zu landen und wann ist die Mission gelandet?",
+                        "Exomars Rover Rosalind Franklin (ESA+Roskosmos)<div>-&gt; Sollte 2020 gestartet werden, es wurden im Mai 12 minor problems entdeckt, nächstes Startfenster: 2022</div><div>landen: 2023</div><div><br></div><div>Exomars 2016 startete die Sonde, die die Mars-Atmosphäre untersucht&nbsp;</div>",
                         "<img src=\"paste-85b59afe52d0cde49fbc2778bd4c9a647d184a80.jpg\"><div><img src=\"paste-63d290c26b14a76ac75a06d36d5b377f65767394.jpg\"><br></div>"
                     ],
                     "guid": "l`Fc*5FR>t",
@@ -2741,7 +2742,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 40,
                 "separate": true
             },
             "newMix": 0,
