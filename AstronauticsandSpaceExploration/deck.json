@@ -1857,17 +1857,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie viele und welche Sample-Return Missionen von Asteroiden gibt es/ sind derzeit unterwegs?",
-                        "vier<div>- Stardust<br><div>- Hayabusa</div><div>- Hayabusa 2</div><div>- OSIRIS-REx</div></div>",
-                        ""
-                    ],
-                    "guid": "y32brk5nQS",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Wie unterscheiden sich Asteroiden/ Wie divers sind Asteroiden?",
                         "- <b>Location</b><div>- <b>Size</b></div><div>- <b>Farbe </b>(Albedo Range 0,01-0,9)</div><div>- <b>Form</b>/Shape: mit ring (technically Zwergplanet)</div><div>- Als <b>Asteroid Systems</b> (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><b>- Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div>",
                         "Location<div><img src=\"paste-002e29c12101735764a6e119651316c46b02f18c.jpg\"><br></div><div><br></div><div>Size</div><div><img src=\"paste-11437c910be9716c1f67fa9190133c4cc64e3258.jpg\"><br></div><div><br></div><div>Farbe (Albedo Range 0,01-0,9)</div><div><img src=\"paste-ceecb1c4fe8ef85a74d61302bb3d05a68352fe9b.jpg\"><br></div><div><br></div><div>Form/Shape: mit ring (technically Zwergplanet)</div><div><img src=\"paste-00aff634be95efd3a1d66e7b41d59522846257c3.jpg\"><br></div><div><br></div><div>Als Asteroid Systems (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><img src=\"paste-ecfb7dd009c04428970ea6c9b06701b62b228f13.jpg\"><br></div><div><br></div><div><b>Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div><img src=\"paste-0622524fc6335682f53d312a216c1413d97c8868.jpg\"><br></div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div><div><img src=\"paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg\"><br></div><div><br></div>"
@@ -2018,13 +2007,24 @@
                     "guid": "k=w5f8gMik",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele und welche Sample-Return Missionen von Asteroiden gibt es/ sind derzeit unterwegs?",
+                        "vier<div>- Stardust<br><div>- Hayabusa</div><div>- Hayabusa 2</div><div>- OSIRIS-REx</div></div>",
+                        ""
+                    ],
+                    "guid": "y32brk5nQS",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
                 }
             ]
         },
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "de4fe18b-8a2c-11eb-9b33-0028f82ae61b",
+            "crowdanki_uuid": "881eabe7-8a2d-11eb-8547-940853574f92",
             "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
             "desc": "",
             "dyn": 0,
@@ -2069,7 +2069,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "How many potential Landing sides on the Moon are already detected?",
+                        "How many potential landing sides for building a moon village are already detected?",
                         "<b>40-50</b> well described, defined and researched Landing sides with surface data and remote sensing data<div><b>5-6</b> most promising landing sides, depending on what you want to achieve</div>",
                         ""
                     ],
@@ -2135,7 +2135,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie viel Material Regolith befindet sich an welchen Stellen des Mondes?",
+                        "Wie tief geht das Regolith an den unterschiedlichen Stellen des Mondes?",
                         "Highland: 10-20m<div>Mare:4-5 m</div><div><br></div><div><img src=\"paste-4d67d6c643f7ac71b7c9952c08b4d65478309f61.jpg\"><br></div>",
                         "<img src=\"paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg\">"
                     ],
@@ -2190,7 +2190,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie ist das Wasser auf dem Mond gelagert/ wie kam es dorthin?<div>Wo gibt es mehr Wasser auf der Mondoberfläche?</div>",
+                        "Wie ist das Wasser auf dem Mond gelagert/ wie kam es dorthin?<div>An welchem Pol gibt es mehr Wasser?</div>",
                         "<div>1. Wasser ist vermutlich gefroren in Kratern, die bisher nie die Sonne gesehen haben -&gt; permanently frozen in \"<b>Cold Traps</b>\"<br></div><div>2. Asteroiden, die auf dem Mond einschlagen und Wasser gespeichert hatten vaporisieren nicht alles und das wasser wird \"<b>shockfrozen</b>\"</div><div><br></div><div>! Es gibt nur 100.000.000 (100 Mio Tonnen)&nbsp; Wasser ~ So viel Wasser wie der Bodensee hat, es ist endlich!&nbsp;</div><div>Es gibt mehr Wasser am <b>Nordpol </b>als am Südpol</div>",
                         "<img src=\"paste-213a1d4c7cb9c70d335b8eed968a4a8edb60b518.jpg\">"
                     ],
@@ -2245,7 +2245,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie viel Zeit verbrachten MEnschen insgesamt auf dem Mond (! nicht EVA time)",
+                        "Wie viel Zeit verbrachten Menschen insgesamt auf dem Mond (! nicht EVA time)",
                         "~186h",
                         "<div>Apollo 11 Activity Log: Later Missions: Range of Paris<br></div><img src=\"paste-0dfabcb7ffcca90cf8274711edbf9b17b51b0c48.jpg\">"
                     ],
@@ -2278,7 +2278,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie viele Missionen von non government Organisationen gab es?",
+                        "Wie viele Missionen von non government Organisationen gab es zum Mond?",
                         "eine<div>Es gab einen Wettbewerb 2007: Google Lunar X-Prize</div><div>-&gt; fünf kamen ins Finale 2017 aber keines schaffte es zum Mond.</div><div>Eine non-profit organization aus Israel \"<b>Space IL</b>\" schaffte es zum Mond, aber das Fahrzeug crashte bei der Landung (Engine Fail)</div>",
                         "<img src=\"paste-00934e4cb8de54ab60975147c463799f2d462152.jpg\"><div><img src=\"paste-dbdfc2163db80c1cba92b6c7b597463e60b3b900.jpg\"><br></div>"
                     ],
