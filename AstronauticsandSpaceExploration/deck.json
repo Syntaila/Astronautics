@@ -2024,7 +2024,7 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "bee110e3-89b8-11eb-ac5d-0028f82ae61b",
+            "crowdanki_uuid": "de4fe18b-8a2c-11eb-9b33-0028f82ae61b",
             "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
             "desc": "",
             "dyn": 0,
@@ -2385,9 +2385,327 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "C676695D96A3416CB7610B2B7729140B.jpg",
+                "_117003116_perserverance_landing_x2_640-nc.png",
+                "paste-020061d771694d6460b0636611f203f5e38a9f63.jpg",
+                "paste-03dea58dc88f30b285443dbc71a48c56e5e6a1eb.jpg",
+                "paste-0a6735d10925236a45d5fb1744ddd00dae9bdd63.jpg",
+                "paste-21dbc16ac3eca680cd7e971616498bf078aeb5d3.jpg",
+                "paste-255fb72d7469705bcab5696b8f8a864350c795b6.jpg",
+                "paste-3dd3b15bdf4e913c27b5f970c6b2c6475b29c1ed.jpg",
+                "paste-44e8d4e2c2c74c4737da49f14ea524d504ff264c.jpg",
+                "paste-45187b2d26e1b37fbe2904712fb2af04f1661653.jpg",
+                "paste-5ac222380169ddac1559a50e1296785682b75ecc.jpg",
+                "paste-63d290c26b14a76ac75a06d36d5b377f65767394.jpg",
+                "paste-64f248861ad86ddb8a505ad63dd795459cc49479.jpg",
+                "paste-670fd1c00643175a5139433b8ff53e94442d69a1.jpg",
+                "paste-6c77a199a03e3975e4b70cfbf662af0fb463b512.jpg",
+                "paste-6df10aa5fcaba217fc8e493dd25850b7dba53423.jpg",
+                "paste-6ec383ec4792aadc865883367df6ad1183ad231f.jpg",
+                "paste-6f8f35b3e9ae34924d4e4056c32b2f2203cb8a21.jpg",
+                "paste-8101850f66286f44c0d4c0d0645d5dcccb663340.jpg",
+                "paste-85b59afe52d0cde49fbc2778bd4c9a647d184a80.jpg",
+                "paste-85f6ebe82136a5ef3779945ecf1899a1be74a8da.jpg",
+                "paste-89d2d061d3ce73051a5ccda19cf6e7d96858fb34.jpg",
+                "paste-8ca9df4d457c437ffbb087ab8c4d8262d4efaeb8.jpg",
+                "paste-9f60f35c8b5609e90f886dcec538caeb62c86270.jpg",
+                "paste-ab56bd4bf25332e1541cd5a393f7c8c8cc43fbdc.jpg",
+                "paste-b438470ab3567a95b741c52ab1a150aea9163ab8.jpg",
+                "paste-b69b47c30b7b5f4f2b80fcb68062e5a864d02d56.jpg",
+                "paste-b7e56934197fd4a3f03aee22ef0ad45a8e15b71b.jpg",
+                "paste-b9873a40786a2d67121bca54d1662905fbb2aacb.jpg",
+                "paste-cc80e5b81c35059eb020802d3ffdc94c6940bad6.jpg",
+                "paste-d29dc90bc1aa27a8e4b4a5c034fb104153087ec1.jpg",
+                "paste-d966c07748eaad840e37d3e10bb2e622f9832389.jpg",
+                "paste-d988c5114bfd96cbbd8fb2d02dd0a13fec3b5ce5.jpg",
+                "paste-db531ee8382e82c056f38abe54bde0b0eec5bdc5.jpg",
+                "paste-dc5a3c92b244366c8909fb95b056d2e5165282f8.jpg",
+                "paste-ddbf607460510a352236106c1e88c91745bec3a6.jpg",
+                "paste-e75208ba3c0e0616f7f7f7f4bb24130d9cfaeb86.jpg",
+                "paste-f0a4817af360638e29838b064ac21f22ef56d7ca.jpg",
+                "paste-f3245bdbbfd8b6b42f43b6be4392f95ef4f9da60.jpg",
+                "paste-f7e7ff79fcc8ac90cb95a6b0aad9e89d81e0df24.jpg",
+                "paste-f9f349f7e62e22e1156b46d247597287d8039245.jpg"
+            ],
             "name": "Z12_Mars",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo liegt die habitabel Zone des Sonnensystems?",
+                        "<div>0,95 bis 1,37 AU -&gt; der Mars liegt knapp außerhalb<br></div>(Es gibt Schätzungen in denen die habitable zone von 0,725 bis 3,0 AU reicht)<div>-&gt; Where water is stabel in alle 3 forms</div>",
+                        "<img src=\"paste-e75208ba3c0e0616f7f7f7f4bb24130d9cfaeb86.jpg\">"
+                    ],
+                    "guid": "r8sQn|T$5r",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei Missionen sind dieses Jahr auf dem Mars gelandet?",
+                        "- Al Amal (Hope) - Emirates - only Atmosphere Experiments<div>- Tianwen-1 - China - Orbiter, rover and lander</div><div>- Mars 2020 Perseverence - NASA</div>",
+                        "- Al Amal (Hope) - Emirates - only Atmosphere Experiments<div><img src=\"paste-d988c5114bfd96cbbd8fb2d02dd0a13fec3b5ce5.jpg\"><br><div>- Tianwen-1 - China - Orbiter, rover and lander</div><div><img src=\"paste-5ac222380169ddac1559a50e1296785682b75ecc.jpg\"><br></div><div>- Mars 2020 Perseverence - NASA</div></div>"
+                    ],
+                    "guid": "CG[.SWAN6T",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Missionen sind derzeit auf dem Mars aktiv?",
+                        "10",
+                        "<img src=\"paste-f0a4817af360638e29838b064ac21f22ef56d7ca.jpg\"><div><img src=\"paste-f9f349f7e62e22e1156b46d247597287d8039245.jpg\"><br></div>"
+                    ],
+                    "guid": "HA3>eBGMjr",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches ist die erste Mission der Europäer, um auf dem Mars zu landen und wann ist die Mission gelandet?",
+                        "Exomars Rover Rosalind Franklin (ESA+Roskosmos)<div>-&gt; Sollte 2020 gestartet werden, es wurden im Mai 12 minor problems entdeckt, nächstes Startfenster: 2023</div><div><br></div><div>Exomars 2016 startete die Sonde, die die Mars-Atmosphäre untersucht&nbsp;</div>",
+                        "<img src=\"paste-85b59afe52d0cde49fbc2778bd4c9a647d184a80.jpg\"><div><img src=\"paste-63d290c26b14a76ac75a06d36d5b377f65767394.jpg\"><br></div>"
+                    ],
+                    "guid": "l`Fc*5FR>t",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Landing Sites on Mars:",
+                        "<img src=\"paste-b438470ab3567a95b741c52ab1a150aea9163ab8.jpg\"><div><img src=\"paste-b7e56934197fd4a3f03aee22ef0ad45a8e15b71b.jpg\"><br></div><div><img src=\"paste-03dea58dc88f30b285443dbc71a48c56e5e6a1eb.jpg\"><br></div>",
+                        ""
+                    ],
+                    "guid": "fHMoX%MdC<",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Missionen der ESA gab es zum Mars?",
+                        "<div>-&nbsp;<b>Mars Express (2003)</b> mit Landegerät Beagle 2 -&gt; Mars Express in Atmosphäre läuft gut, Landegerät Beagle 2 wurde abgetrennt, und nie wieder was gehört</div>- <b>Exomars 2016 </b>startete die Sonde, die die Mars-Atmosphäre untersucht (als Vorbereitung für Exomars 2022)",
+                        "<img src=\"paste-6df10aa5fcaba217fc8e493dd25850b7dba53423.jpg\">"
+                    ],
+                    "guid": "MUcC]L(dVL",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Besonderheiten wird der ExoMars 2022 Rosalind Franklin Rover an Bord haben?",
+                        "- Ground Penetrating Radar<div>- High resolution Camera \"<b>black eye</b>\" (can identify fly on end of football field)</div><div>- Stereo Cameras</div><div>- <b>2 m Drilling Device</b></div>",
+                        "<img src=\"paste-6c77a199a03e3975e4b70cfbf662af0fb463b512.jpg\"><div><img src=\"paste-21dbc16ac3eca680cd7e971616498bf078aeb5d3.jpg\"><br></div>"
+                    ],
+                    "guid": "H3(1sBhy~>",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was wurde durch die Mars Express Mission(2003) herausgefunden, was jetzt mit ExoMars 2022 untersucht werden soll?",
+                        "tries to identify<b> Methan Sources</b> (short live molecule - must have an active source) -&gt; is it Morphological or organic<div>Possible Sources:</div><div>- Vulcano (morphological)</div><div>- Rocks/microbes (organic)</div>",
+                        "<img src=\"paste-f7e7ff79fcc8ac90cb95a6b0aad9e89d81e0df24.jpg\">"
+                    ],
+                    "guid": "HP+u0yr%.g",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welcher Rover hält den Streckenrekord auf dem Mars?",
+                        "<b>Opportunity </b>mit <b>45 km</b>&nbsp;",
+                        "<img src=\"paste-6ec383ec4792aadc865883367df6ad1183ad231f.jpg\"><div>old data:<br><div><img src=\"paste-b9873a40786a2d67121bca54d1662905fbb2aacb.jpg\"><br></div></div><div><br></div>"
+                    ],
+                    "guid": "bY.cxkWsVn",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Probleme gibt es beim Rover Curiosity?",
+                        "Befindet sich in einem 150 km Durchmesser Krater und fährt einen 5500 m hohen Berg hoch&nbsp;<div>- <b>RTG's </b>at power storage: will work until 2030</div><div>- <b>Wheels </b>are thin aluminium with <b>holes</b></div><div>-&gt; what will fail first?</div>",
+                        "<img src=\"paste-b69b47c30b7b5f4f2b80fcb68062e5a864d02d56.jpg\"><div><img src=\"paste-670fd1c00643175a5139433b8ff53e94442d69a1.jpg\"><br></div>"
+                    ],
+                    "guid": "PvP~<n%*IU",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Aufgabe des neuen Rovers Perseverence?",
+                        "Seeking of signs of ancient life:&nbsp;<div>- Geology</div><div>- Astrobiology<br><div>- collect Samples/ Samples Caching (New Mission 2028 start and take samples and bring them back to earth, with Mars Ascent Vehicle MAV)</div></div>",
+                        "<img src=\"paste-dc5a3c92b244366c8909fb95b056d2e5165282f8.jpg\"><div><img src=\"paste-3dd3b15bdf4e913c27b5f970c6b2c6475b29c1ed.jpg\"><br></div><div><img src=\"paste-6f8f35b3e9ae34924d4e4056c32b2f2203cb8a21.jpg\"><br></div>"
+                    ],
+                    "guid": "AATs3=atN^",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel kleiner/leichter ist der Mars im Vergleich zur Erde und warum wird vermutet, ist das so?",
+                        "- 1/3 der Masse der Erde<div>- hälfte des Durchmessers der Erde</div><div>-&gt; Evtl durch <b>Jupiter und Saturn Kräfte</b> die auch Neptun aus der Bahn geschossen haben wurde Mars zusammen gedrückt und dadurch ist der Mars nicht weiter gewachsen (Nizza-Modell)</div>",
+                        "<img src=\"paste-cc80e5b81c35059eb020802d3ffdc94c6940bad6.jpg\">"
+                    ],
+                    "guid": "eLwkqff0BG",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum ist der Mars der interessanteste Planet für solche Untersuchungen?",
+                        "- solid Platen (terestrial/erdähnlich)<div>- nicht so weit entfernt/ easy to reach</div><div>- Mars fast inerhalb der habitable Zone<br></div>",
+                        "<img src=\"paste-89d2d061d3ce73051a5ccda19cf6e7d96858fb34.jpg\">"
+                    ],
+                    "guid": "F[X7|_=]j8",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche anderen Planeten/ Monde könnten flüssiges Wasser haben? (außer dem Mars und Mond)",
+                        "Jupiter:<div>-Europa</div><div>-Ganymed</div><div><br></div><div>Saturn:</div><div>-Titan</div><div>-Enceladus</div><div><br></div><div>-&gt; Durch starke Anziehung der Planeten wird das Wasser unter einer dicken Schicht aus Eis flüssig gehalten</div>",
+                        ""
+                    ],
+                    "guid": "xm+IHn2C+k",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne einige Spezielle Landing Sides des Marses:",
+                        "- Valles Marineris (Graben)<div><img src=\"paste-0a6735d10925236a45d5fb1744ddd00dae9bdd63.jpg\"><br></div><div>- Olympus Mons (vulcano)</div><div><img src=\"paste-f3245bdbbfd8b6b42f43b6be4392f95ef4f9da60.jpg\"><br></div>",
+                        ""
+                    ],
+                    "guid": "dX:b(2WxlM",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Besondere an der Mars-Atmosphäre?",
+                        "- 95% CO2-Atmosphäre<div>- starke Stürme auf dem Mars</div><div>- sehr niedriger Druck</div><div>- sehr niedrige Temperaturen: average -30°C, bis zu -130°C</div>",
+                        "<img src=\"paste-ddbf607460510a352236106c1e88c91745bec3a6.jpg\">"
+                    ],
+                    "guid": "vu9-{z&P[+",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann soll es auf dem Mars Wasser gegeben haben? Warum hat es heute keins mehr?",
+                        "Vor ca. <b>3-4 Bio. Years</b><div>-&gt; <b>Climate Change</b> auf dem mars: early weak magnetic field break togehter and mars was not shielded anymore</div><div>(das war ungefähr der Zeitpunkt, zu em auf der Erde leben entstand!)</div>",
+                        "<img src=\"paste-020061d771694d6460b0636611f203f5e38a9f63.jpg\"><div><img src=\"paste-45187b2d26e1b37fbe2904712fb2af04f1661653.jpg\"><br></div><div><img src=\"paste-85f6ebe82136a5ef3779945ecf1899a1be74a8da.jpg\"><br></div><div><img src=\"paste-255fb72d7469705bcab5696b8f8a864350c795b6.jpg\"><br></div>"
+                    ],
+                    "guid": "fn,Sqimrj{",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo wird Perseverence auf dem Mars landen?",
+                        "<b>Jezero Crater&nbsp;</b><div>-&gt; 45 km Krater (&gt; Nördlinger Rieß)</div>",
+                        "<img src=\"paste-db531ee8382e82c056f38abe54bde0b0eec5bdc5.jpg\"><div><img src=\"paste-9f60f35c8b5609e90f886dcec538caeb62c86270.jpg\"><br></div>"
+                    ],
+                    "guid": "n~l)`Kx?(B",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Woher weiß man wie alt die Krater auf dem Mars sind?",
+                        "<b>Crater size frequency measurement:</b><div>Je mehr crater eine Fläche hat umso älter ist sie. Methode muss calibriert werden. Funktioniert vor allem für alte Flächen, bei neueren ist die Methode nicht so zuverlässig, da der anfangsanstieg nicht linear ist.</div><div>(1Ga = 1 Billion years)</div>",
+                        "<img src=\"paste-db531ee8382e82c056f38abe54bde0b0eec5bdc5.jpg\">"
+                    ],
+                    "guid": "Qv&Tad/KNj",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wollen wir nachweisen ob es mal Leben auf dem Mars gab? (Perseverence)",
+                        "- Mineralogy search<div>- Chemical composition samples</div><div>- Biosignature</div>",
+                        "<img src=\"paste-8ca9df4d457c437ffbb087ab8c4d8262d4efaeb8.jpg\"><div>Biosignature:<br><div><img src=\"paste-d29dc90bc1aa27a8e4b4a5c034fb104153087ec1.jpg\"><br></div></div>"
+                    ],
+                    "guid": "s,+>E{Al~(",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche bisherigen Tests gab es zu Organismen unter schwierigen Bedingungen?",
+                        "1. Tests in DLR Mars simulation chamber (6 weeks) - survived and grow<div><img src=\"paste-8101850f66286f44c0d4c0d0645d5dcccb663340.jpg\"><br></div><div>2. Tests on outside of ISS -&gt; survived</div>",
+                        ""
+                    ],
+                    "guid": "s=kG[Z#2mb",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Kameras hat Perseverence?",
+                        "23 gesamt<div>- 9 engineering cameras</div><div>- 7 science cameras</div><div>- 7 entry, descent and landing cameras</div>",
+                        "<img src=\"paste-64f248861ad86ddb8a505ad63dd795459cc49479.jpg\">"
+                    ],
+                    "guid": "Bn(`QTJo::",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lief die Descent Phase of Perseverence ab?",
+                        "1. Entry into Atmosphere with HEat Shield<div>2. Supersonic Parachute deployment</div><div>3. Heat Shield Seperation</div><div>4. Radar searching for Landing Side and deciding on a Landing side</div><div>5. Backshell seperation (Descent with thrusters)</div><div>6. Sky Crane seperates Rover and landing</div><div>7. Sky crane fly away and crashes&nbsp;</div>",
+                        "<img src=\"paste-ab56bd4bf25332e1541cd5a393f7c8c8cc43fbdc.jpg\"><div><img src=\"_117003116_perserverance_landing_x2_640-nc.png\"><br></div>"
+                    ],
+                    "guid": "f-=N6^NJxd",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Ingenuity?",
+                        "Kleiner Helicopter bei Perseverence dabei, der auf der Mars-Overfläche rumfliegen soll<div>-1,8 kg</div><div>- besonders weil eig in dünner atmosphäre und bei bestimmten Höhen schwierig zu fliegen</div>",
+                        "<img src=\"paste-d966c07748eaad840e37d3e10bb2e622f9832389.jpg\"><div><img src=\"paste-44e8d4e2c2c74c4737da49f14ea524d504ff264c.jpg\"><br></div>"
+                    ],
+                    "guid": "v1`Z(?qR81",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche drei Möglichkeiten gibt es, um auf der Mars Oberfläche zu Landen?<div>Welche wurde bei Perseverence eingesetzt?</div><div>Warum wurde diese bei Perseverence eingesetzt?</div>",
+                        "- Typisch: <b>Retrorockets</b><div>- light Payloads: <b>Airbags</b></div><div>- more than 300 kg: new designed <b>SkyCrane </b>for <b>Perseverence</b></div>",
+                        "<img src=\"C676695D96A3416CB7610B2B7729140B.jpg\">"
+                    ],
+                    "guid": "zLB?0h-ed^",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "dff1a3be-84be-11eb-b6d4-fc4596679de3",
