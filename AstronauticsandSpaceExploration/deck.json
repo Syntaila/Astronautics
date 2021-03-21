@@ -98,7 +98,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie ist die Soyuz Kapsel aufgebaut?",
-                        "- <b>Orbital Module</b> mit Dockingadapter, 5m^2 Living room, Teleskop<div>- <b>Descent Module</b> mit 3,5m^2 Living room und allem für Wiedereintritt</div><div>- <b>Instrument Module</b> mit Electrical Power, Fuel Tanks, Soalr Panels, Antennas</div><div><br></div><div>7.48m auf D:2.72 mit 7220 kg</div>",
+                        "- <b>Orbital Module</b> mit Dockingadapter, 5m^3 Living room, Teleskop<div>- <b>Descent Module</b> mit 3,5m^3 Living room und allem für Wiedereintritt</div><div>- <b>Instrument Module</b> mit Electrical Power, Fuel Tanks, Soalr Panels, Antennas</div><div><br></div><div>7.48m auf D:2.72 mit 7220 kg</div>",
                         "<img src=\"paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg\">"
                     ],
                     "guid": "zedRlMKF$9",
@@ -464,7 +464,7 @@
                     "fields": [
                         "Wie viele Shuttle Flights gab es?",
                         "<b>135</b>: 12.04.1981-21.07.2011",
-                        "28 Columbia<div>10 Challenger</div><div>29 Discovery</div><div>33 Atlantis</div><div>25 Endeavour</div>"
+                        "<div>39 Discovery (häufigsten)<br></div><div>33 Atlantis (letztes)<br></div><div>28 Columbia (2003)<br></div><div>25 Endeavour (Ersatz Challenger)<br></div><div>10 Challenger (1986)</div>"
                     ],
                     "guid": "sJ%|lH@,,M",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -997,6 +997,7 @@
                 "paste-a66937ba98d3d45400c302cf6ae7930679755edc.jpg",
                 "paste-a73ba0b184e7afd339d8919aad273acea0132452.jpg",
                 "paste-a97740faec036521a6c9c86bc994c89f9ec8fdde.jpg",
+                "paste-bdc57eeb2c68ec242120d0c5b54bf13718a39b15.jpg",
                 "paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg",
                 "paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg",
                 "paste-df4a609ad5f976e658dc7d96386eb202eb224688.jpg",
@@ -1167,7 +1168,7 @@
                     "fields": [
                         "Wie können Metalle und Ogygen aus Regolith extrahiert werden?",
                         "<img src=\"paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg\"><div><img src=\"paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg\"><br></div>",
-                        "<div><b>Ice/ Volatile Extraction Process:</b></div><div>Uses Ice from Craters -&gt; 20-70 kg O2/t, 100°C</div><img src=\"paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg\"><div><br></div><div><b>Hydrogen Extraction Process:</b>&nbsp;<br><div>Uses FeO Fraction -&gt; 10-50 kg O2/t bei 800-1000°C</div></div><div><img src=\"paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg\"><br></div><div><br></div><div><b>Solid Carbothermal Extraction Process</b></div><div>FeO fraction -&gt; 10-50 kg O2/t at 800-1000°C</div><div><img src=\"paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg\"><br></div><div><br></div><div><b>Liquid Carbothermal Extraction Process</b></div><div>FeO and SiO2 fractions -&gt; 150-200 kg O2/t at &gt;1600°C</div><div><img src=\"paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg\"><br></div><div><br></div><div><b>Molten Regolith Electrolysis</b></div><div>All Oxide fractions -&gt; 160-400 kg O2/t, 1600-2000 °C</div><div><img src=\"paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg\"><br></div><div><br></div><div><b>FCC Cambridge/ Metalysis Process</b></div><div>All oxide Fractions -&gt; 250-400 kg O2/t at 800-950°C</div><div><img src=\"paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg\"><br></div>"
+                        "<div><b>Ice/ Volatile Extraction Process:</b></div><div>Uses Ice from Craters -&gt; 20-70 kg O2/t, 100°C</div><img src=\"paste-0b6cad1c93d1c9ace21e56cb544414ad6b0360e8.jpg\"><div><br></div><div><b>Hydrogen Extraction Process:</b>&nbsp;<br><div>Uses FeO Fraction -&gt; 10-50 kg O2/t bei 800-1000°C</div></div><div><img src=\"paste-09105357b3c63e5337f11df9600a242dcc4c9f47.jpg\"><br></div><div><br></div><div><b>Solid Carbothermal Extraction Process</b></div><div>FeO fraction -&gt; 10-50 kg O2/t at 800-1000°C</div><div><img src=\"paste-175e067ccb499e440a9b68ee48757a71c1c8c1b2.jpg\"><br></div><div><br></div><div><b>Liquid Carbothermal Extraction Process</b></div><div>FeO and SiO2 fractions -&gt; 150-200 kg O2/t at &gt;1600°C</div><div><img src=\"paste-ed0810017cb5947efc3cb6ad59c5732eb0ca9eee.jpg\"><br></div><div><br></div><div><b>Molten Regolith Electrolysis</b></div><div>All Oxide fractions -&gt; 160-400 kg O2/t, 1600-2000 °C</div><div>Aufschmelzen des Regolith und dann Kathode rein</div><div><img src=\"paste-1fa16d6a134bbf7b6694b5b99600f95e3aa9ca83.jpg\"><br></div><div><br></div><div><b>FCC Cambridge/ Metalysis Process</b></div><div>All oxide Fractions -&gt; 250-400 kg O2/t at 800-950°C</div><div>Kathode aus Regolith</div><div><img src=\"paste-c000f256111235a82b4f488688bffd64bc0dc31e.jpg\"><br></div>"
                     ],
                     "guid": "Nj.aWB?_q^",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1178,7 +1179,7 @@
                     "fields": [
                         "Welche ISRU Aktivitäten der ESA gibt es?",
                         "- PROSPECT<div>- Nutzlast mit Roscosmos-Mondlandegerät zur Erforschung der Südpolregion und Gasgewinnng</div><div>- Ent-to-End Demonstrator für ISRU Anlage</div><div>- Raumschiff EAC (ISRU Untersuchungen auf niedrigem Niveau)</div>",
-                        ""
+                        "<img src=\"paste-bdc57eeb2c68ec242120d0c5b54bf13718a39b15.jpg\">"
                     ],
                     "guid": "EFaskQ)w8u",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
@@ -1360,7 +1361,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Trainings durchläuft ein ausgewählter Astronaut?",
-                        "- <b>Basic</b> Training (1 Jahr)<div>- <b>Pre</b>-<b>assignment</b> Training (4-5 Jahre)</div><div>- <b>Assigned</b> Crew Training (2 Jahre)</div><div>- <b>On</b>-<b>board</b> Training</div>",
+                        "- <b>Basic</b> Training (1 Jahr)<div>- <b>Pre</b>-<b>assignment</b> Training (0-5 Jahre)</div><div>- <b>Assigned</b> Crew Training (2 Jahre)</div><div>- <b>On</b>-<b>board</b> Training</div>",
                         "<img src=\"paste-f59eed1ecd0be0c2f15bdb8f679bfdaedba81082.jpg\">"
                     ],
                     "guid": "z4a@M7B/4t",
@@ -1858,6 +1859,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Wie viele und welche Sample-Return Missionen von Asteroiden gibt es/ sind derzeit unterwegs?",
+                        "vier<div>- Stardust<br><div>- Hayabusa</div><div>- Hayabusa 2</div><div>- OSIRIS-REx</div></div>",
+                        ""
+                    ],
+                    "guid": "y32brk5nQS",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Wie unterscheiden sich Asteroiden/ Wie divers sind Asteroiden?",
                         "- <b>Location</b><div>- <b>Size</b></div><div>- <b>Farbe </b>(Albedo Range 0,01-0,9)</div><div>- <b>Form</b>/Shape: mit ring (technically Zwergplanet)</div><div>- Als <b>Asteroid Systems</b> (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><b>- Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div>",
                         "Location<div><img src=\"paste-002e29c12101735764a6e119651316c46b02f18c.jpg\"><br></div><div><br></div><div>Size</div><div><img src=\"paste-11437c910be9716c1f67fa9190133c4cc64e3258.jpg\"><br></div><div><br></div><div>Farbe (Albedo Range 0,01-0,9)</div><div><img src=\"paste-ceecb1c4fe8ef85a74d61302bb3d05a68352fe9b.jpg\"><br></div><div><br></div><div>Form/Shape: mit ring (technically Zwergplanet)</div><div><img src=\"paste-00aff634be95efd3a1d66e7b41d59522846257c3.jpg\"><br></div><div><br></div><div>Als Asteroid Systems (with moon or two similary objects, not stationary rotations -&gt; maybe start connection or breakup)</div><div><img src=\"paste-ecfb7dd009c04428970ea6c9b06701b62b228f13.jpg\"><br></div><div><br></div><div><b>Composition&nbsp;</b></div><div>Itokawa: Rubble pile aus Staub, no craters obwohl keine Atmosphäre vorhanden</div><div><img src=\"paste-0622524fc6335682f53d312a216c1413d97c8868.jpg\"><br></div><div>Churyumov-Gerasimenko: no impact crater, crater because below material gasses out and upper part collapses</div><div><img src=\"paste-cc5884933a57575c9d2ac6855625fb43fa902d97.jpg\"><br></div><div><br></div>"
@@ -2006,17 +2018,6 @@
                         ""
                     ],
                     "guid": "k=w5f8gMik",
-                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Wie viele und welche Sample-Return Missionen von Asteroiden gibt es/ sind derzeit unterwegs?",
-                        "vier<div>- Stardust<br><div>- Hayabusa</div><div>- Hayabusa 2</div><div>- OSIRIS-REx</div></div>",
-                        ""
-                    ],
-                    "guid": "y32brk5nQS",
                     "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
                     "tags": []
                 }
@@ -2269,7 +2270,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Welche Errungenschaften haben die Chinesen in der Raumfahrt geschafft?",
-                        "Anfang 2000 angehkündigt zum Mond zu fliegen (wurden am Anfang ausgelacht)<div>Chang E1&amp;2: 2007-09&nbsp;&nbsp;</div><div>Chang E3: 2013 Lander/Rover auf dem Mond</div><div>Chang E4: <b>2018/19 Far-Side Landing</b> (first landing on moon)</div><div>Chang E5: <b>2020 Sample Return</b> (first since Apollo from the Moon)</div><div>Chang E6: 2023 Sample Return</div>",
+                        "Anfang 2000 angehkündigt zum Mond zu fliegen (wurden am Anfang ausgelacht) China<div>Chang E1&amp;2: 2007-09&nbsp;&nbsp;</div><div>Chang E3: 2013 Lander/Rover auf dem Mond</div><div>Chang E4: <b>2018/19 Far-Side Landing</b> (first landing on moon)</div><div>Chang E5: <b>2020 Sample Return</b> (first since Apollo from the Moon)</div><div>Chang E6: 2023 Sample Return</div>",
                         "<img src=\"paste-d03c575b443e77de4e698f469a3377cbd4b44be2.jpg\">"
                     ],
                     "guid": "e*?nn1b>8M",
@@ -2707,6 +2708,575 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "aa60c141-8a97-11eb-a5b7-0028f82ae61b",
+            "deck_config_uuid": "a94b5bf2-87bf-11eb-aeaa-fc4596679de3",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "370px-Lagrange_very_massive.svg.png",
+                "paste-060fcb700fc794abdf06cc94e88c60a1f6c08879.jpg",
+                "paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg",
+                "paste-4045e882c03d1f23d78424e2f8717ad02f3d2209.jpg",
+                "paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg",
+                "paste-9367cd1ccc9562c96fdc4e9ec5b97bae192ddeb8.jpg",
+                "paste-ae95d344f1942847c2157c70e480ff166513e9a9.jpg",
+                "paste-bdc57eeb2c68ec242120d0c5b54bf13718a39b15.jpg",
+                "paste-cb9c06794d2630a36c3acec086f6ee163cb64f60.jpg",
+                "paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg",
+                "paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg",
+                "paste-dea802c57f9aa39170b52acea48045099554dbef.jpg",
+                "paste-ebaf2f84de5a24a945decd644e0e4ed275e3f42a.jpg",
+                "paste-f0b64fd6f3a70eff63fe698d8191539775a878d2.jpg",
+                "paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg"
+            ],
+            "name": "Z_Fragen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What defines ISECG?",
+                        "common goals and objectives of different groups",
+                        ""
+                    ],
+                    "guid": "bP-k4p2UH8",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is not part of ESA s exploration programm?",
+                        "-NEA?",
+                        ""
+                    ],
+                    "guid": "P=@[UrahZ(",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "NASAs moon mission in the future?",
+                        "- Artemis Programm",
+                        ""
+                    ],
+                    "guid": "A{K,T;;b6",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is not a&nbsp;Small Solar System Bodie?",
+                        "-Meteor",
+                        "nur Asteroiden, Meteride, Comets"
+                    ],
+                    "guid": "Q*c`*,]~Gd",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenschaften Asteroid?",
+                        "M,S,C Type<div><b>C-type</b>: Carbonaceous 75% of known asteroids (Mathilde), dark<br><b>S-type</b>: Silicaceous 17% (Eros), bright<br><b>M-type</b>: metallic 3rd most group (Kleopatra), bright<br></div>",
+                        "<img src=\"paste-dea802c57f9aa39170b52acea48045099554dbef.jpg\">"
+                    ],
+                    "guid": "D./Apr_wQ?",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which influence has Yarkovski Effect?",
+                        "Injecting into planet crossing orbits<div>a) non-uniform heating of rotating object<br>b) anisotropic emission of thermal photon<br>c) increase/decrease of prograde/retrograde rotation<br>--&gt; primary mechanism for injecting main belt asteroids (&lt;20km) into&nbsp;resonances and then into planet crossing orbits<br></div>",
+                        "<img src=\"paste-ae95d344f1942847c2157c70e480ff166513e9a9.jpg\">"
+                    ],
+                    "guid": "Cj{{4AN=6w",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sphere of influence?",
+                        "Defines which celestial body is dominating",
+                        ""
+                    ],
+                    "guid": "LNs/m=2cA~",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Ebenen haben einen Winkel kleiner 10°?",
+                        "Verschiedene Beispiele gegeben -&gt; Lunar orbital plane<br>with ecliptic",
+                        ""
+                    ],
+                    "guid": "khlA2Hu>>d",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird Soyuz zur Erde orientiert?",
+                        "– Mithilfe Infrarot Sensor",
+                        ""
+                    ],
+                    "guid": "C<0l7*6xD<",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lange kann sie autonom fliegen?",
+                        "4,2 Tage",
+                        ""
+                    ],
+                    "guid": "Ddab<ssUs_",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Take of Mass der Soyuz Kapsel?",
+                        "-7t",
+                        ""
+                    ],
+                    "guid": "I1#@*,@j}-",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieviele Module hat die Soyuz?",
+                        "3",
+                        "<img src=\"paste-2f5c3c9cac6e6cabd3aee2a59c5257624de02107.jpg\">"
+                    ],
+                    "guid": "gGc@4cO(#w",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Warum wird pressurized Sauerstoff bei der Sojuz in Orbital Modul gepumpt?",
+                        "???",
+                        ""
+                    ],
+                    "guid": "ls@e/*2p.A",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erste Achievement der Amerikaner im All?<div>erstes Tier<div>erster Mensch im All</div><div>erstes EVA</div><div>erster&nbsp;Satellit</div></div>",
+                        "X erstes Tier ?? Ham? zwar nach Laika aber er kam zurück<div>erster Mensch im All</div><div>erstes EVA</div><div>erster Satellit</div>",
+                        ""
+                    ],
+                    "guid": "J+KAVjQA=8",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erster Chinese, Russe, Amerikaner im all?",
+                        "Ami: Alan Shepard<div>Russe: Yuri Gagarin</div><div>China: Yang Liwei</div><div>Europa: Vladimir Remek (Tschecch-Slowakai)&nbsp;</div><div>Deutscher: Siegmund Jähn</div><div>Japaner: Toyohiro Akiyama</div><div>Kanada:&nbsp;Joseph Jean-Pierre Marc Garneau</div>",
+                        ""
+                    ],
+                    "guid": "rv1hi8yLjT",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war 20 jahre nach 1961 (nachdem der erste Mensch im All war):",
+                        "-erstes Space Shuttle",
+                        ""
+                    ],
+                    "guid": "I9u*h>/::U",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Cargo Fahrzeuge nach der Reihe:",
+                        "ATV (2008), HTV(2009), Dragon(2020), Cygnus",
+                        ""
+                    ],
+                    "guid": "E}@jFd2<qU",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer war am längsten im All?",
+                        "Valery Polyakov stadey 438 days in Space",
+                        ""
+                    ],
+                    "guid": "tR9&AI(E@6",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lang war Space shuttle In Betrieb?",
+                        "30 Jahre",
+                        ""
+                    ],
+                    "guid": "e$W|AuXZb4",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches Space Shuttle hatte die meisten Flüge:",
+                        "Discovery (39)<div>Atlantis (33)</div><div>Columbia (28)</div><div>Endevour (25)</div><div>Challenger (10)</div>",
+                        ""
+                    ],
+                    "guid": "xWcW7+#A1",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Landing sites of SpaceShuttle",
+                        "- Kennedy Space Center (78)<div>- Edwards Airforce Base (54)</div><div>- White Sands (1) (Umgeleitet, eigentlich Edwards AFB)</div>",
+                        ""
+                    ],
+                    "guid": "A~J[=c4Udg",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war keine Payload von Space Shuttle?",
+                        "-&gt; verschiedene Optionen und Skylab war die Richtige<br>Antwort (Skylab auf Saturn V oder 1B)",
+                        ""
+                    ],
+                    "guid": "A6(._Q4qt^",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ab welchem Training ist ein Astronaut ein Astronaut?",
+                        "Basic Training",
+                        ""
+                    ],
+                    "guid": "C89OJAbTpM",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was war kein Teil des Basic Training?",
+                        "Teile des Basic Trainings:<div><div>- Vorbereitung der Astronauten auf Nebenaufgaben (ESA-Botschafter, Bildungs- und Medienveranstaltungen, EUROCOM, Unterstützung der Crew)</div></div><div><div>-&gt;&nbsp;<b>Transport Vehicles</b></div><div>-&gt;&nbsp;<b>ISS Operations</b>, Interaction between Partners, Control Centers and Crew</div><div>-&gt;&nbsp;<b>Crew Health Care</b>&nbsp;System</div><div>-&gt;&nbsp;<b>European ISS contributions&nbsp;</b>(Columbus)</div><div>-&gt;&nbsp;<b>Generic Robotic Training</b>&nbsp;GRT</div><div>-&gt; Basic Training&nbsp;<b>Special Skills</b>&nbsp;in Parabolic Flights, NBF, Russisch, Human PErformance, Documentations, Survival Skills</div></div>",
+                        ""
+                    ],
+                    "guid": "n*dDY]CcsF",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wem wird nicht HBP beigebracht?",
+                        "– ESA Psychologen richtige Antwort",
+                        "what? sagt mir nix"
+                    ],
+                    "guid": "puS@0D0J^c",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist kein Teil des Astronautentrainings in ESA?",
+                        "<div><b><u>Allgemeine Dinge die ein Astronaut lernt:</u></b></div>- getting to a Space Station -&gt;&nbsp;<b>crew-vehicle-training</b><div>-&nbsp;<b>Scientific Work</b></div><div>-&nbsp;<b>Maintanence</b>&nbsp;and Repair (ISS auf 10-15 Jahre ausgelegt, jetzt 20)</div><div>- Support to Visiting&nbsp;<b>Supply Vehicles</b>&nbsp;(safety critical)</div><div>-&nbsp;<b>Living on Board</b></div><div>-&nbsp;<b>Emergencies</b>&nbsp;(Fire, Rapid Depressurisation, Toxic Spill)</div><div>-&gt;&nbsp;<b>Transport Vehicles</b><br></div><div><b><br></b></div><div><b><u>Basic:</u></b></div><div>-&gt;&nbsp;<b>Crew Health Care</b>&nbsp;System<b><br></b></div><div>-&gt;&nbsp;<b>European ISS contributions&nbsp;</b>(Columbus)<br></div><div><div>-&gt;&nbsp;<b>Generic Robotic Training</b>&nbsp;GRT</div><div>-&gt; Basic Training&nbsp;<b>Special Skills</b>&nbsp;in Parabolic Flights, NBF, Russisch, Human PErformance, Documentations, Survival Skills</div></div><div><br></div><div><b><u>Pre Assignment:</u></b></div><div>- weiterführendes&nbsp;<b>EVA</b>&nbsp;Training<div>-&nbsp;<b>Robotics</b></div><div>-&nbsp;<b>Analogue</b>&nbsp;Training (CAVES/PANGAEA)</div><div>-&nbsp;<b>Language</b></div><div>-&nbsp;<b>EUROCOM</b></div><div>-&nbsp;<b>Parabolic</b>&nbsp;Flights</div><div>-&nbsp;<b>NEEMO</b></div></div><div><b><u><br></u></b></div><div><b><u>Assignment Training</u></b></div><div>- Individual Training<div>- Wird an&nbsp;<b>allen</b>&nbsp;ISS-Trainingsstandorten durchgeführt</div><div>- folgt strengen Richtlinien und Regeln</div><div>- Wird zwischen den ISS-Partnern koordiniert</div><div>- Montage, Aktivierung und Check-Out (Systeme und Nutzlasten)</div><div>- Nominal- and Off-Nominal operations</div><div>- Planned On-board recovery and repair</div><div>- On-board experiments and payloads</div></div><div><br></div><div><b><u>On Board Trainings:</u></b></div><div>- Refreshes for Activities (regelmäßige&nbsp;<b>Notfallübungen</b>)<div>-&nbsp;<b>Maintanence</b>: aufrechterhaltung kritischer operativer Fähigkeiten z.B. Rendezvous &amp; Docking&nbsp;<br><div>- Vorbereitung auf ungeplante Aktivitäten:&nbsp;<b>something breaks&nbsp;</b></div></div></div>",
+                        ""
+                    ],
+                    "guid": "G8|$0x}X}7",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Future Mars Mission von ESA?",
+                        "Exomars",
+                        ""
+                    ],
+                    "guid": "OfHK96ETl/",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Größter Anteil in Mars Atmosphäre?",
+                        "CO2 = 95%",
+                        ""
+                    ],
+                    "guid": "H>^cm(,,3[",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was hat der Mars nicht?<div>Atmosphäre</div><div>Liquid Core</div><div>Mantle Crust</div><div>und noch eins<br></div>",
+                        "<div>Atmosphäre (dünne)</div><div>Liquid Core (ja hat er)</div><div>Mantle Crust (vermutlich, da er einen flüssigen Kern hat)</div><div>und noch eins (vermutliche Antwort)</div>",
+                        ""
+                    ],
+                    "guid": "IqW[|n(eYa",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo hat man am meisten Radiation Einfluss wenn man zum Mars fliegt?",
+                        "Beim Transfer",
+                        ""
+                    ],
+                    "guid": "Ba0-`jffZ%",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heißen die Monde vom Mars?",
+                        "Phobos &amp; Deimos",
+                        ""
+                    ],
+                    "guid": "zMJ>T}pZ;b",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was kommt im Regolith am meisten vor?",
+                        "O2",
+                        "<img src=\"paste-f8d41f0f4efcb9c297f891fb0a37c9aaed03ce1f.jpg\">"
+                    ],
+                    "guid": "k{W5_E}c(*",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Über aktuelle Mondlandemissionen Bescheid wissen",
+                        "<div><b>Amerikaner:</b></div><div>LRO &amp; LCROSS 2009</div><div>THEMIS-ARTEMIS 2010</div><div>GRAIL 2011-12</div><div>LADEE 2013</div><div>ARTEMIS: 2024</div><div><br></div><div><b>Russland:</b></div><div>LUNA 25-29 2021</div><div><br></div><div><b>Japaner:</b></div><div>SELENE 2007-2009</div><div>SLIM 2022</div><div><div>LUPEX 2024</div><div>HERACLES<br></div></div><div><br></div><div><b>Inder:</b></div><div>LUPEX 2024</div><div>CHANDRAYAAN1 2008</div><div>CHANDRAYAAN2 2019<br></div><div>CHANDRAYAAN3 2021<br></div><div><br></div><div><b>ESA:</b></div><div>HERACLES</div><div><br></div><div><b>Chinesen:</b></div>Chang E5:&nbsp;<b>2020 Sample Return</b>&nbsp;(first since Apollo from the Moon)<div>Chang E6: 2023 Sample Return</div>",
+                        "<img src=\"paste-cb9c06794d2630a36c3acec086f6ee163cb64f60.jpg\">"
+                    ],
+                    "guid": "LX^Nh7[-5z",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welches Land schaffte eine soft landing auf dem Mond?",
+                        "<div>Russland 1966 erste weiche landung</div><div>Amerika 1969&nbsp;<br></div>",
+                        ""
+                    ],
+                    "guid": "tpGE]gFCAh",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equatorial vs Pol Vorteile Nachteile kennen",
+                        "<div><img src=\"paste-f0b64fd6f3a70eff63fe698d8191539775a878d2.jpg\"><br></div>Polar Site - Equatorial<div>little He3 - He3</div><div>Meteoriten reduced - Oft Meteoriten</div><div>Reduzierte Strahlung - Hohe Strahlung</div><div>reduced Astronomy - full Astronomy</div><div>Earth always visible - earth always or never visible</div><div>permanently Power - reduces solar power</div>",
+                        "<img src=\"paste-4045e882c03d1f23d78424e2f8717ad02f3d2209.jpg\">"
+                    ],
+                    "guid": "lbij0MGEYc",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vorteil Molten Regolith Electrolysis gegenüber ISRU?",
+                        "Frage macht keinen Sinn - In Situ resource utilisation<div><br></div><div>Molten Regolith Electrolysis:</div><div><u>Vorteile:</u><br></div><div>-Sauerstoff und die Metalle</div><div><br></div><div><u>Nachteile:</u></div><div>-Hohe Temperaturen</div>",
+                        "<img src=\"paste-cdd2224b2c8b9a88468e855dc3a02155035854dc.jpg\"><div><img src=\"paste-7395f7055cf53dd54ee6058bf3110ac57e82100d.jpg\"><br></div>"
+                    ],
+                    "guid": "yc6ExA%|S3",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How is ESA enabling Luna ISRU?",
+                        "-PROSPECT<div>-Spaceship EAC</div>",
+                        "<img src=\"paste-bdc57eeb2c68ec242120d0c5b54bf13718a39b15.jpg\">"
+                    ],
+                    "guid": "GasO=>,`dR",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which facility wird grad developed?",
+                        "-LUNA ???",
+                        "<img src=\"paste-060fcb700fc794abdf06cc94e88c60a1f6c08879.jpg\">"
+                    ],
+                    "guid": "n_NH*d~N%k",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist LESA?",
+                        "-Rescue Modul for incapacitated astronaut",
+                        ""
+                    ],
+                    "guid": "twzGg&kOw=",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer hat die meisten EVAs?<div>Land und Anzahl wissen<br></div>",
+                        "<div>Amerika 232 auf der ISS (nur amerikainscher Anzug)</div>",
+                        ""
+                    ],
+                    "guid": "L)/S(E.65$",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ordne nach der Anzahl an EVA s:<div>Luca Parmitano, Fuglesang, Thomas Reiter, Alexander Gerst<br></div>",
+                        "Luca Parmitano, Fuglesang, Thomas Reiter, Alexander Gerst",
+                        "<img src=\"paste-d362fd2774cd24ea8658654e67143240c8253f4b.jpg\">"
+                    ],
+                    "guid": "mi.BzcB+kE",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo sind die Trainingszentren für Astronauten und wie heißen sie?",
+                        "ESA - Cologne<div>ROSCOSMOS - Moscow</div><div>NASA - Houston</div><div>JAXA - Tsukuba</div>",
+                        "<img src=\"paste-ebaf2f84de5a24a945decd644e0e4ed275e3f42a.jpg\">"
+                    ],
+                    "guid": "sSK{tO0NC;",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wofür stehen TRL/TBC/TBD in der Raumfahrt normalerweise?",
+                        "TRL&nbsp; - Technology Readiness Level<div>TBC - to be confirmed?</div><div>TBD - to be done?</div>",
+                        ""
+                    ],
+                    "guid": "Cn^Dv*NVNG",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Apollo 1 - Was war da los? Was führte zum Unglück?",
+                        "Kurzschluss im Instumentenmodul/Kapsel<div>-&gt; Feuer, Astronauten erstickten</div>",
+                        ""
+                    ],
+                    "guid": "7n,?C|O^J",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Liberationspunkte Erde-Sonne, welche Winkel, welche Abstände in km und AE?",
+                        "L1, L2: 0,01 AE von der Erde entfernt = 1,5 Mio km<div>L3: 2,01 AE von der Erde<br><div>L4, L5: 60° Winkel&nbsp;</div></div><div>1AE = 150 Mio km</div>",
+                        "<img src=\"370px-Lagrange_very_massive.svg.png\">"
+                    ],
+                    "guid": "GmqEW&33|k",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ESA Astronauten - Wer ist gerade oben, wer war der letzte deutsche und wann wurden sie ausgewählt?",
+                        "2009<div>- Gerst 2009 ausgewählt, Maurer 2010 nachgeholt</div><div><br></div><div>ISS Besatzung März 2021:</div><div>2 Russen Sergej &amp; Sergej</div><div>4 Amis Kathleen Rubins, Michael Jopkins, Victor Glover, Shannon Walker</div><div>1 Japaner Soichi Noguchi</div><div><br></div><div>Nächste:</div><div>Japaner: Akihiko Hoshide</div><div>Franzose: Thomas Pesquet</div><div><br></div><div>Danach (Mitte September 2021)</div><div>Mathias Maurer</div>",
+                        ""
+                    ],
+                    "guid": "F7M,nz2;7J",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was beschreibt die Einflusssphäre (Sphere of Influence)?",
+                        "<img src=\"paste-9367cd1ccc9562c96fdc4e9ec5b97bae192ddeb8.jpg\">",
+                        ""
+                    ],
+                    "guid": "C-sxK^+]4C",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "State the year of the following space events:&nbsp;<div>first artifical satellite,&nbsp;</div><div>first human in space,&nbsp;</div><div>first manned landing on the moon,&nbsp;</div><div>first ISS module.</div>",
+                        "<div>first artifical satellite, 1957</div><div>first human in&nbsp;space, 1961</div><div>first manned landing on the moon, 1969</div><div>first ISS module. 1998</div>",
+                        ""
+                    ],
+                    "guid": "vR^>LV-+[~",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Name and explain the three imperatives of space eyploration.",
+                        "to explore -&gt; cultural: expand human experience, advance, lern, inspire,<br>engage youth and public<br>to understand -&gt; scientific: knowledge and understanding to fundamental<br>questions<br>to unify -&gt; political: toward a global endeavour",
+                        ""
+                    ],
+                    "guid": "N4-QsHLXQo",
+                    "note_model_uuid": "ed9d3d04-473a-11ea-b42c-eff3ce899a65",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "dff1a3be-84be-11eb-b6d4-fc4596679de3",
@@ -2791,7 +3361,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 15,
                 "separate": true
             },
             "newMix": 0,
